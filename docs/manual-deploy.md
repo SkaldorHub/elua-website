@@ -5,7 +5,7 @@ Falls die GitHub Actions Free-Minuten aufgebraucht sind (privates Repo: 2000 Min
 1. Aktuellen Stand lokal holen und exportieren:
    ```
    npx webstudio sync
-   npx webstudio build
+   npx webstudio build --template ssg
    ```
    Der Static Export landet im `dist/`-Ordner (siehe `.gitignore` – wird nicht mit dem Quellcode committet)
 
