@@ -5,10 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+permissions: {}
 
 concurrency:
   group: pages
@@ -17,15 +14,17 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npx webstudio sync
+      - run: npx --yes webstudio@0.298.0 sync
         env:
           WEBSTUDIO_TOKEN: ${{ secrets.WEBSTUDIO_TOKEN }}
-      - run: npx webstudio build
+      - run: npx --yes webstudio@0.298.0 build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -33,6 +32,9 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
