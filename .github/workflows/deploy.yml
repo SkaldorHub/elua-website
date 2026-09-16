@@ -21,9 +21,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npx --yes webstudio@0.298.0 sync
+      - run: npx --yes webstudio@0.298.0 link --link "$WEBSTUDIO_LINK"
         env:
-          WEBSTUDIO_TOKEN: ${{ secrets.WEBSTUDIO_TOKEN }}
+          WEBSTUDIO_LINK: ${{ secrets.WEBSTUDIO_LINK }}
+      - run: npx --yes webstudio@0.298.0 sync
       - run: npx --yes webstudio@0.298.0 build
       - uses: actions/upload-pages-artifact@v3
         with:
