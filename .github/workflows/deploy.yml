@@ -26,9 +26,11 @@ jobs:
           WEBSTUDIO_LINK: ${{ secrets.WEBSTUDIO_LINK }}
       - run: npx --yes webstudio@0.298.0 sync
       - run: npx --yes webstudio@0.298.0 build --template ssg
+      - run: npm ci
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: dist/client
 
   deploy:
     needs: build

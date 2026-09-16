@@ -1,0 +1,14 @@
+[
+  "app/__generated__/$.server.tsx",
+  "app/__generated__/$.tsx",
+  "app/__generated__/$resources.assets.ts",
+  "app/__generated__/$resources.redirects.ts",
+  "app/__generated__/$resources.sitemap.xml.ts",
+  "app/__generated__/$resources.wsauth.server.ts",
+  "app/__generated__/_index.server.tsx",
+  "app/__generated__/_index.tsx",
+  "app/__generated__/index.css",
+  "pages/index/+Head.tsx",
+  "pages/index/+Page.tsx",
+  "pages/index/+data.ts"
+]

@@ -2,3 +2,4 @@ notes
 node_modules/
 dist/
 .env.development
+.webstudio/auth.json

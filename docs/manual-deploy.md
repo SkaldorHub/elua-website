@@ -6,12 +6,14 @@ Falls die GitHub Actions Free-Minuten aufgebraucht sind (privates Repo: 2000 Min
    ```
    npx webstudio sync
    npx webstudio build --template ssg
+   npm ci
+   npm run build
    ```
-   Der Static Export landet im `dist/`-Ordner (siehe `.gitignore` – wird nicht mit dem Quellcode committet)
+   Der Static Export landet in `dist/client/` (siehe `.gitignore` – wird nicht mit dem Quellcode committet)
 
 2. Export auf den `gh-pages`-Branch pushen:
    ```
-   npx gh-pages -d dist
+   npx gh-pages -d dist/client
    ```
    (einmalig `npm i -D gh-pages` falls noch nicht installiert)
 
