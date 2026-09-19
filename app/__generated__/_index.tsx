@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 17;
+      export const projectVersion = 19;
 
       export const projectDomain = "elua-website-wfqnj";
 
