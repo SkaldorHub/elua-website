@@ -225,8 +225,26 @@
   .c10d0h1t {
     flex-shrink: 0
   }
-  .c1fooy8k {
-    max-width: 42rem
+  .ckakxdc {
+    min-height: 100vh
+  }
+  .c4slh24 {
+    background-color: #faf8f5
+  }
+  .c3d4jks {
+    color: #1f1d1b
+  }
+  .c1qo29i3 {
+    font-family: ui-serif, Georgia, Cambria, serif
+  }
+  .c156exrs {
+    line-height: 1.7
+  }
+  .ceryciz {
+    font-size: 1.125rem
+  }
+  .ci6tkds {
+    max-width: 44rem
   }
   .c1kxakyg {
     margin-top: 0
@@ -240,85 +258,112 @@
   .crkgmla {
     margin-left: auto
   }
-  .cwq4l34 {
-    padding-top: 5rem
+  .cs92iqi {
+    padding-top: 6rem
   }
   .c1oxwlyr {
     padding-right: 1.5rem
   }
-  .c1u74j40 {
-    padding-bottom: 6rem
+  .c1v6udmw {
+    padding-bottom: 4rem
   }
   .c1pnb8mk {
     padding-left: 1.5rem
   }
-  .c1c5fbvg {
-    color: #1a1a1a
+  .ca4tta7 {
+    margin-bottom: 5rem
   }
-  .cxtc2yz {
-    line-height: 1.65
-  }
-  .cg3e4ay {
-    margin-bottom: 4rem
-  }
-  .cpnw7q0 {
-    font-size: 4rem
+  .cbowm78 {
+    font-size: 0.8rem
   }
   .c1aa4719 {
     font-weight: 600
   }
-  .cplcfhb {
-    letter-spacing: -0.03em
-  }
-  .ck10si5 {
-    margin: 0
-  }
-  .c1ms36tz {
-    font-size: 1.25rem
-  }
-  .cfpd5tf {
-    color: #666666
-  }
-  .czgk29l {
-    margin-top: 0.75rem
-  }
-  .c3wpgfv {
-    margin-right: 0
-  }
-  .cc66th3 {
-    margin-left: 0
-  }
-  .c1vpe8sg {
-    margin-bottom: 3.5rem
-  }
-  .c2jph5x {
-    font-size: 0.85rem
-  }
-  .c58rtt8 {
-    letter-spacing: 0.12em
+  .cf1attx {
+    letter-spacing: 0.16em
   }
   .cs8rlgd {
     text-transform: uppercase
   }
-  .c2c5k78 {
-    margin-bottom: 1rem
+  .chkynr5 {
+    color: #8a3b2e
   }
-  .c1wht1no {
-    margin-bottom: 2rem
+  .c3wpgfv {
+    margin-right: 0
+  }
+  .c1miagds {
+    margin-bottom: 1.25rem
+  }
+  .cc66th3 {
+    margin-left: 0
+  }
+  .cm7eaj7 {
+    font-size: clamp(4rem,14vw,7rem)
+  }
+  .c1os3ujs {
+    letter-spacing: -0.04em
+  }
+  .c1ghymp5 {
+    line-height: 0.95
+  }
+  .co3blr9 {
+    margin-bottom: 1.5rem
+  }
+  .c1x6opbc {
+    font-size: 1.4rem
+  }
+  .c1sfzkjq {
+    line-height: 1.45
+  }
+  .cb9iu1a {
+    color: #5c5751
+  }
+  .c1ymd236 {
+    max-width: 32rem
+  }
+  .ck10si5 {
+    margin: 0
+  }
+  .c1qjs2i8 {
+    padding-top: 1.5rem
+  }
+  .cg3e4ay {
+    margin-bottom: 4rem
+  }
+  .c11e6sfd {
+    border-top: 1px solid #ddd8cf
   }
   .c1y0bxh1 {
     margin-bottom: 0.75rem
   }
-  .c2sb2fd {
-    padding-top: 0
+  .cyg1c3p {
+    margin-bottom: 3rem
+  }
+  .c1i59pof {
+    letter-spacing: -0.01em
+  }
+  .c2c5k78 {
+    margin-bottom: 1rem
+  }
+  .c1dx4yrh {
+    list-style-type: none
+  }
+  .co5evuj {
+    padding: 0
+  }
+  .c1nlb6m7 {
+    padding-top: 0.6rem
   }
   .c102c05l {
     padding-right: 0
   }
-  .c10rivbs {
-    padding-bottom: 0
+  .c1pmd8c3 {
+    padding-bottom: 0.6rem
   }
-  .cym7624 {
-    padding-left: 1.25rem
+  .c8if3ao {
+    padding-left: 0
+  }
+  .c1u8xjlp {
+    border-bottom: 1px solid #e9e5dd
   }
 }
