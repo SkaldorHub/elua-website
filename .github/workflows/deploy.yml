@@ -33,6 +33,8 @@ jobs:
       - run: npm run build
         env:
           BASE_PATH: /${{ github.event.repository.name }}/
+      - name: Copy static files
+        run: cp -R static/. dist/client/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist/client

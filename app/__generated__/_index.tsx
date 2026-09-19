@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 11;
+      export const projectVersion = 13;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -41,131 +41,184 @@
 return <body
 className={`w-element`}>
 <main
-className={`w-element ckakxdc c196phoo c1c5uzfd cm97zpn c19d2ofe cisbuu3`}>
+className={`w-element ckakxdc c196phoo c1c5uzfd cm97zpn cxtc2yz cisbuu3`}>
 <nav
-className={`w-element c1p4jstk c1epf1wg c1su6x14 c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1`}>
+className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1`}>
 <Link
 href={"#top"}
-className={`w-element c1ln6udm c1ms36tz c1yzhsul c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
+className={`w-element c5ehj5z c1xsh9ye cplcfhb c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
 {"Elua"}
 </Link>
 <div
-className={`w-element c1fni2gu c17v894l c1410kxv`}>
+className={`w-element c1fni2gu ch59csv c7rku33 c1410kxv`}>
 <Link
-href={"#chor"}
+href={"#kontakt"}
 className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
-{"Der Chor"}
+{"Kontakt"}
+</Link>
+<Link
+href={"#entstehung"}
+className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
+{"Chor"}
+</Link>
+<Link
+href={"#auftritte"}
+className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
+{"Auftritte"}
 </Link>
 <Link
 href={"#programm"}
 className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 {"Programm"}
 </Link>
-<Link
-href={"#kontakt"}
-className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
-{"Kontakt"}
-</Link>
 </div>
 </nav>
 <header
 id={"top"}
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr chbzvtw c1pnb8mk`}>
-<p
-className={`w-element c2jph5x c1aa4719 c29rfcg cs8rlgd ckrg0rz c1kxakyg c3wpgfv c2c5k78 cc66th3`}>
-{"Herrenchor · Berlin"}
-</p>
+className={`w-element carurm8 c44sqzw c1v5na84 c1hvjv08 cr73skb c1oxwlyr c1v6udmw c1pnb8mk`}>
+<div
+className={`w-element cmqlbh0 ckvkhsx cbm7ykc cxwgg1e c1tkj4ur cdl88ck clhhl65 c7rui0g c15peyda cblyl8b`} />
+<div
+className={`w-element cmqlbh0 c1i2vr79 cprot4m c965u9v c16cw6j7 cdl88ck clhhl65 c7rui0g c15peyda cc1ra7`} />
+<div
+className={`w-element carurm8 c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
 <h1
-className={`w-element cr0lsj1 c5ehj5z c10kbkik cv4xff c1kxakyg c3wpgfv c168i0q1 cc66th3`}>
+className={`w-element c1mmah3s c5ehj5z c10kbkik cv4xff c1kxakyg c3wpgfv c2c5k78 cc66th3 c1c5uzfd`}>
 {"Elua"}
 </h1>
 <p
-className={`w-element c1xa7iz5 c1ehpvx0 cad4b79 cl59rov ck10si5`}>
-{"A cappella, vierstimmig, von Pop bis Klassik. Junge Stimmen aus Berliner Kinderchören."}
+className={`w-element cgkvnzw c1aa4719 c1yzhsul c5e6w5u ckrg0rz c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
+{"ein junger A Cappella Herren-Chor"}
 </p>
-</header>
-<div
-className={`w-element c1bjaiqd c1kxakyg cpyhlwk c1tzot5x crkgmla c2sb2fd cltxqtt c10rivbs c1o9cloj`}>
 <Image
-alt={"Der Chor Elua in dunklen Hemden mit weißen Krawatten-Konturen am Ostseestrand"}
-className={`w-image c7uoxt9 c1ixa9ew c18lr0js c1yv389r c18hm1qj c18z7uhg cws4gg9`} />
+src={"https://skaldorhub.github.io/elua-website/elua-chor.jpg"}
+alt={"Der Chor Elua"}
+width={1800}
+height={1055}
+className={`w-image c7uoxt9 c1ixa9ew c18lr0js c1yme3y ciu4q36 c9iy04b chvpv9n cntcnzt`} />
+<p
+className={`w-element c1xsh9ye c1bfxqio c1fooy8k c11l0vn6 c3wpgfv c1wht1no cc66th3`}>
+{"Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren."}
+</p>
+<div
+className={`w-element c1fni2gu ch59csv cguguel c1s04uh8`}>
+<Link
+href={"#auftritte"}
+className={`w-element cs5sncq c1hieppo cmo2fg c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i c1o9kkc7 c1dbbrfc co5m4vr cjrtad cdl88ck clhhl65 c7rui0g c15peyda`}>
+{"Konzerte"}
+</Link>
+<Link
+href={"#kontakt"}
+className={`w-element cs5sncq ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i c1d3cbvm cfgcddy cu9o29w ckll0e1 cdl88ck clhhl65 c7rui0g c15peyda c1kpt0l0`}>
+{"Buchen Sie uns"}
+</Link>
 </div>
+</div>
+</header>
 <section
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1ooda3d c1oxwlyr c1tfuuut c1pnb8mk c1fni2gu ch59csv c6xwvyh c1qosxxb`}>
+className={`w-element c1hieppo cmo2fg c10o4lk0 c1oxwlyr c15p5c1a c1pnb8mk`}>
+<h2
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c8e2bpj c5ehj5z cplcfhb cbfdb7q`}>
+{"Neue Chorsänger sind willkommen!"}
+</h2>
+</section>
+<section
+id={"kontakt"}
+className={`w-element c18hit7g c1tyyjqo`}>
 <div
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv2ukmp chq7uda`}>
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr c1uvta3p c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y`}>
+<h2
+className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+{"Kontakt"}
+</h2>
+<div
+className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 cskg0t6 c10v7lzm c1o2dzk6 c7zsd6i c1ft92md`}>
 <p
-className={`w-element c1g1tps7 c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv cz42c5i cc66th3`}>
-{"ab 16"}
+className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ca0eorc ck10si5`}>
+{"Mail: "}
+<Link
+href={"mailto:kontakt@example.org"}
+className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
+{"kontakt@example.org"}
+</Link>
 </p>
 <p
-className={`w-element cad4b79 ck10si5`}>
-{"Männer im Ensemble, Anfang 2026 neu zusammengefunden"}
+className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ca0eorc ck10si5`}>
+{"Chorleitung: Rosemarie Arzt und Frederik Botthof"}
+</p>
+<p
+className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ck10si5`}>
+{"Sänger: Luis Jeromin"}
 </p>
 </div>
-<div
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv2ukmp chq7uda`}>
-<p
-className={`w-element c1g1tps7 c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv cz42c5i cc66th3`}>
-{"4 Stimmen"}
-</p>
-<p
-className={`w-element cad4b79 ck10si5`}>
-{"a cappella, teils halbszenisch inszeniert"}
-</p>
 </div>
+</section>
+<section
+id={"entstehung"}
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr chbzvtw c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y c1tyyjqo`}>
+<h2
+className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+{"Entstehung des Chores"}
+</h2>
 <div
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv2ukmp chq7uda`}>
+className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
 <p
-className={`w-element c1g1tps7 c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv cz42c5i cc66th3`}>
-{"1. Preis"}
+className={`w-element c1kxakyg c3wpgfv c1miagds cc66th3`}>
+{"Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine vierstimmig singende a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang."}
 </p>
 <p
-className={`w-element cad4b79 ck10si5`}>
-{"Kinder- und Jugendchorwettbewerb Erwitte 2024"}
+className={`w-element ck10si5`}>
+{"Nun hat sich dieses Herrenensembles neu zusammengefunden und beginnt den künstlerischen und stilistischen Horizont zu erweitern."}
 </p>
 </div>
 </section>
 <section
-id={"chor"}
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cs92iqi c1oxwlyr c1u74j40 c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y c1tyyjqo`}>
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla ct33hin c1oxwlyr c1uvta3p c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp c1hzi01d c5ehj5z cplcfhb cbfdb7q ck10si5`}>
-{"Der Chor"}
+className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+{"Leitung"}
+</h2>
+<div
+className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
+<p
+className={`w-element ck10si5`}>
+{"Der Neustart geht einher mit einer Leitungserweiterung: Rosemarie Arzt und Frederik Botthof leiten Elua gemeinsam, als künstlerische Doppelspitze."}
+</p>
+</div>
+</section>
+<section
+id={"auftritte"}
+className={`w-element c18hit7g c1tyyjqo`}>
+<div
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr c1uvta3p c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y`}>
+<h2
+className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+{"Auftritte"}
 </h2>
 <div
 className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
 <p
 className={`w-element c1ms36tz c1bfxqio c1kxakyg c3wpgfv co3blr9 cc66th3`}>
-{"Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der Deutschen Oper oder in vergleichbaren Kinderchören erhalten."}
+{"Einen Chor wie diesen gibt es im deutschsprachigen Sprachraum nicht häufig. Sie werden gerne zu Auftritten bei besonderen Events eingeladen, sind zu hören auf Chorfestivals im In- und Ausland und Konzertreihen in Berlin und im Berliner Umland."}
 </p>
 <p
-className={`w-element cad4b79 c1kxakyg c3wpgfv co3blr9 cc66th3`}>
-{"Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine vierstimmig singende a-cappella-Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang. Anfang dieses Jahres hat sich das Herrenensemble neu zusammengefunden und erweitert nun seinen künstlerischen und stilistischen Horizont."}
+className={`w-element cad4b79 ck10si5`}>
+{"Ihre Auftritte sind immer Ausdruck ihrer ausdauernden Freude am Chorsingen, das von klein auf zu ihrem Leben gehört. Weiterhin gestalten sie auch einige Stücke halbszenisch - zur Freude des Publikums. Dabei erstreckt sich die Literatur von Klassik bis Pop."}
 </p>
-<p
-className={`w-element c1aa4719 ck10si5`}>
-{"Künstlerische Leitung: Rosemarie Arzt und Frederik Botthof"}
-</p>
+</div>
 </div>
 </section>
 <section
 id={"programm"}
-className={`w-element c18hit7g c1tyyjqo`}>
-<div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cs92iqi c1oxwlyr c1u74j40 c1pnb8mk`}>
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr c1u74j40 c1pnb8mk c1tyyjqo`}>
 <h2
-className={`w-element c1hzi01d c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
-{"Programm"}
+className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv cwgo70q cc66th3 c1o9cloj c1aaeh9d`}>
+{"Auswahl aus den Programmen:"}
 </h2>
-<p
-className={`w-element cad4b79 c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
-{"Eine Auswahl aus unseren Programmen."}
-</p>
 <div
 className={`w-element c1fni2gu ch59csv c17v894l c1410kxv`}>
 <div
-className={`w-element c8urlaq c1cs5b61 ccqja4s c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1ft92md cifypgb`}>
+className={`w-element c8urlaq c1cs5b61 ccqja4s c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb`}>
 <h3
 className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3`}>
 {"Popsongs"}
@@ -182,11 +235,7 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Laut sein (MayBeBop)"}
-</li>
-<li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Schlaraffenland (MayBeBop)"}
+{"Laut sein, Schlaraffenland (MayBeBop)"}
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
@@ -198,16 +247,16 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Don't Stop Me Now (Queen)"}
+{"Don't stop me now, Love of my life (Queen)"}
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Love of My Life (Queen)"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
+{"etc."}
 </li>
 </ul>
 </div>
 <div
-className={`w-element c8urlaq c1cs5b61 ccqja4s c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1ft92md cifypgb`}>
+className={`w-element c8urlaq c1cs5b61 ccqja4s c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb`}>
 <h3
 className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3`}>
 {"Klassische Männerchöre aus allen Epochen"}
@@ -228,79 +277,47 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Unvollendete Sinfonie von Schubert (a cappella)"}
+{"a capella Version Unvollendete Sinfonie von Schubert"}
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 {"Das Morgenrot"}
 </li>
+<li
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
+{"etc."}
+</li>
 </ul>
 </div>
 </div>
-</div>
-</section>
-<section
-id={"kontakt"}
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cs92iqi c1oxwlyr c1u74j40 c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y c1tyyjqo`}>
-<h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp c1hzi01d c5ehj5z cplcfhb cbfdb7q ck10si5`}>
-{"Kontakt"}
-</h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
-<p
-className={`w-element c1ms36tz c1bfxqio c1kxakyg c3wpgfv c1wht1no cc66th3`}>
-{"Anfragen, Buchungen und Auftritte: Wir freuen uns auf Ihre Nachricht."}
-</p>
-<p
-className={`w-element c1kxakyg c3wpgfv c1lh7hrq cc66th3 cad4b79 c2jph5x cnfcbd3 cs8rlgd`}>
-{"E-Mail"}
-</p>
-<p
-className={`w-element c1kxakyg c3wpgfv co3blr9 cc66th3`}>
-<Link
-href={"mailto:kontakt@example.org"}
-className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
-{"kontakt@example.org"}
-</Link>
-</p>
-<p
-className={`w-element c1kxakyg c3wpgfv c1lh7hrq cc66th3 cad4b79 c2jph5x cnfcbd3 cs8rlgd`}>
-{"Telefon"}
-</p>
-<p
-className={`w-element c1kxakyg c3wpgfv co3blr9 cc66th3`}>
-<Link
-href={"tel:+49301234567"}
-className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
-{"+49 30 1234567"}
-</Link>
-</p>
-<p
-className={`w-element c1kxakyg c3wpgfv c1lh7hrq cc66th3 cad4b79 c2jph5x cnfcbd3 cs8rlgd`}>
-{"Ort"}
-</p>
-<p
-className={`w-element ck10si5`}>
-{"Berlin"}
-</p>
-</div>
 </section>
 <footer
-className={`w-element c7zyfjo cmo2fg c1e7dhwu c1oxwlyr chbzvtw c1pnb8mk`}>
+className={`w-element c7zyfjo cmo2fg c1ooda3d c1oxwlyr c1v6udmw c1pnb8mk`}>
 <div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 c6k4006 cguguel c1s04uh8`}>
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 cjf24wm c1unx8kw`}>
+<div
+className={`w-element`}>
 <p
-className={`w-element c1ln6udm c1ms36tz c1yzhsul ck10si5`}>
-{"Elua"}
+className={`w-element c1ln6udm c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
+{"Kontakt:"}
 </p>
 <p
-className={`w-element cv4z1hz ck10si5`}>
-{"Herrenchor aus Berlin · a cappella"}
+className={`w-element cn23irv ck10si5`}>
+{"Rosemarie Arzt, Leitung"}
+<br
+className={`w-element`} />
+{"Musterstraße 1,"}
+<br
+className={`w-element`} />
+{"12345 Berlin"}
+<br
+className={`w-element`} />
+{"+49 30 1234567"}
 </p>
+</div>
 <Link
 href={"impressum/"}
-className={`w-element cmo2fg czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
+className={`w-element cmo2fg czsdg6 c1hpe72s c1ahvl7i ct9id28 c1ohtfey`}>
 {"Impressum"}
 </Link>
 </div>
