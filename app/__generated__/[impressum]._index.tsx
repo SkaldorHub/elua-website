@@ -37,7 +37,7 @@ className={`w-element`}>
 <main
 className={`w-element ckakxdc c196phoo c1c5uzfd cm97zpn cxtc2yz cisbuu3`}>
 <nav
-className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1`}>
+className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1 c1rbapu4 c1pmyemu c1ka1nus cptnrsl c12mddlq cl9u8ij cxjlt08 c1cqhbqj`}>
 <Link
 href={"../"}
 className={`w-element c5ehj5z c1xsh9ye cplcfhb c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
@@ -49,34 +49,18 @@ className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 {"Zur Startseite"}
 </Link>
 </nav>
-<header
-className={`w-element carurm8 c44sqzw c1v5na84 c1hvjv08 cr73skb c1oxwlyr c1v6udmw c1pnb8mk`}>
 <div
-className={`w-element cmqlbh0 ckvkhsx cbm7ykc cxwgg1e c1tkj4ur cdl88ck clhhl65 c7rui0g c15peyda cblyl8b`} />
-<div
-className={`w-element cmqlbh0 c1yqf92g cprot4m c965u9v c16cw6j7 cdl88ck clhhl65 c7rui0g c15peyda cc1ra7`} />
-<div
-className={`w-element carurm8 c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
+className={`w-element c1ooda3d c1oxwlyr c1u74j40 c1pnb8mk ci6tkds crkgmla cpyhlwk`}>
 <h1
-className={`w-element chlpgfo c5ehj5z czjdkqw c1ghymp5 c1c5uzfd ck10si5`}>
+className={`w-element c13k4j8o c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv cwgo70q cc66th3`}>
 {"Impressum"}
 </h1>
-</div>
-</header>
-<section
-className={`w-element c18hit7g cwq4l34 c1oxwlyr c1u74j40 c1pnb8mk`}>
-<div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu c1805a2t c9qs7cs ck2weg6`}>
-<div
-className={`w-element c1fni2gu ch59csv c17v894l c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cfdgukb c5ehj5z c1yzhsul c5e6w5u c1o9cloj c13a7xur c1ltluz0 csafaus c1aaeh9d ck10si5`}>
+className={`w-element c1ftnuc5 c1ln6udm c1kxakyg c3wpgfv cz42c5i cc66th3`}>
 {"Angaben gemäß § 5 DDG"}
 </h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1qjs2i8 c10v7lzm czqz6fc c7zsd6i c1ft92md`}>
 <p
-className={`w-element ck10si5`}>
+className={`w-element c1kxakyg c3wpgfv c1wht1no cc66th3`}>
 {"Verein Familienmusizieren e.V., c/o Rosemarie Arzt"}
 <br
 className={`w-element`} />
@@ -85,49 +69,31 @@ className={`w-element`} />
 className={`w-element`} />
 {"12101 Berlin"}
 </p>
-</div>
-</div>
-<div
-className={`w-element c1fni2gu ch59csv c17v894l c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cfdgukb c5ehj5z c1yzhsul c5e6w5u c1o9cloj c13a7xur c1ltluz0 csafaus c1aaeh9d ck10si5`}>
+className={`w-element c1ftnuc5 c1ln6udm c1kxakyg c3wpgfv cz42c5i cc66th3`}>
 {"Vereinsregister"}
 </h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1qjs2i8 c10v7lzm czqz6fc c7zsd6i c1ft92md`}>
 <p
-className={`w-element ck10si5`}>
+className={`w-element c1kxakyg c3wpgfv c1wht1no cc66th3`}>
 {"Registernummer: VR 33933 B"}
 <br
 className={`w-element`} />
 {"Registergericht: Berlin-Charlottenburg"}
 </p>
-</div>
-</div>
-<div
-className={`w-element c1fni2gu ch59csv c17v894l c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cfdgukb c5ehj5z c1yzhsul c5e6w5u c1o9cloj c13a7xur c1ltluz0 csafaus c1aaeh9d ck10si5`}>
+className={`w-element c1ftnuc5 c1ln6udm c1kxakyg c3wpgfv cz42c5i cc66th3`}>
 {"Vertreten durch"}
 </h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1qjs2i8 c10v7lzm czqz6fc c7zsd6i c1ft92md`}>
 <p
-className={`w-element ck10si5`}>
+className={`w-element c1kxakyg c3wpgfv c1wht1no cc66th3`}>
 {"Rosemarie Arzt"}
 </p>
-</div>
-</div>
-<div
-className={`w-element c1fni2gu ch59csv c17v894l c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cfdgukb c5ehj5z c1yzhsul c5e6w5u c1o9cloj c13a7xur c1ltluz0 csafaus c1aaeh9d ck10si5`}>
+className={`w-element c1ftnuc5 c1ln6udm c1kxakyg c3wpgfv cz42c5i cc66th3`}>
 {"Kontakt"}
 </h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1qjs2i8 c10v7lzm czqz6fc c7zsd6i c1ft92md`}>
 <p
-className={`w-element ck10si5`}>
+className={`w-element c1kxakyg c3wpgfv c1wht1no cc66th3`}>
 {"Telefon: 01704845912"}
 <br
 className={`w-element`} />
@@ -138,49 +104,34 @@ className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
 {"mail@familienmusizieren.com"}
 </Link>
 </p>
-</div>
-</div>
-<div
-className={`w-element c1fni2gu ch59csv c17v894l c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cfdgukb c5ehj5z c1yzhsul c5e6w5u c1o9cloj c13a7xur c1ltluz0 csafaus c1aaeh9d ck10si5`}>
+className={`w-element c1ftnuc5 c1ln6udm c1kxakyg c3wpgfv cz42c5i cc66th3`}>
 {"Redaktionell verantwortlich"}
 </h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1qjs2i8 c10v7lzm czqz6fc c7zsd6i c1ft92md`}>
 <p
-className={`w-element ck10si5`}>
+className={`w-element c1kxakyg c3wpgfv c1wht1no cc66th3`}>
 {"Rosemarie Arzt"}
 </p>
-</div>
-</div>
-<div
-className={`w-element c1fni2gu ch59csv c17v894l c14ova3y`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cfdgukb c5ehj5z c1yzhsul c5e6w5u c1o9cloj c13a7xur c1ltluz0 csafaus c1aaeh9d ck10si5`}>
+className={`w-element c1ftnuc5 c1ln6udm c1kxakyg c3wpgfv cz42c5i cc66th3`}>
 {"Verbraucherstreitbeilegung/Universalschlichtungsstelle"}
 </h2>
-<div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1qjs2i8 c10v7lzm czqz6fc c7zsd6i c1ft92md`}>
 <p
-className={`w-element ck10si5`}>
+className={`w-element c1kxakyg c3wpgfv c1wht1no cc66th3`}>
 {"Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."}
 </p>
-</div>
-</div>
 <p
 className={`w-element c2jph5x cad4b79 ck10si5`}>
 {"Quelle: "}
 <Link
 href={"https://www.e-recht24.de/impressum-generator.html"}
-className={`w-element cad4b79`}>
+className={`w-element c2jph5x cad4b79 ck10si5`}>
 {"https://www.e-recht24.de/impressum-generator.html"}
 </Link>
 </p>
 </div>
-</section>
 <footer
-className={`w-element c7zyfjo cmo2fg ccr1t9u c1oxwlyr c1s5rcms c1pnb8mk`}>
+className={`w-element c7zyfjo cmo2fg ccr1t9u c1oxwlyr c1s5rcms c1pnb8mk c1tnig5v cl9u8ij ckpur3n c1cqhbqj`}>
 <div
 className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 c6k4006 cguguel c1s04uh8`}>
 <p

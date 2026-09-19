@@ -21,6 +21,8 @@
 | Import bricht bei Assets ab, Cloud bleibt unverändert | Asset-Upload braucht API-Recht, der Import wird dann komplett abgebrochen | `import --skip-assets` |
 | `DESTRUCTIVE_CONFIRMATION_REQUIRED` | Schutz vor versehentlichem Löschen | Aufruf unverändert mit `confirmDestructive: true` und dem zurückgegebenen `confirmationToken` wiederholen (Token läuft schnell ab) |
 | Import hat Änderungen anderer überschrieben | `import` ersetzt das ganze Cloud-Projekt | Vorher `sync` und `git diff`. Wiederherstellung über `.webstudio/data.json` aus Git, siehe Rollback. |
+| Abstand oder Breite aus einem lokalen Style greift im Export nicht | Token und lokaler Style setzen dieselbe Eigenschaft, im Export gewinnt das Token | Eigenes Token für die Abweichung anlegen, siehe [selfhost-editing.md](selfhost-editing.md) |
+| Tokens tauchen doppelt auf (`banner-1`, `section-1`) und alte Eigenschaften bleiben | `apply-design.py` wurde mit geänderten Token-Definitionen erneut ausgeführt | Lokales Projekt zurücksetzen, siehe [selfhost-editing.md](selfhost-editing.md) |
 
 ## Lokaler Builder (Selfhost)
 

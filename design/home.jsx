@@ -1,89 +1,95 @@
-<main ws:style={css`min-height: 100vh; background-color: #ffffff; color: #14122b; font-family: ui-sans-serif, system-ui, -apple-system, Helvetica, Arial, sans-serif; line-height: 1.65; font-size: 1.0625rem;`}>
-  <nav ws:style={css`position: sticky; top: 0; z-index: 20; display: flex; justify-content: space-between; align-items: center; padding: 1rem 1.5rem; background-color: #ffffff; border-bottom: 1px solid #e7e6f0;`}>
-    <a href="#top" ws:style={css`font-weight: 800; font-size: 1.35rem; letter-spacing: -0.03em; color: #14122b; text-decoration: none;`}>Elua</a>
-    <div ws:style={css`display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem;`}>
-      <a href="#kontakt" ws:style={css`color: #5b5a70; text-decoration: none; font-size: 0.95rem;`}>Kontakt</a>
-      <a href="#entstehung" ws:style={css`color: #5b5a70; text-decoration: none; font-size: 0.95rem;`}>Chor</a>
-      <a href="#auftritte" ws:style={css`color: #5b5a70; text-decoration: none; font-size: 0.95rem;`}>Auftritte</a>
-      <a href="#programm" ws:style={css`color: #5b5a70; text-decoration: none; font-size: 0.95rem;`}>Programm</a>
+<main tokens="page">
+  <nav tokens="nav">
+    <a href="#top" tokens="nav-brand">Elua</a>
+    <div tokens="nav-links">
+      <a href="#kontakt" tokens="nav-link">Kontakt</a>
+      <a href="#entstehung" tokens="nav-link">Chor</a>
+      <a href="#auftritte" tokens="nav-link">Auftritte</a>
+      <a href="#programm" tokens="nav-link">Programm</a>
     </div>
   </nav>
-  <header id="top" ws:style={css`position: relative; overflow: hidden; background-image: linear-gradient(180deg, #eceeff 0%, #ffffff 100%); padding: 4.5rem 1.5rem 4rem;`}>
-    <div ws:style={css`position: absolute; top: -9rem; right: -7rem; width: 30rem; height: 30rem; border-radius: 9999px; background-image: radial-gradient(circle at 35% 35%, #c9ccff 0%, rgba(201, 204, 255, 0) 70%);`}></div>
-    <div ws:style={css`position: absolute; bottom: 12rem; left: -9rem; width: 24rem; height: 24rem; border-radius: 9999px; background-image: radial-gradient(circle at 60% 40%, #ffd9e8 0%, rgba(255, 217, 232, 0) 70%);`}></div>
-    <div ws:style={css`position: relative; max-width: 72rem; margin: 0 auto;`}>
-      <h1 ws:style={css`font-size: clamp(4.5rem, 20vw, 10rem); font-weight: 800; letter-spacing: -0.06em; line-height: 0.9; margin: 0 0 1rem; color: #14122b;`}>Elua</h1>
-      <p ws:style={css`font-size: clamp(1.5rem, 4vw, 2.5rem); font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; color: #4f46e5; margin: 0 0 3rem;`}>ein junger A Cappella Herren-Chor</p>
-      <Image src="https://skaldorhub.github.io/elua-website/elua-chor.jpg" alt="Der Chor Elua" width={1800} height={1055} ws:style={css`display: block; width: 100%; height: auto; border-radius: 1.5rem; box-shadow: 0 30px 60px -20px rgba(20, 18, 43, 0.35);`} />
-      <p ws:style={css`font-size: 1.35rem; line-height: 1.5; max-width: 62rem; text-wrap: balance; margin: 3rem 0 0;`}>Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren.</p>
+  <header id="top" tokens="hero">
+    <div tokens="blob-indigo"></div>
+    <div tokens="blob-pink"></div>
+    <div tokens="container" ws:style={css`position: relative;`}>
+      <h1 tokens="display-title">Elua</h1>
+      <p tokens="subtitle">ein junger A Cappella Herren-Chor</p>
+      <Image tokens="hero-image" src="https://skaldorhub.github.io/elua-website/elua-chor.jpg" alt="Der Chor Elua" width={1800} height={1055} />
+      <p tokens="lead">Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren.</p>
     </div>
   </header>
-  <section ws:style={css`background-color: #4f46e5; color: #ffffff; padding: 3.5rem 1.5rem;`}>
-    <h2 ws:style={css`max-width: 72rem; margin: 0 auto; font-size: clamp(1.75rem, 5vw, 3rem); font-weight: 800; letter-spacing: -0.03em; line-height: 1.1;`}>Neue Chorsänger sind willkommen!</h2>
+  <section tokens="banner">
+    <h2 tokens="banner-title">Neue Chorsänger sind willkommen!</h2>
   </section>
-  <section id="kontakt" ws:style={css`background-color: #f4f3fa; scroll-margin-top: 4rem;`}>
-    <div ws:style={css`max-width: 72rem; margin: 0 auto; padding: 5rem 1.5rem; display: flex; flex-wrap: wrap; gap: 2rem 4rem;`}>
-      <h2 ws:style={css`flex: 1 1 14rem; font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0; padding-left: 1rem; border-left: 4px solid #4f46e5; align-self: flex-start;`}>Kontakt</h2>
-      <div ws:style={css`flex: 2 1 26rem; max-width: 40rem; background-color: #ffffff; border: 1px solid #e7e6f0; border-radius: 1.25rem; padding: 0.5rem 2rem;`}>
-        <p ws:style={css`margin: 0; padding: 1.1rem 0; border-bottom: 1px solid #ecebf4;`}>Mail: <a href="mailto:info@elua-chor.de" ws:style={css`color: #4f46e5; font-weight: 600; text-decoration: none;`}>info@elua-chor.de</a></p>
-        <p ws:style={css`margin: 0; padding: 1.1rem 0;`}>Chorleitung: Rosemarie Arzt und Frederik Botthof</p>
+  <section id="kontakt" tokens="section section-tint pt-lg pb-lg">
+    <div tokens="section-row">
+      <h2 tokens="title-bar section-title">Kontakt</h2>
+      <div tokens="section-body card" ws:style={css`padding: 0.5rem 2rem;`}>
+        <p tokens="row row-divider">Mail: <a href="mailto:info@elua-chor.de" tokens="link">info@elua-chor.de</a></p>
+        <p tokens="row">Chorleitung: Rosemarie Arzt und Frederik Botthof</p>
       </div>
     </div>
   </section>
-  <section id="entstehung" ws:style={css`max-width: 72rem; margin: 0 auto; padding: 5rem 1.5rem 3rem; display: flex; flex-wrap: wrap; gap: 2rem 4rem; scroll-margin-top: 4rem;`}>
-    <h2 ws:style={css`flex: 1 1 14rem; font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0; padding-left: 1rem; border-left: 4px solid #4f46e5; align-self: flex-start;`}>Entstehung des Chores</h2>
-    <div ws:style={css`flex: 2 1 26rem; max-width: 40rem;`}>
-      <p ws:style={css`margin: 0 0 1.25rem;`}>Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine vierstimmig singende a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang.</p>
-      <p ws:style={css`margin: 0;`}>Nun hat sich dieses Herrenensembles neu zusammengefunden und beginnt den künstlerischen und stilistischen Horizont zu erweitern.</p>
-    </div>
-  </section>
-  <section ws:style={css`max-width: 72rem; margin: 0 auto; padding: 2rem 1.5rem 5rem; display: flex; flex-wrap: wrap; gap: 2rem 4rem;`}>
-    <h2 ws:style={css`flex: 1 1 14rem; font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0; padding-left: 1rem; border-left: 4px solid #4f46e5; align-self: flex-start;`}>Leitung</h2>
-    <div ws:style={css`flex: 2 1 26rem; max-width: 40rem;`}>
-      <p ws:style={css`margin: 0;`}>Der Neustart geht einher mit einer Leitungserweiterung: Rosemarie Arzt und Frederik Botthof leiten Elua gemeinsam, als künstlerische Doppelspitze.</p>
-    </div>
-  </section>
-  <section id="auftritte" ws:style={css`background-color: #f4f3fa; scroll-margin-top: 4rem;`}>
-    <div ws:style={css`max-width: 72rem; margin: 0 auto; padding: 5rem 1.5rem; display: flex; flex-wrap: wrap; gap: 2rem 4rem;`}>
-      <h2 ws:style={css`flex: 1 1 14rem; font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0; padding-left: 1rem; border-left: 4px solid #4f46e5; align-self: flex-start;`}>Auftritte</h2>
-      <div ws:style={css`flex: 2 1 26rem; max-width: 40rem;`}>
-        <p ws:style={css`font-size: 1.25rem; line-height: 1.5; margin: 0 0 1.5rem;`}>Einen Chor wie diesen gibt es im deutschsprachigen Sprachraum nicht häufig. Sie werden gerne zu Auftritten bei besonderen Events eingeladen, sind zu hören auf Chorfestivals im In- und Ausland und Konzertreihen in Berlin und im Berliner Umland.</p>
-        <p ws:style={css`color: #5b5a70; margin: 0;`}>Ihre Auftritte sind immer Ausdruck ihrer ausdauernden Freude am Chorsingen, das von klein auf zu ihrem Leben gehört. Weiterhin gestalten sie auch einige Stücke halbszenisch - zur Freude des Publikums. Dabei erstreckt sich die Literatur von Klassik bis Pop.</p>
+  <section id="entstehung" tokens="section pt-lg pb-md">
+    <div tokens="section-row">
+      <h2 tokens="title-bar section-title">Entstehung des Chores</h2>
+      <div tokens="section-body">
+        <p tokens="text">Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine vierstimmig singende a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang.</p>
+        <p tokens="text-last">Nun hat sich dieses Herrenensembles neu zusammengefunden und beginnt den künstlerischen und stilistischen Horizont zu erweitern.</p>
       </div>
     </div>
   </section>
-  <section id="programm" ws:style={css`max-width: 72rem; margin: 0 auto; padding: 5rem 1.5rem 6rem; scroll-margin-top: 4rem;`}>
-    <h2 ws:style={css`font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 2.5rem; padding-left: 1rem; border-left: 4px solid #4f46e5;`}>Auswahl aus den Programmen:</h2>
-    <div ws:style={css`display: flex; flex-wrap: wrap; gap: 1.5rem;`}>
-      <div ws:style={css`flex: 1 1 20rem; background-color: #ffffff; border: 1px solid #e7e6f0; border-top: 4px solid #4f46e5; border-radius: 1.25rem; padding: 2rem; box-shadow: 0 20px 40px -24px rgba(20, 18, 43, 0.25);`}>
-        <h3 ws:style={css`font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.25rem;`}>Popsongs</h3>
-        <ul ws:style={css`list-style-type: none; margin: 0; padding: 0;`}>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>California Dreaming</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Mad World</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Laut sein, Schlaraffenland (MayBeBop)</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Junge (Die Ärzte)</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Wochenend und Sonnenschein</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Don't stop me now, Love of my life (Queen)</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4; color: #5b5a70;`}>etc.</li>
-        </ul>
-      </div>
-      <div ws:style={css`flex: 1 1 20rem; background-color: #ffffff; border: 1px solid #e7e6f0; border-top: 4px solid #4f46e5; border-radius: 1.25rem; padding: 2rem; box-shadow: 0 20px 40px -24px rgba(20, 18, 43, 0.25);`}>
-        <h3 ws:style={css`font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 1.25rem;`}>Klassische Männerchöre aus allen Epochen</h3>
-        <ul ws:style={css`list-style-type: none; margin: 0; padding: 0;`}>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Frühlingsgruß</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Der Lindenbaum</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Tourdion</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>a capella Version Unvollendete Sinfonie von Schubert</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4;`}>Das Morgenrot</li>
-          <li ws:style={css`padding: 0.65rem 0; border-top: 1px solid #ecebf4; color: #5b5a70;`}>etc.</li>
-        </ul>
+  <section tokens="section pt-sm pb-lg">
+    <div tokens="section-row">
+      <h2 tokens="title-bar section-title">Leitung</h2>
+      <div tokens="section-body">
+        <p tokens="text-last">Der Neustart geht einher mit einer Leitungserweiterung: Rosemarie Arzt und Frederik Botthof leiten Elua gemeinsam, als künstlerische Doppelspitze.</p>
       </div>
     </div>
   </section>
-  <footer ws:style={css`background-color: #14122b; color: #ffffff; padding: 2.5rem 1.5rem;`}>
-    <div ws:style={css`max-width: 72rem; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem;`}>
-      <p ws:style={css`font-weight: 800; font-size: 1.25rem; letter-spacing: -0.03em; margin: 0;`}>Elua</p>
-      <a href="impressum/" ws:style={css`color: #c9c8de; text-decoration: underline; font-size: 0.95rem;`}>Impressum</a>
+  <section id="auftritte" tokens="section section-tint pt-lg pb-lg">
+    <div tokens="section-row">
+      <h2 tokens="title-bar section-title">Auftritte</h2>
+      <div tokens="section-body">
+        <p tokens="text-lead">Einen Chor wie diesen gibt es im deutschsprachigen Sprachraum nicht häufig. Sie werden gerne zu Auftritten bei besonderen Events eingeladen, sind zu hören auf Chorfestivals im In- und Ausland und Konzertreihen in Berlin und im Berliner Umland.</p>
+        <p tokens="text-muted">Ihre Auftritte sind immer Ausdruck ihrer ausdauernden Freude am Chorsingen, das von klein auf zu ihrem Leben gehört. Weiterhin gestalten sie auch einige Stücke halbszenisch - zur Freude des Publikums. Dabei erstreckt sich die Literatur von Klassik bis Pop.</p>
+      </div>
+    </div>
+  </section>
+  <section id="programm" tokens="section pt-lg pb-xl">
+    <div tokens="container">
+      <h2 tokens="title-bar mb-lg">Auswahl aus den Programmen:</h2>
+      <div tokens="card-row">
+        <div tokens="card card-raised">
+          <h3 tokens="card-title">Popsongs</h3>
+          <ul tokens="list">
+            <li tokens="list-item">California Dreaming</li>
+            <li tokens="list-item">Mad World</li>
+            <li tokens="list-item">Laut sein, Schlaraffenland (MayBeBop)</li>
+            <li tokens="list-item">Junge (Die Ärzte)</li>
+            <li tokens="list-item">Wochenend und Sonnenschein</li>
+            <li tokens="list-item">Don't stop me now, Love of my life (Queen)</li>
+            <li tokens="list-item list-item-muted">etc.</li>
+          </ul>
+        </div>
+        <div tokens="card card-raised">
+          <h3 tokens="card-title">Klassische Männerchöre aus allen Epochen</h3>
+          <ul tokens="list">
+            <li tokens="list-item">Frühlingsgruß</li>
+            <li tokens="list-item">Der Lindenbaum</li>
+            <li tokens="list-item">Tourdion</li>
+            <li tokens="list-item">a capella Version Unvollendete Sinfonie von Schubert</li>
+            <li tokens="list-item">Das Morgenrot</li>
+            <li tokens="list-item list-item-muted">etc.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer tokens="footer">
+    <div tokens="footer-inner">
+      <p tokens="footer-brand">Elua</p>
+      <a href="impressum/" tokens="footer-link">Impressum</a>
     </div>
   </footer>
 </main>

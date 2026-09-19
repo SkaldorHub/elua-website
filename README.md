@@ -27,8 +27,9 @@ Wichtig: Der CI-Lauf holt den Stand **direkt aus der Cloud**. Das Repo ist eine 
 | `.webstudio/config.json` | Projekt-ID (kein Secret) | nein |
 | `app/`, `pages/`, `renderer/`, `vite.config.ts`, `package.json` | Von `webstudio build` erzeugt, wird bei jedem Build überschrieben | nein |
 | `static/` | Dateien, die 1:1 in die Seite kopiert werden (Chorfoto) | ja |
-| `design/` | JSX-Quellen des Layouts für das automatisierte Einspielen | ja |
+| `design/` | Layout-Quellen (`home.jsx`, `impressum.jsx`) und alle Design-Tokens (`tokens.json`) | ja |
 | `scripts/build.sh` | Build, identisch lokal und in CI | ja |
+| `scripts/apply-design.py` | Spielt `design/` in einen lokalen Webstudio-Builder ein (siehe selfhost-editing.md) | ja |
 | `.github/workflows/deploy.yml` | CI: sync, build, deploy | ja |
 | `docs/` | Diese Dokumentation | ja |
 | `notes/` | Lokale Notizen, per `.gitignore` nicht im Git | lokal |

@@ -47,13 +47,19 @@ Zusätzlich zum Impressum ist eine Datenschutzerklärung nötig (DSGVO). GitHub 
 
 Das Chorfoto ist laut Team eigenes Material. Den Urheber im Impressum unter "Bildnachweis" nennen.
 
-## Design-Eckdaten
+## Design und Tokens
 
-Für ein einheitliches Erscheinungsbild:
+Das Design ist in Webstudio über **Design-Tokens** aufgebaut (etwa 50 Stück): Farben, Schriftgrößen, Abstände, Karten, Navigation, Footer. Ein Element trägt mehrere Tokens, lokale Styles gibt es nur noch für wenige Einzelfälle. Für Tablet, Mobile landscape und Mobile portrait sind an den Tokens eigene Werte hinterlegt (kleinere Abstände und Schriften, die Farbverlauf-Kreise im Kopf entfallen auf dem Handy).
 
-- Hell und modern, Systemschrift (`ui-sans-serif`), große fette Überschriften
-- Tinte `#14122b`, Akzent Indigo `#4f46e5`, Flächen `#f4f3fa`, Linien `#e7e6f0`, Text gedämpft `#5b5a70`
-- Die Quellen liegen in `design/home.jsx` und `design/impressum.jsx`
+Eckdaten für ein einheitliches Erscheinungsbild: hell und modern, Systemschrift, große fette Überschriften, Tinte `#14122b`, Akzent Indigo `#4f46e5`, Flächen `#f4f3fa`, Linien `#e7e6f0`, gedämpfter Text `#5b5a70`.
+
+**Wo man was ändert:**
+
+- **Im Builder** (Style-Panel, Tokens): Eine Farbe oder Größe an einem Token ändern wirkt auf alle Elemente, die es nutzen. Das ist der bequeme Weg für Feinschliff.
+- **Im Repo** (`design/tokens.json` plus `scripts/apply-design.py`): Für Umbauten in größerem Stil, siehe [selfhost-editing.md](selfhost-editing.md).
+- **Nur eine Quelle pflegen.** Änderungen im Builder landen nicht in `design/tokens.json`. Wer danach das Skript ausführt, überschreibt sie. Entweder ihr pflegt das Design im Builder (dann ist `design/` nur der Ausgangsstand), oder im Repo (dann werden Builder-Änderungen vor dem Einspielen dort nachgetragen).
+
+Nicht umgesetzt: wiederverwendbare Komponenten. Navigation und Footer sind pro Seite eigene Elemente, weil sie sich unterscheiden (Anker auf der Startseite, Rücklink im Impressum). Bei mehr Seiten wäre ein geteilter Kopf- und Fußbereich (Webstudio "Slot") sinnvoll.
 
 ## Offene Punkte
 

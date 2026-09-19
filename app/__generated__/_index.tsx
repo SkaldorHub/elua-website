@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 19;
+      export const projectVersion = 21;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -43,14 +43,14 @@ className={`w-element`}>
 <main
 className={`w-element ckakxdc c196phoo c1c5uzfd cm97zpn cxtc2yz cisbuu3`}>
 <nav
-className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1`}>
+className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1 c1rbapu4 c1pmyemu c1ka1nus cptnrsl c12mddlq cl9u8ij cxjlt08 c1cqhbqj`}>
 <Link
 href={"#top"}
 className={`w-element c5ehj5z c1xsh9ye cplcfhb c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
 {"Elua"}
 </Link>
 <div
-className={`w-element c1fni2gu ch59csv c7rku33 c1410kxv`}>
+className={`w-element c1fni2gu ch59csv c7rku33 c1410kxv c1w0a532 c1orux75`}>
 <Link
 href={"#kontakt"}
 className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
@@ -75,11 +75,11 @@ className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 </nav>
 <header
 id={"top"}
-className={`w-element carurm8 c44sqzw c1v5na84 c1hvjv08 cr73skb c1oxwlyr c1v6udmw c1pnb8mk`}>
+className={`w-element carurm8 c44sqzw c1v5na84 c1hvjv08 cr73skb c1oxwlyr c1v6udmw c1pnb8mk cz9iki cxeac54 c137lgh0 c193da0t c1yltqt4 c1pmyemu c1eoiv6p cptnrsl c1d4okli cl9u8ij ckpur3n c1cqhbqj`}>
 <div
-className={`w-element cmqlbh0 ckvkhsx cbm7ykc cxwgg1e c1tkj4ur cdl88ck clhhl65 c7rui0g c15peyda cblyl8b`} />
+className={`w-element cmqlbh0 ckvkhsx cbm7ykc cxwgg1e c1tkj4ur cdl88ck clhhl65 c7rui0g c15peyda cblyl8b c16wjg11 c79p3u c1h81o86`} />
 <div
-className={`w-element cmqlbh0 c1i2vr79 cprot4m c965u9v c16cw6j7 cdl88ck clhhl65 c7rui0g c15peyda cc1ra7`} />
+className={`w-element cmqlbh0 c1i2vr79 cprot4m c965u9v c16cw6j7 cdl88ck clhhl65 c7rui0g c15peyda cc1ra7 c1h81o86`} />
 <div
 className={`w-element carurm8 c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
 <h1
@@ -97,13 +97,13 @@ width={1800}
 height={1055}
 className={`w-image c7uoxt9 c1ixa9ew c18lr0js c1yme3y ciu4q36 c9iy04b chvpv9n cntcnzt`} />
 <p
-className={`w-element c1xsh9ye c1bfxqio c1wur8nt c11l0vn6 c3wpgfv c1tzot5x cc66th3 cggtda0 cbacmwr`}>
+className={`w-element c1xsh9ye c1bfxqio c1wur8nt c11l0vn6 c3wpgfv c1tzot5x cc66th3 cggtda0 cbacmwr cjo1f23`}>
 {"Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren."}
 </p>
 </div>
 </header>
 <section
-className={`w-element c1hieppo cmo2fg c10o4lk0 c1oxwlyr c15p5c1a c1pnb8mk`}>
+className={`w-element c1hieppo cmo2fg c10o4lk0 c1oxwlyr c15p5c1a c1pnb8mk c17atipl cxeac54 c137lgh0 c193da0t c1d4okli cl9u8ij c13dnt8a c1cqhbqj`}>
 <h2
 className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c8e2bpj c5ehj5z cplcfhb cbfdb7q`}>
 {"Neue Chorsänger sind willkommen!"}
@@ -111,15 +111,15 @@ className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c8e2bpj c5ehj5z
 </section>
 <section
 id={"kontakt"}
-className={`w-element c18hit7g c1tyyjqo`}>
+className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo c18hit7g cwq4l34 c1uvta3p cptnrsl c1pmyemu c1ndguw5 cfyv84e c1cqhbqj cl9u8ij c5wrvkx c1labxwd ctyql03 cu5ln8v`}>
 <div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr c1uvta3p c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y`}>
+className={`w-element c1fni2gu ch59csv cjf24wm c14ova3y c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1ko8sid ck98bjj`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c1ltluz0 csafaus c8urlaq c1cs5b61 c1o7dtxp c13a7xur c1aaeh9d ck10si5 c143vdb4 c1b23188`}>
 {"Kontakt"}
 </h2>
 <div
-className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 cskg0t6 c10v7lzm c1o2dzk6 c7zsd6i c1ft92md`}>
+className={`w-element cskg0t6 c10v7lzm c1o2dzk6 c7zsd6i c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1ft92md`}>
 <p
 className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ca0eorc ck10si5`}>
 {"Mail: "}
@@ -138,9 +138,11 @@ className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ck10si5`}>
 </section>
 <section
 id={"entstehung"}
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr chbzvtw c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y c1tyyjqo`}>
+className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo cwq4l34 chbzvtw cptnrsl c1pmyemu c1ndguw5 c1eoiv6p c1cqhbqj cl9u8ij c5wrvkx ckpur3n ctyql03`}>
+<div
+className={`w-element c1fni2gu ch59csv cjf24wm c14ova3y c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1ko8sid ck98bjj`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c1ltluz0 csafaus c8urlaq c1cs5b61 c1o7dtxp c13a7xur c1aaeh9d ck10si5 c143vdb4 c1b23188`}>
 {"Entstehung des Chores"}
 </h2>
 <div
@@ -154,11 +156,14 @@ className={`w-element ck10si5`}>
 {"Nun hat sich dieses Herrenensembles neu zusammengefunden und beginnt den künstlerischen und stilistischen Horizont zu erweitern."}
 </p>
 </div>
+</div>
 </section>
 <section
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla ct33hin c1oxwlyr c1uvta3p c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y`}>
+className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo ct33hin c1uvta3p cptnrsl c1pmyemu c11d589p cfyv84e c1cqhbqj cl9u8ij c1h6t3jn c1labxwd cu5ln8v`}>
+<div
+className={`w-element c1fni2gu ch59csv cjf24wm c14ova3y c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1ko8sid ck98bjj`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c1ltluz0 csafaus c8urlaq c1cs5b61 c1o7dtxp c13a7xur c1aaeh9d ck10si5 c143vdb4 c1b23188`}>
 {"Leitung"}
 </h2>
 <div
@@ -168,14 +173,15 @@ className={`w-element ck10si5`}>
 {"Der Neustart geht einher mit einer Leitungserweiterung: Rosemarie Arzt und Frederik Botthof leiten Elua gemeinsam, als künstlerische Doppelspitze."}
 </p>
 </div>
+</div>
 </section>
 <section
 id={"auftritte"}
-className={`w-element c18hit7g c1tyyjqo`}>
+className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo c18hit7g cwq4l34 c1uvta3p cptnrsl c1pmyemu c1ndguw5 cfyv84e c1cqhbqj cl9u8ij c5wrvkx c1labxwd ctyql03 cu5ln8v`}>
 <div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr c1uvta3p c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y`}>
+className={`w-element c1fni2gu ch59csv cjf24wm c14ova3y c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1ko8sid ck98bjj`}>
 <h2
-className={`w-element c8urlaq c1cs5b61 c1o7dtxp cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c13a7xur c1aaeh9d ck10si5`}>
+className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c1ltluz0 csafaus c8urlaq c1cs5b61 c1o7dtxp c13a7xur c1aaeh9d ck10si5 c143vdb4 c1b23188`}>
 {"Auftritte"}
 </h2>
 <div
@@ -193,17 +199,19 @@ className={`w-element cad4b79 ck10si5`}>
 </section>
 <section
 id={"programm"}
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cwq4l34 c1oxwlyr c1u74j40 c1pnb8mk c1tyyjqo`}>
+className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo cwq4l34 c1u74j40 cptnrsl c1pmyemu c1ndguw5 c1cuumj9 c1cqhbqj cl9u8ij c5wrvkx c3bwubc ctyql03 cnqopg1`}>
+<div
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
 <h2
-className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1kxakyg c3wpgfv cwgo70q cc66th3 c1o9cloj c1aaeh9d`}>
+className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1kxakyg cc66th3 c3wpgfv c1o9cloj c1ltluz0 csafaus cwgo70q c1aaeh9d c143vdb4 c1b23188`}>
 {"Auswahl aus den Programmen:"}
 </h2>
 <div
 className={`w-element c1fni2gu ch59csv c17v894l c1410kxv`}>
 <div
-className={`w-element c8urlaq c1cs5b61 ccqja4s c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb`}>
+className={`w-element c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c8urlaq c1cs5b61 ccqja4s c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb c16fsc7 c1uj8qy5`}>
 <h3
-className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3`}>
+className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3 c1rf84ge`}>
 {"Popsongs"}
 </h3>
 <ul
@@ -239,9 +247,9 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
 </ul>
 </div>
 <div
-className={`w-element c8urlaq c1cs5b61 ccqja4s c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb`}>
+className={`w-element c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c8urlaq c1cs5b61 ccqja4s c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb c16fsc7 c1uj8qy5`}>
 <h3
-className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3`}>
+className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3 c1rf84ge`}>
 {"Klassische Männerchöre aus allen Epochen"}
 </h3>
 <ul
@@ -273,9 +281,10 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
 </ul>
 </div>
 </div>
+</div>
 </section>
 <footer
-className={`w-element c7zyfjo cmo2fg ccr1t9u c1oxwlyr c1s5rcms c1pnb8mk`}>
+className={`w-element c7zyfjo cmo2fg ccr1t9u c1oxwlyr c1s5rcms c1pnb8mk c1tnig5v cl9u8ij ckpur3n c1cqhbqj`}>
 <div
 className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 c6k4006 cguguel c1s04uh8`}>
 <p

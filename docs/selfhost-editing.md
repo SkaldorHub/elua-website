@@ -60,18 +60,34 @@ npx webstudio@0.298.0 permissions        # muss canUseApi: yes zeigen
 
 Zeigt es `canUseApi: no`: Plan des Nutzers prüfen (Tabellen `Product`, `TransactionLog`, View `UserProduct` müssen einen Pro-Plan enthalten) und den Builder mit geladener `.env` neu starten (Schritt 4).
 
-## Layout einspielen
+## Design einspielen
 
-1. Seiten und Root-Instanz-ID abfragen: `npx webstudio@0.298.0 list-pages '{}'`. Die `rootInstanceId` der Home-Seite ist der `parentInstanceId`. Sie ist pro Projekt anders.
-2. Fragment als JSON bauen (`parentInstanceId`, `fragment` mit dem Inhalt von `design/home.jsx`, `mode: "replace"`) und zuerst mit `--dry-run` prüfen:
-   ```
-   npx webstudio@0.298.0 insert-fragment --input-file .temp/insert-fragment.json --dry-run
-   npx webstudio@0.298.0 insert-fragment --input-file .temp/insert-fragment.json
-   ```
-3. Weitere Seiten mit `create-page` anlegen, Titel und Beschreibung mit `update-page` setzen.
-4. Löschende Aktionen (`delete-props` u. Ä.) liefern `DESTRUCTIVE_CONFIRMATION_REQUIRED` mit einem kurzlebigen Token. Den Aufruf unverändert mit `confirmDestructive: true` und `confirmationToken` wiederholen.
+Das Design liegt als Quelle im Repo:
 
-Das Bild-Element bekommt seine `src` als feste URL (siehe [workflow.md](workflow.md)). Ein Asset-Upload in die Cloud scheitert mit "Authorization token cannot use Builder API".
+| Datei | Inhalt |
+|---|---|
+| `design/tokens.json` | Alle Design-Tokens (Farben, Typografie, Abstände, Karten) und ihre Anpassungen für Tablet, Mobile landscape und Mobile portrait |
+| `design/home.jsx` | Startseite. Elemente verweisen nur per `tokens="name1 name2"` auf Tokens |
+| `design/impressum.jsx` | Impressum, bewusst schlicht |
+| `scripts/apply-design.py` | Spielt alles in das verlinkte Projekt ein |
+
+Aufruf im Selfhost-Ordner (dort ist das lokale Projekt verlinkt):
+
+```
+python3 /pfad/zum/repo/scripts/apply-design.py
+```
+
+Das Skript fragt Seiten, Breakpoints und Token-IDs selbst ab (keine IDs hart codiert), ersetzt den Seiteninhalt (`insert-fragment`, Dry-Run vorher) und trägt danach die Breakpoint-Anpassungen an den Tokens ein. Die Seiten `/` und `/impressum` müssen im Projekt existieren (sonst vorher `create-page`).
+
+Regeln, die sich aus Fehlversuchen ergeben haben:
+
+- **Lokale Styles überschreiben Tokens im Export nicht.** Wer an einem Element eine Eigenschaft setzt, die auch ein Token dort setzt, verliert im gebauten Ergebnis gegen das Token. Deshalb Abweichungen als eigenes Token anlegen (z. B. `pt-sm`, `pb-xl`, `narrow`, `text-last`) und nie dieselbe Eigenschaft in Token und lokal setzen.
+- **Token-Definitionen lassen sich per Skript nicht nachträglich ändern.** Ein zweiter Lauf mit geänderten Definitionen legt Kopien wie `banner-1` an und lässt alte Eigenschaften stehen, und es gibt kein Tool zum Löschen von Tokens. Wer bestehende Tokens ändert, setzt vorher das lokale Projekt zurück:
+  1. Einen tokenfreien Projektstand aus der Git-Historie holen (z. B. den Stand vor der Token-Einführung: `git show e4c8ad9:.webstudio/data.json`) und im Selfhost-Ordner als `.webstudio/data.json` ablegen
+  2. `npx webstudio@0.298.0 import --skip-assets --to '<lokaler-link>'` (ersetzt den lokalen Projektinhalt, der lokale Link braucht dafür nur Builder-Recht)
+  3. Danach `apply-design.py` frisch ausführen
+  Neue Tokens hinzufügen geht dagegen ohne Reset.
+- Ein Cloud-Import ersetzt das gesamte Cloud-Projekt, also auch Token-Änderungen, die jemand im Builder gemacht hat (siehe [content.md](content.md), Abschnitt Design).
 
 ## Zurück in die Cloud
 
