@@ -15,3 +15,4 @@
    - CNAME-Record für `www` auf `<github-username>.github.io`
 3. Im Repo unter Settings → Pages die Custom Domain eintragen; GitHub prüft die DNS-Einträge automatisch und aktiviert HTTPS (bis zu 24h)
 4. "Enforce HTTPS" aktivieren, sobald verfügbar
+5. Sobald die Seite über die eigene Domain am Root läuft, in `.github/workflows/deploy.yml` den Block `env: BASE_PATH: ...` beim Schritt `npm run build` entfernen (sonst zeigen die Asset-Pfade weiter auf `/elua-website/`)

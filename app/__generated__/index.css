@@ -22,6 +22,9 @@
   div.w-element {
     box-sizing: border-box
   }
+  footer.w-element {
+    box-sizing: border-box
+  }
   h1.w-element {
     box-sizing: border-box
   }
@@ -40,6 +43,9 @@
   main.w-element {
     box-sizing: border-box
   }
+  nav.w-element {
+    box-sizing: border-box
+  }
   p.w-element {
     box-sizing: border-box
   }
@@ -48,6 +54,12 @@
   }
   ul.w-element {
     box-sizing: border-box
+  }
+  img.w-image {
+    box-sizing: border-box;
+    max-width: 100%;
+    display: block;
+    height: auto
   }
   div.w-html-embed {
     display: contents;
@@ -228,23 +240,68 @@
   .ckakxdc {
     min-height: 100vh
   }
-  .c4slh24 {
-    background-color: #faf8f5
+  .c1c5uzfd {
+    color: #14122b
   }
-  .c3d4jks {
-    color: #1f1d1b
+  .cm97zpn {
+    font-family: ui-sans-serif, system-ui, -apple-system, Helvetica, Arial, sans-serif
   }
-  .c1qo29i3 {
-    font-family: ui-serif, Georgia, Cambria, serif
+  .c19d2ofe {
+    line-height: 1.6
   }
-  .c156exrs {
-    line-height: 1.7
+  .cisbuu3 {
+    font-size: 1.0625rem
   }
-  .ceryciz {
-    font-size: 1.125rem
+  .c1p4jstk {
+    position: sticky
   }
-  .ci6tkds {
-    max-width: 44rem
+  .c1su6x14 {
+    z-index: 10
+  }
+  .cf1v9v6 {
+    justify-content: space-between
+  }
+  .cv2ukmp {
+    padding-top: 1rem
+  }
+  .c1oxwlyr {
+    padding-right: 1.5rem
+  }
+  .c1tfuuut {
+    padding-bottom: 1rem
+  }
+  .c1pnb8mk {
+    padding-left: 1.5rem
+  }
+  .c1o81nl1 {
+    border-bottom: 1px solid #e7e6f0
+  }
+  .c1ms36tz {
+    font-size: 1.25rem
+  }
+  .c1yzhsul {
+    letter-spacing: -0.02em
+  }
+  .c1hpe72s {
+    text-decoration-style: solid
+  }
+  .c1ahvl7i {
+    text-decoration-color: currentcolor
+  }
+  .c17v894l {
+    row-gap: 1.5rem
+  }
+  .c1410kxv {
+    column-gap: 1.5rem
+  }
+  .cad4b79 {
+    color: #5b5a70
+  }
+  .ct9id28 {
+    font-size: 0.95rem
+  }
+  .c18w5uwy {
+    max-width: 72rem
   }
   .c1kxakyg {
     margin-top: 0
@@ -258,80 +315,164 @@
   .crkgmla {
     margin-left: auto
   }
-  .cs92iqi {
-    padding-top: 6rem
+  .cwq4l34 {
+    padding-top: 5rem
   }
-  .c1oxwlyr {
-    padding-right: 1.5rem
+  .chbzvtw {
+    padding-bottom: 3rem
   }
-  .c1v6udmw {
-    padding-bottom: 4rem
-  }
-  .c1pnb8mk {
-    padding-left: 1.5rem
-  }
-  .ca4tta7 {
-    margin-bottom: 5rem
-  }
-  .cbowm78 {
-    font-size: 0.8rem
+  .c2jph5x {
+    font-size: 0.85rem
   }
   .c1aa4719 {
     font-weight: 600
   }
-  .cf1attx {
-    letter-spacing: 0.16em
+  .c29rfcg {
+    letter-spacing: 0.14em
   }
   .cs8rlgd {
     text-transform: uppercase
   }
-  .chkynr5 {
-    color: #8a3b2e
+  .ckrg0rz {
+    color: #4f46e5
   }
   .c3wpgfv {
     margin-right: 0
   }
-  .c1miagds {
-    margin-bottom: 1.25rem
+  .c2c5k78 {
+    margin-bottom: 1rem
   }
   .cc66th3 {
     margin-left: 0
   }
-  .cm7eaj7 {
-    font-size: clamp(4rem,14vw,7rem)
+  .cr0lsj1 {
+    font-size: clamp(4.5rem,20vw,11rem)
   }
-  .c1os3ujs {
-    letter-spacing: -0.04em
+  .c5ehj5z {
+    font-weight: 800
   }
-  .c1ghymp5 {
-    line-height: 0.95
+  .c10kbkik {
+    letter-spacing: -0.06em
   }
-  .co3blr9 {
-    margin-bottom: 1.5rem
+  .cv4xff {
+    line-height: 0.9
   }
-  .c1x6opbc {
-    font-size: 1.4rem
+  .c168i0q1 {
+    margin-bottom: 1.75rem
   }
-  .c1sfzkjq {
-    line-height: 1.45
+  .c1xa7iz5 {
+    font-size: clamp(1.25rem,3vw,1.75rem)
   }
-  .cb9iu1a {
-    color: #5c5751
+  .c1ehpvx0 {
+    line-height: 1.35
   }
-  .c1ymd236 {
-    max-width: 32rem
+  .cl59rov {
+    max-width: 38rem
   }
   .ck10si5 {
     margin: 0
   }
-  .c1qjs2i8 {
-    padding-top: 1.5rem
+  .c1bjaiqd {
+    max-width: 96rem
   }
-  .cg3e4ay {
-    margin-bottom: 4rem
+  .c2sb2fd {
+    padding-top: 0
   }
-  .c11e6sfd {
-    border-top: 1px solid #ddd8cf
+  .cltxqtt {
+    padding-right: 1rem
+  }
+  .c10rivbs {
+    padding-bottom: 0
+  }
+  .c1o9cloj {
+    padding-left: 1rem
+  }
+  .c18lr0js {
+    height: auto
+  }
+  .c1yv389r {
+    border-top-left-radius: 1.25rem
+  }
+  .c18hm1qj {
+    border-top-right-radius: 1.25rem
+  }
+  .c18z7uhg {
+    border-bottom-right-radius: 1.25rem
+  }
+  .cws4gg9 {
+    border-bottom-left-radius: 1.25rem
+  }
+  .c1ooda3d {
+    padding-top: 4rem
+  }
+  .ch59csv {
+    flex-wrap: wrap
+  }
+  .c6xwvyh {
+    row-gap: 2.5rem
+  }
+  .c1qosxxb {
+    column-gap: 2.5rem
+  }
+  .c8urlaq {
+    flex-grow: 1
+  }
+  .c1cs5b61 {
+    flex-shrink: 1
+  }
+  .c1o7dtxp {
+    flex-basis: 14rem
+  }
+  .chq7uda {
+    border-top: 3px solid #4f46e5
+  }
+  .c1g1tps7 {
+    font-size: 2.5rem
+  }
+  .cplcfhb {
+    letter-spacing: -0.03em
+  }
+  .cbfdb7q {
+    line-height: 1.1
+  }
+  .cz42c5i {
+    margin-bottom: 0.5rem
+  }
+  .cs92iqi {
+    padding-top: 6rem
+  }
+  .c1u74j40 {
+    padding-bottom: 6rem
+  }
+  .cjf24wm {
+    row-gap: 2rem
+  }
+  .c14ova3y {
+    column-gap: 4rem
+  }
+  .c1tyyjqo {
+    scroll-margin-top: 4rem
+  }
+  .c1hzi01d {
+    font-size: 2.25rem
+  }
+  .c5ytlnu {
+    flex-grow: 2
+  }
+  .c1hm99x6 {
+    flex-basis: 26rem
+  }
+  .c4c5v2p {
+    max-width: 40rem
+  }
+  .c1bfxqio {
+    line-height: 1.5
+  }
+  .co3blr9 {
+    margin-bottom: 1.5rem
+  }
+  .c18hit7g {
+    background-color: #f4f3fa
   }
   .c1y0bxh1 {
     margin-bottom: 0.75rem
@@ -339,11 +480,17 @@
   .cyg1c3p {
     margin-bottom: 3rem
   }
-  .c1i59pof {
-    letter-spacing: -0.01em
+  .ccqja4s {
+    flex-basis: 20rem
   }
-  .c2c5k78 {
-    margin-bottom: 1rem
+  .c1ft92md {
+    border: 1px solid #e7e6f0
+  }
+  .cifypgb {
+    padding: 2rem
+  }
+  .c1miagds {
+    margin-bottom: 1.25rem
   }
   .c1dx4yrh {
     list-style-type: none
@@ -351,19 +498,37 @@
   .co5evuj {
     padding: 0
   }
-  .c1nlb6m7 {
-    padding-top: 0.6rem
+  .c1vcf8ol {
+    padding-top: 0.65rem
   }
   .c102c05l {
     padding-right: 0
   }
-  .c1pmd8c3 {
-    padding-bottom: 0.6rem
+  .c19q58jm {
+    padding-bottom: 0.65rem
   }
   .c8if3ao {
     padding-left: 0
   }
-  .c1u8xjlp {
-    border-bottom: 1px solid #e9e5dd
+  .c17f5roo {
+    border-top: 1px solid #ecebf4
+  }
+  .c7zyfjo {
+    background-color: #14122b
+  }
+  .cmo2fg {
+    color: #ffffff
+  }
+  .c1e7dhwu {
+    padding-top: 3rem
+  }
+  .cguguel {
+    row-gap: 1rem
+  }
+  .c1s04uh8 {
+    column-gap: 1rem
+  }
+  .cv4z1hz {
+    color: #b9b8cf
   }
 }

@@ -26,8 +26,11 @@ jobs:
           WEBSTUDIO_LINK: ${{ secrets.WEBSTUDIO_LINK }}
       - run: npx --yes webstudio@0.298.0 sync
       - run: npx --yes webstudio@0.298.0 build --template ssg
+      - run: sed -i 's|export default defineConfig({|export default defineConfig({\n  base: process.env.BASE_PATH ?? "/",|' vite.config.ts
       - run: npm ci
       - run: npm run build
+        env:
+          BASE_PATH: /${{ github.event.repository.name }}/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist/client
