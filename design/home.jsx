@@ -15,11 +15,7 @@
       <h1 ws:style={css`font-size: clamp(4.5rem, 20vw, 10rem); font-weight: 800; letter-spacing: -0.06em; line-height: 0.9; margin: 0 0 1rem; color: #14122b;`}>Elua</h1>
       <p ws:style={css`font-size: clamp(1.5rem, 4vw, 2.5rem); font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; color: #4f46e5; margin: 0 0 3rem;`}>ein junger A Cappella Herren-Chor</p>
       <Image src="https://skaldorhub.github.io/elua-website/elua-chor.jpg" alt="Der Chor Elua" width={1800} height={1055} ws:style={css`display: block; width: 100%; height: auto; border-radius: 1.5rem; box-shadow: 0 30px 60px -20px rgba(20, 18, 43, 0.35);`} />
-      <p ws:style={css`font-size: 1.35rem; line-height: 1.5; max-width: 62rem; text-wrap: balance; margin: 3rem 0 2rem;`}>Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren.</p>
-      <div ws:style={css`display: flex; flex-wrap: wrap; gap: 1rem;`}>
-        <a href="#auftritte" ws:style={css`display: inline-block; background-color: #4f46e5; color: #ffffff; font-weight: 600; text-decoration: none; padding: 0.95rem 1.9rem; border-radius: 9999px;`}>Konzerte</a>
-        <a href="#kontakt" ws:style={css`display: inline-block; color: #4f46e5; font-weight: 600; text-decoration: none; padding: 0.85rem 1.85rem; border-radius: 9999px; border: 2px solid #4f46e5;`}>Buchen Sie uns</a>
-      </div>
+      <p ws:style={css`font-size: 1.35rem; line-height: 1.5; max-width: 62rem; text-wrap: balance; margin: 3rem 0 0;`}>Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren.</p>
     </div>
   </header>
   <section ws:style={css`background-color: #4f46e5; color: #ffffff; padding: 3.5rem 1.5rem;`}>

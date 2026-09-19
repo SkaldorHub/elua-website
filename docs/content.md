@@ -8,7 +8,7 @@ Reihenfolge der Startseite:
 
 1. Titel "Elua" und Untertitel "ein junger A Cappella Herren-Chor"
 2. Chorfoto
-3. Intro-Satz und die Buttons "Konzerte" (springt zu Auftritte) und "Buchen Sie uns" (springt zu Kontakt)
+3. Intro-Satz
 4. Banner "Neue Chorsänger sind willkommen!"
 5. Kontakt
 6. Entstehung des Chores
@@ -17,7 +17,7 @@ Reihenfolge der Startseite:
 9. Auswahl aus den Programmen (Popsongs, Klassische Männerchöre aus allen Epochen)
 10. Footer mit Link zum Impressum
 
-Bewusst nicht übernommen: "Wir unterstützen" und die Förderer-Logos der Referenzseite. Sie gehören zum Trägerverein.
+Bewusst nicht übernommen: "Wir unterstützen" und die Förderer-Logos der Referenzseite (sie gehören zum Trägerverein) sowie die Buttons "Konzerte" und "Buchen Sie uns" (auf Wunsch entfernt).
 
 ## Herkunft der Kontakt- und Impressumsdaten
 
@@ -33,7 +33,7 @@ Elua ist ein Ensemble des Vereins **Familienmusizieren e.V.**. Anbieter der Seit
 Kein Rechtsrat. Für eine verbindliche Auskunft den Verein oder eine Rechtsberatung fragen.
 
 - In Deutschland müssen Anbieter digitaler Dienste, die "geschäftsmäßig" betrieben werden, ein Impressum bereithalten (§ 5 Digitale-Dienste-Gesetz, DDG). Geschäftsmäßig heißt: auf Dauer angelegt und mit wirtschaftlichem Bezug. Gewinnabsicht ist dafür nicht nötig, ein Verein ist nicht ausgenommen.
-- Ausgenommen sind rein private Seiten ohne wirtschaftlichen Bezug (etwa Familienfotos). Die Chor-Seite ist öffentlich, wirbt um neue Sänger und bietet "Buchen Sie uns" an. Das ist ein Außenauftritt mit wirtschaftlichem Bezug. Ein Impressum ist deshalb praktisch Pflicht. Gemeinnützigkeit ändert daran nichts, und das Entfernen des Buchungsangebots reicht nicht aus.
+- Ausgenommen sind rein private Seiten ohne wirtschaftlichen Bezug (etwa Familienfotos). Die Chor-Seite ist öffentlich, wirbt um neue Sänger und beschreibt Auftritte bei Events, Festivals und Konzertreihen. Das ist ein Außenauftritt mit wirtschaftlichem Bezug. Ein Impressum ist deshalb praktisch Pflicht. Gemeinnützigkeit ändert daran nichts, und das Entfernen des Buchungsangebots reicht nicht aus.
 - Bei redaktionellen Inhalten kommt § 18 Abs. 2 Medienstaatsvertrag dazu: eine verantwortliche Person mit Name und Anschrift.
 - Ein fehlendes oder fehlerhaftes Impressum kann kostenpflichtig abgemahnt werden, und es sind Bußgelder möglich.
 - Inhalt: Name und Anschrift des Vereins, Vertretungsberechtigte (beim Verein der Vorstand), schnelle elektronische Kontaktmöglichkeit (E-Mail) plus ein zweiter Kontaktweg, Registereintrag bei eingetragenem Verein, verantwortliche Person nach § 18 MStV.

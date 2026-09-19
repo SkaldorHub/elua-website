@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 16;
+      export const projectVersion = 17;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -97,22 +97,9 @@ width={1800}
 height={1055}
 className={`w-image c7uoxt9 c1ixa9ew c18lr0js c1yme3y ciu4q36 c9iy04b chvpv9n cntcnzt`} />
 <p
-className={`w-element c1xsh9ye c1bfxqio c1wur8nt c11l0vn6 c3wpgfv c1wht1no cc66th3 cggtda0 cbacmwr`}>
+className={`w-element c1xsh9ye c1bfxqio c1wur8nt c11l0vn6 c3wpgfv c1tzot5x cc66th3 cggtda0 cbacmwr`}>
 {"Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren."}
 </p>
-<div
-className={`w-element c1fni2gu ch59csv cguguel c1s04uh8`}>
-<Link
-href={"#auftritte"}
-className={`w-element cs5sncq c1hieppo cmo2fg c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i c1o9kkc7 c1dbbrfc co5m4vr cjrtad cdl88ck clhhl65 c7rui0g c15peyda`}>
-{"Konzerte"}
-</Link>
-<Link
-href={"#kontakt"}
-className={`w-element cs5sncq ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i c1d3cbvm cfgcddy cu9o29w ckll0e1 cdl88ck clhhl65 c7rui0g c15peyda c1kpt0l0`}>
-{"Buchen Sie uns"}
-</Link>
-</div>
 </div>
 </header>
 <section
