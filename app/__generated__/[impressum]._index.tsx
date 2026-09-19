@@ -40,7 +40,7 @@ className={`w-element ckakxdc c196phoo c1c5uzfd cm97zpn c19d2ofe cisbuu3`}>
 className={`w-element c1fni2gu cf1v9v6 c6k4006 cv2ukmp c1oxwlyr c1tfuuut c1pnb8mk c196phoo c1o81nl1`}>
 <Link
 href={"../"}
-className={`w-element c1ln6udm c1ms36tz c1yzhsul c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
+className={`w-element c5ehj5z c1xsh9ye cplcfhb c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
 {"Elua"}
 </Link>
 <Link
@@ -52,26 +52,33 @@ className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 <div
 className={`w-element ci6tkds c1kxakyg cpyhlwk c1tzot5x crkgmla c1ooda3d c1oxwlyr c1u74j40 c1pnb8mk`}>
 <h1
-className={`w-element c14aa5ak c5ehj5z c1os3ujs c1t2ga8q c1kxakyg c3wpgfv c1wht1no cc66th3`}>
+className={`w-element c14aa5ak c5ehj5z c1os3ujs c1t2ga8q c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
 {"Impressum"}
 </h1>
-<p
-className={`w-element cvfxpgu c39wslr c1jbkv0a c1rngzle c1fai580 cv2ukmp c1mst17 c1tfuuut cym7624 c3e1xqy c1kxakyg c3wpgfv cyg1c3p cc66th3 c1ic7yme`}>
-{"Vorlage mit Platzhalterdaten. Alle Angaben sind Beispiele und müssen vor der Veröffentlichung durch die echten Daten ersetzt werden. Dieser Hinweis wird dann entfernt."}
-</p>
 <h2
 className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
 {"Angaben gemäß § 5 DDG"}
 </h2>
 <p
 className={`w-element c1kxakyg c3wpgfv cwgo70q cc66th3`}>
-{"Elua – Herrenchor Berlin (Beispiel e. V.)"}
+{"Verein Familienmusizieren e.V., c/o Rosemarie Arzt"}
 <br
 className={`w-element`} />
-{"Musterstraße 1"}
+{"Kanzlerweg 13"}
 <br
 className={`w-element`} />
-{"12345 Berlin"}
+{"12101 Berlin"}
+</p>
+<h2
+className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
+{"Vereinsregister"}
+</h2>
+<p
+className={`w-element c1kxakyg c3wpgfv cwgo70q cc66th3`}>
+{"Registernummer: VR 33933 B"}
+<br
+className={`w-element`} />
+{"Registergericht: Berlin-Charlottenburg"}
 </p>
 <h2
 className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
@@ -79,7 +86,7 @@ className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66t
 </h2>
 <p
 className={`w-element c1kxakyg c3wpgfv cwgo70q cc66th3`}>
-{"Max Mustermann (Vorsitz)"}
+{"Rosemarie Arzt"}
 </p>
 <h2
 className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
@@ -87,46 +94,40 @@ className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66t
 </h2>
 <p
 className={`w-element c1kxakyg c3wpgfv cwgo70q cc66th3`}>
-{"Telefon: +49 30 1234567"}
+{"Telefon: 01704845912"}
 <br
 className={`w-element`} />
-{"E-Mail: kontakt@example.org"}
+{"E-Mail: "}
+<Link
+href={"mailto:mail@familienmusizieren.com"}
+className={`w-element ckrg0rz cjf3zq6 c1hpe72s c1ahvl7i c1aa4719`}>
+{"mail@familienmusizieren.com"}
+</Link>
 </p>
 <h2
 className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
-{"Registereintrag"}
+{"Redaktionell verantwortlich"}
 </h2>
 <p
 className={`w-element c1kxakyg c3wpgfv cwgo70q cc66th3`}>
-{"Eintragung im Vereinsregister"}
-<br
-className={`w-element`} />
-{"Registergericht: Amtsgericht Charlottenburg"}
-<br
-className={`w-element`} />
-{"Registernummer: VR 00000 B"}
+{"Rosemarie Arzt"}
 </p>
 <h2
 className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
-{"Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV"}
+{"Verbraucherstreitbeilegung/Universalschlichtungsstelle"}
 </h2>
 <p
 className={`w-element c1kxakyg c3wpgfv cwgo70q cc66th3`}>
-{"Erika Musterfrau"}
-<br
-className={`w-element`} />
-{"Musterstraße 1"}
-<br
-className={`w-element`} />
-{"12345 Berlin"}
+{"Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."}
 </p>
-<h2
-className={`w-element c1ms36tz c1ln6udm c1i59pof c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
-{"Bildnachweis"}
-</h2>
 <p
-className={`w-element ck10si5`}>
-{"Chorfoto: Vorname Nachname (Beispiel)"}
+className={`w-element c2jph5x cad4b79 ck10si5`}>
+{"Quelle: "}
+<Link
+href={"https://www.e-recht24.de/impressum-generator.html"}
+className={`w-element cad4b79`}>
+{"https://www.e-recht24.de/impressum-generator.html"}
+</Link>
 </p>
 </div>
 </main>

@@ -23,7 +23,7 @@ export const getResources = (_props: { system: System; resources?: Record<string
 }): PageMeta => {
   return {
     title: "Impressum – Elua",
-    description: "Impressum des Chors Elua (Vorlage mit Platzhalterdaten).",
+    description: "Impressum des Vereins Familienmusizieren e.V. und des Ensembles Elua",
     excludePageFromSearch: undefined,
     language: "de",
     socialImageAssetName: undefined,

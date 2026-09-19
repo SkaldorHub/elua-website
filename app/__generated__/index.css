@@ -270,11 +270,14 @@
   .c1o81nl1 {
     border-bottom: 1px solid #e7e6f0
   }
-  .c1ms36tz {
-    font-size: 1.25rem
+  .c5ehj5z {
+    font-weight: 800
   }
-  .c1yzhsul {
-    letter-spacing: -0.02em
+  .c1xsh9ye {
+    font-size: 1.35rem
+  }
+  .cplcfhb {
+    letter-spacing: -0.03em
   }
   .c1hpe72s {
     text-decoration-style: solid
@@ -312,50 +315,20 @@
   .c14aa5ak {
     font-size: clamp(2.5rem,8vw,4rem)
   }
-  .c5ehj5z {
-    font-weight: 800
-  }
   .c1os3ujs {
     letter-spacing: -0.04em
   }
   .c3wpgfv {
     margin-right: 0
   }
-  .c1wht1no {
-    margin-bottom: 2rem
+  .cyg1c3p {
+    margin-bottom: 3rem
   }
   .cc66th3 {
     margin-left: 0
   }
-  .cvfxpgu {
-    background-color: #fff7e0
-  }
-  .c39wslr {
-    border-top-left-radius: 0.75rem
-  }
-  .c1jbkv0a {
-    border-top-right-radius: 0.75rem
-  }
-  .c1rngzle {
-    border-bottom-right-radius: 0.75rem
-  }
-  .c1fai580 {
-    border-bottom-left-radius: 0.75rem
-  }
-  .c1mst17 {
-    padding-right: 1.25rem
-  }
-  .cym7624 {
-    padding-left: 1.25rem
-  }
-  .c3e1xqy {
-    color: #6b5200
-  }
-  .cyg1c3p {
-    margin-bottom: 3rem
-  }
-  .c1ic7yme {
-    border: 1px solid #f0d98a
+  .c1ms36tz {
+    font-size: 1.25rem
   }
   .c1i59pof {
     letter-spacing: -0.01em
@@ -365,6 +338,15 @@
   }
   .cwgo70q {
     margin-bottom: 2.5rem
+  }
+  .ckrg0rz {
+    color: #4f46e5
+  }
+  .c1aa4719 {
+    font-weight: 600
+  }
+  .c2jph5x {
+    font-size: 0.85rem
   }
   .ck10si5 {
     margin: 0
@@ -377,12 +359,6 @@
   }
   .cxtckt3 {
     z-index: 20
-  }
-  .c1xsh9ye {
-    font-size: 1.35rem
-  }
-  .cplcfhb {
-    letter-spacing: -0.03em
   }
   .ch59csv {
     flex-wrap: wrap
@@ -468,14 +444,11 @@
   .cgkvnzw {
     font-size: clamp(1.5rem,4vw,2.5rem)
   }
-  .c1aa4719 {
-    font-weight: 600
+  .c1yzhsul {
+    letter-spacing: -0.02em
   }
   .c5e6w5u {
     line-height: 1.2
-  }
-  .ckrg0rz {
-    color: #4f46e5
   }
   .c18lr0js {
     height: auto
@@ -498,11 +471,20 @@
   .c1bfxqio {
     line-height: 1.5
   }
-  .c1fooy8k {
-    max-width: 42rem
+  .c1wur8nt {
+    max-width: 62rem
   }
   .c11l0vn6 {
     margin-top: 3rem
+  }
+  .c1wht1no {
+    margin-bottom: 2rem
+  }
+  .cggtda0 {
+    white-space: normal
+  }
+  .cbacmwr {
+    text-wrap: balance
   }
   .cguguel {
     row-gap: 1rem

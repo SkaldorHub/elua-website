@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 14;
+      export const projectVersion = 16;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -97,7 +97,7 @@ width={1800}
 height={1055}
 className={`w-image c7uoxt9 c1ixa9ew c18lr0js c1yme3y ciu4q36 c9iy04b chvpv9n cntcnzt`} />
 <p
-className={`w-element c1xsh9ye c1bfxqio c1fooy8k c11l0vn6 c3wpgfv c1wht1no cc66th3`}>
+className={`w-element c1xsh9ye c1bfxqio c1wur8nt c11l0vn6 c3wpgfv c1wht1no cc66th3 cggtda0 cbacmwr`}>
 {"Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren."}
 </p>
 <div
@@ -137,9 +137,9 @@ className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p c196phoo c1yv389r c18hm1
 className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ca0eorc ck10si5`}>
 {"Mail: "}
 <Link
-href={"mailto:kontakt@example.org"}
+href={"mailto:info@elua-chor.de"}
 className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
-{"kontakt@example.org"}
+{"info@elua-chor.de"}
 </Link>
 </p>
 <p
