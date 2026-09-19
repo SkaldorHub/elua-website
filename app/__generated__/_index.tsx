@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 13;
+      export const projectVersion = 14;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -143,12 +143,8 @@ className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
 </Link>
 </p>
 <p
-className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ca0eorc ck10si5`}>
-{"Chorleitung: Rosemarie Arzt und Frederik Botthof"}
-</p>
-<p
 className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ck10si5`}>
-{"Sänger: Luis Jeromin"}
+{"Chorleitung: Rosemarie Arzt und Frederik Botthof"}
 </p>
 </div>
 </div>
@@ -292,32 +288,16 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
 </div>
 </section>
 <footer
-className={`w-element c7zyfjo cmo2fg c1ooda3d c1oxwlyr c1v6udmw c1pnb8mk`}>
+className={`w-element c7zyfjo cmo2fg ccr1t9u c1oxwlyr c1s5rcms c1pnb8mk`}>
 <div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 cjf24wm c1unx8kw`}>
-<div
-className={`w-element`}>
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 c6k4006 cguguel c1s04uh8`}>
 <p
-className={`w-element c1ln6udm c1kxakyg c3wpgfv c1y0bxh1 cc66th3`}>
-{"Kontakt:"}
+className={`w-element c5ehj5z c1ms36tz cplcfhb ck10si5`}>
+{"Elua"}
 </p>
-<p
-className={`w-element cn23irv ck10si5`}>
-{"Rosemarie Arzt, Leitung"}
-<br
-className={`w-element`} />
-{"Musterstraße 1,"}
-<br
-className={`w-element`} />
-{"12345 Berlin"}
-<br
-className={`w-element`} />
-{"+49 30 1234567"}
-</p>
-</div>
 <Link
 href={"impressum/"}
-className={`w-element cmo2fg czsdg6 c1hpe72s c1ahvl7i ct9id28 c1ohtfey`}>
+className={`w-element cn23irv czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
 {"Impressum"}
 </Link>
 </div>
