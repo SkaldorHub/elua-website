@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 10;
+      export const projectVersion = 11;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -60,6 +60,11 @@ className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 href={"#programm"}
 className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 {"Programm"}
+</Link>
+<Link
+href={"#kontakt"}
+className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
+{"Kontakt"}
 </Link>
 </div>
 </nav>
@@ -234,10 +239,57 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </div>
 </div>
 </section>
+<section
+id={"kontakt"}
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla cs92iqi c1oxwlyr c1u74j40 c1pnb8mk c1fni2gu ch59csv cjf24wm c14ova3y c1tyyjqo`}>
+<h2
+className={`w-element c8urlaq c1cs5b61 c1o7dtxp c1hzi01d c5ehj5z cplcfhb cbfdb7q ck10si5`}>
+{"Kontakt"}
+</h2>
+<div
+className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
+<p
+className={`w-element c1ms36tz c1bfxqio c1kxakyg c3wpgfv c1wht1no cc66th3`}>
+{"Anfragen, Buchungen und Auftritte: Wir freuen uns auf Ihre Nachricht."}
+</p>
+<p
+className={`w-element c1kxakyg c3wpgfv c1lh7hrq cc66th3 cad4b79 c2jph5x cnfcbd3 cs8rlgd`}>
+{"E-Mail"}
+</p>
+<p
+className={`w-element c1kxakyg c3wpgfv co3blr9 cc66th3`}>
+<Link
+href={"mailto:kontakt@example.org"}
+className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
+{"kontakt@example.org"}
+</Link>
+</p>
+<p
+className={`w-element c1kxakyg c3wpgfv c1lh7hrq cc66th3 cad4b79 c2jph5x cnfcbd3 cs8rlgd`}>
+{"Telefon"}
+</p>
+<p
+className={`w-element c1kxakyg c3wpgfv co3blr9 cc66th3`}>
+<Link
+href={"tel:+49301234567"}
+className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
+{"+49 30 1234567"}
+</Link>
+</p>
+<p
+className={`w-element c1kxakyg c3wpgfv c1lh7hrq cc66th3 cad4b79 c2jph5x cnfcbd3 cs8rlgd`}>
+{"Ort"}
+</p>
+<p
+className={`w-element ck10si5`}>
+{"Berlin"}
+</p>
+</div>
+</section>
 <footer
 className={`w-element c7zyfjo cmo2fg c1e7dhwu c1oxwlyr chbzvtw c1pnb8mk`}>
 <div
-className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 cguguel c1s04uh8`}>
+className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 c6k4006 cguguel c1s04uh8`}>
 <p
 className={`w-element c1ln6udm c1ms36tz c1yzhsul ck10si5`}>
 {"Elua"}
@@ -246,6 +298,11 @@ className={`w-element c1ln6udm c1ms36tz c1yzhsul ck10si5`}>
 className={`w-element cv4z1hz ck10si5`}>
 {"Herrenchor aus Berlin · a cappella"}
 </p>
+<Link
+href={"impressum/"}
+className={`w-element cmo2fg czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
+{"Impressum"}
+</Link>
 </div>
 </footer>
 </main>

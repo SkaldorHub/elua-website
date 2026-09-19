@@ -252,12 +252,6 @@
   .cisbuu3 {
     font-size: 1.0625rem
   }
-  .c1p4jstk {
-    position: sticky
-  }
-  .c1su6x14 {
-    z-index: 10
-  }
   .cf1v9v6 {
     justify-content: space-between
   }
@@ -288,20 +282,14 @@
   .c1ahvl7i {
     text-decoration-color: currentcolor
   }
-  .c17v894l {
-    row-gap: 1.5rem
-  }
-  .c1410kxv {
-    column-gap: 1.5rem
-  }
   .cad4b79 {
     color: #5b5a70
   }
   .ct9id28 {
     font-size: 0.95rem
   }
-  .c18w5uwy {
-    max-width: 72rem
+  .ci6tkds {
+    max-width: 44rem
   }
   .c1kxakyg {
     margin-top: 0
@@ -314,6 +302,87 @@
   }
   .crkgmla {
     margin-left: auto
+  }
+  .c1ooda3d {
+    padding-top: 4rem
+  }
+  .c1u74j40 {
+    padding-bottom: 6rem
+  }
+  .c14aa5ak {
+    font-size: clamp(2.5rem,8vw,4rem)
+  }
+  .c5ehj5z {
+    font-weight: 800
+  }
+  .c1os3ujs {
+    letter-spacing: -0.04em
+  }
+  .c3wpgfv {
+    margin-right: 0
+  }
+  .c1wht1no {
+    margin-bottom: 2rem
+  }
+  .cc66th3 {
+    margin-left: 0
+  }
+  .cvfxpgu {
+    background-color: #fff7e0
+  }
+  .c39wslr {
+    border-top-left-radius: 0.75rem
+  }
+  .c1jbkv0a {
+    border-top-right-radius: 0.75rem
+  }
+  .c1rngzle {
+    border-bottom-right-radius: 0.75rem
+  }
+  .c1fai580 {
+    border-bottom-left-radius: 0.75rem
+  }
+  .c1mst17 {
+    padding-right: 1.25rem
+  }
+  .cym7624 {
+    padding-left: 1.25rem
+  }
+  .c3e1xqy {
+    color: #6b5200
+  }
+  .cyg1c3p {
+    margin-bottom: 3rem
+  }
+  .c1ic7yme {
+    border: 1px solid #f0d98a
+  }
+  .c1i59pof {
+    letter-spacing: -0.01em
+  }
+  .c1y0bxh1 {
+    margin-bottom: 0.75rem
+  }
+  .cwgo70q {
+    margin-bottom: 2.5rem
+  }
+  .ck10si5 {
+    margin: 0
+  }
+  .c1p4jstk {
+    position: sticky
+  }
+  .c1su6x14 {
+    z-index: 10
+  }
+  .c17v894l {
+    row-gap: 1.5rem
+  }
+  .c1410kxv {
+    column-gap: 1.5rem
+  }
+  .c18w5uwy {
+    max-width: 72rem
   }
   .cwq4l34 {
     padding-top: 5rem
@@ -336,20 +405,11 @@
   .ckrg0rz {
     color: #4f46e5
   }
-  .c3wpgfv {
-    margin-right: 0
-  }
   .c2c5k78 {
     margin-bottom: 1rem
   }
-  .cc66th3 {
-    margin-left: 0
-  }
   .cr0lsj1 {
     font-size: clamp(4.5rem,20vw,11rem)
-  }
-  .c5ehj5z {
-    font-weight: 800
   }
   .c10kbkik {
     letter-spacing: -0.06em
@@ -368,9 +428,6 @@
   }
   .cl59rov {
     max-width: 38rem
-  }
-  .ck10si5 {
-    margin: 0
   }
   .c1bjaiqd {
     max-width: 96rem
@@ -401,9 +458,6 @@
   }
   .cws4gg9 {
     border-bottom-left-radius: 1.25rem
-  }
-  .c1ooda3d {
-    padding-top: 4rem
   }
   .ch59csv {
     flex-wrap: wrap
@@ -441,9 +495,6 @@
   .cs92iqi {
     padding-top: 6rem
   }
-  .c1u74j40 {
-    padding-bottom: 6rem
-  }
   .cjf24wm {
     row-gap: 2rem
   }
@@ -473,12 +524,6 @@
   }
   .c18hit7g {
     background-color: #f4f3fa
-  }
-  .c1y0bxh1 {
-    margin-bottom: 0.75rem
-  }
-  .cyg1c3p {
-    margin-bottom: 3rem
   }
   .ccqja4s {
     flex-basis: 20rem
@@ -513,6 +558,12 @@
   .c17f5roo {
     border-top: 1px solid #ecebf4
   }
+  .c1lh7hrq {
+    margin-bottom: 0.25rem
+  }
+  .cnfcbd3 {
+    letter-spacing: 0.1em
+  }
   .c7zyfjo {
     background-color: #14122b
   }
@@ -530,5 +581,8 @@
   }
   .cv4z1hz {
     color: #b9b8cf
+  }
+  .czsdg6 {
+    text-decoration-line: underline
   }
 }
