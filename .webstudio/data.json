@@ -3,9 +3,9 @@
   "build": {
     "id": "4c359726-2bc3-4a3e-9749-35ade7088621",
     "projectId": "11dcda14-8a73-4b56-96d3-81e6b7fc76b2",
-    "version": 21,
+    "version": 22,
     "createdAt": "2026-09-16T22:21:28.605+00:00",
-    "updatedAt": "2026-09-19T17:19:44.549+00:00",
+    "updatedAt": "2026-09-22T18:36:24.545+00:00",
     "pages": {
       "homePageId": "T18TqNCXHu9iB4YfTU7-3",
       "rootFolderId": "root",
@@ -7784,7 +7784,7 @@
           "instanceId": "yRFZhpALhadbCgb2-3TTt",
           "name": "src",
           "type": "string",
-          "value": "https://skaldorhub.github.io/elua-website/elua-chor.jpg"
+          "value": "https://elua-chor.de/elua-chor.jpg"
         }
       ],
       [

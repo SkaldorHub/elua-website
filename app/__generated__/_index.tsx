@@ -9,7 +9,7 @@
 
       export const projectId = "11dcda14-8a73-4b56-96d3-81e6b7fc76b2";
 
-      export const projectVersion = 21;
+      export const projectVersion = 22;
 
       export const projectDomain = "elua-website-wfqnj";
 
@@ -91,7 +91,7 @@ className={`w-element cgkvnzw c1aa4719 c1yzhsul c5e6w5u ckrg0rz c1kxakyg c3wpgfv
 {"ein junger A Cappella Herren-Chor"}
 </p>
 <Image
-src={"https://skaldorhub.github.io/elua-website/elua-chor.jpg"}
+src={"https://elua-chor.de/elua-chor.jpg"}
 alt={"Der Chor Elua"}
 width={1800}
 height={1055}
