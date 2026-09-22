@@ -1,9 +1,9 @@
 #!/bin/sh
 # Baut die statische Seite nach dist/client. Wird lokal und in CI (deploy.yml) genutzt.
-# BASE_PATH: Unterpfad der Seite. GitHub Pages ohne eigene Domain: /elua-website/ (Default), eigene Domain am Root: /
+# BASE_PATH: Unterpfad der Seite. Eigene Domain (elua-chor.de) am Root: / (Default). Ohne eigene Domain: /elua-website/
 set -eu
 
-BASE_PATH="${BASE_PATH:-/elua-website/}"
+BASE_PATH="${BASE_PATH:-/}"
 export BASE_PATH
 
 npx --yes webstudio@0.298.0 build --template ssg
