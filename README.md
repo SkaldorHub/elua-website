@@ -1,6 +1,6 @@
 # Elua Website
 
-Website des Herrenchors Elua (Berlin). Inhalt und Design werden im [Webstudio](https://webstudio.is) Cloud-Editor gepflegt. Dieses Repo hält eine versionierte Kopie und baut daraus die statische Seite, die per GitHub Actions auf GitHub Pages läuft.
+Website des Männerchors Elua (Berlin). Inhalt und Design werden im [Webstudio](https://webstudio.is) Cloud-Editor gepflegt. Dieses Repo hält eine versionierte Kopie und baut daraus die statische Seite, die per GitHub Actions auf GitHub Pages läuft.
 
 Live: https://skaldorhub.github.io/elua-website/
 

@@ -2,22 +2,49 @@
 
 ## Inhaltsregeln
 
-Die Aussagen der Seite stammen von der Referenzseite https://www.familienmusizieren.com/chor-elua/ und dürfen inhaltlich nicht verändert werden, auch nicht die Schreibweisen ("a capella", "Herren-Chor", "Herrenensembles"). Nur Layout und Darstellung sind frei.
+Die Aussagen der Seite stammen von der Referenzseite https://www.familienmusizieren.com/chor-elua/ und dürfen inhaltlich nicht verändert werden, auch nicht die Schreibweisen ("a capella", "Herrenensembles"). Nur Layout und Darstellung sind frei.
+
+Abweichungen auf Wunsch des Chores (bewusst, nicht versehentlich):
+
+| Referenzseite | Diese Seite |
+|---|---|
+| "Herren-Chor" / "Herrenchor" | "Männerchor" (Untertitel, SEO-Titel und -Beschreibung) |
+| "Programm" / "Auswahl aus den Programmen" | "Repertoire" / "Auswahl aus dem Repertoire" (Navigation und Überschrift) |
+| "Klassische Männerchöre aus allen Epochen" | "Klassische Männerchorstücke" (Kartentitel und SEO-Beschreibung) |
+| "a capella Version Unvollendete Sinfonie von Schubert" | "a capella Version der Unvollendeten Sinfonie von Schubert" |
+
+Der Anker der Repertoire-Sektion heißt aus Kompatibilitätsgründen weiterhin `#programm`.
 
 Reihenfolge der Startseite:
 
-1. Titel "Elua" und Untertitel "ein junger A Cappella Herren-Chor"
+1. Titel "Elua" und Untertitel "ein junger A Capella Männerchor"
 2. Chorfoto
 3. Intro-Satz
 4. Banner "Neue Chorsänger sind willkommen!"
 5. Kontakt
 6. Entstehung des Chores
 7. Leitung
-8. Auftritte
-9. Auswahl aus den Programmen (Popsongs, Klassische Männerchöre aus allen Epochen)
+8. Auftritte (Fließtext plus Tabelle "Kommende Termine")
+9. Auswahl aus dem Repertoire (Popsongs, Klassische Männerchorstücke)
 10. Footer mit Link zum Impressum
 
 Bewusst nicht übernommen: "Wir unterstützen" und die Förderer-Logos der Referenzseite (sie gehören zum Trägerverein) sowie die Buttons "Konzerte" und "Buchen Sie uns" (auf Wunsch entfernt).
+
+## Auftrittstermine
+
+Die Tabelle "Kommende Termine" im Abschnitt Auftritte zeigt **nur was fürs Publikum relevant ist**: Veranstaltung, Ort, Datum, Beginn. Interne Angaben aus der Chor-Planung gehören nicht auf die Seite, insbesondere:
+
+- Auftrittsdauer und Zusagestatus ("30 Minuten / ja")
+- Probenwochenenden und andere nicht-öffentliche Termine
+- interne Absprachen zum Programm ("sind wir gebeten die Europahymne zu singen")
+- Vorbehalte zu noch nicht bestätigten Terminen
+
+Zwei Regeln für die Spalte Beginn:
+
+- **Nur die Anfangszeit**, kein Zeitraum. Aus "15.00 – 16.00" wird "15.00 Uhr". Wann der Auftritt endet, interessiert das Publikum nicht.
+- **Keine Platzhalter.** Termine ohne bekannte Anfangszeit kommen erst in die Tabelle, wenn die Zeit feststeht.
+
+Vergangene Termine aus der Tabelle entfernen, damit "Kommende Termine" stimmt. Gestaltet ist sie über die Tokens `gig-*` in `design/tokens.json`; ab 767 px Breite klappt sie von vier Spalten auf gestapelte Einträge um.
 
 ## Herkunft der Kontakt- und Impressumsdaten
 
@@ -63,6 +90,6 @@ Nicht umgesetzt: wiederverwendbare Komponenten. Navigation und Footer sind pro S
 
 ## Offene Punkte
 
-- Das Design des Abschnitts "Auswahl aus den Programmen" (zwei Karten mit Listen) ist noch nicht abgenommen.
+- Das Design des Abschnitts "Auswahl aus dem Repertoire" (zwei Karten mit Listen) ist noch nicht abgenommen.
 - Datenschutzerklärung (Vorlage fehlt noch, der Verein hat auf familienmusizieren.com eine unter `/j/privacy`).
 - Eigene Domain (siehe [dns-domain.md](dns-domain.md)).

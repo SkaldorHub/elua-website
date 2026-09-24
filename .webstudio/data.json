@@ -13,10 +13,10 @@
         {
           "id": "T18TqNCXHu9iB4YfTU7-3",
           "name": "Home",
-          "title": "\"Elua – A-cappella-Herrenchor aus Berlin\"",
+          "title": "\"Elua – A-cappella-Männerchor aus Berlin\"",
           "rootInstanceId": "_U-AFQTXWZi2928KZGV3C",
           "meta": {
-            "description": "\"Elua ist ein junger a-cappella-Herrenchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchören aus allen Epochen.\"",
+            "description": "\"Elua ist ein junger a-cappella-Männerchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchorstücken.\"",
             "language": "\"de\""
           },
           "path": ""
@@ -8303,7 +8303,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Programm"
+              "value": "Repertoire"
             }
           ]
         }
@@ -8403,7 +8403,7 @@
           "children": [
             {
               "type": "text",
-              "value": "ein junger A Cappella Herren-Chor"
+              "value": "ein junger A Capella Männerchor"
             }
           ]
         }
@@ -8898,7 +8898,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Auswahl aus den Programmen:"
+              "value": "Auswahl aus dem Repertoire:"
             }
           ]
         }
@@ -9129,7 +9129,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Klassische Männerchöre aus allen Epochen"
+              "value": "Klassische Männerchorstücke"
             }
           ]
         }
@@ -9224,7 +9224,7 @@
           "children": [
             {
               "type": "text",
-              "value": "a capella Version Unvollendete Sinfonie von Schubert"
+              "value": "a capella Version der Unvollendeten Sinfonie von Schubert"
             }
           ]
         }
@@ -9857,10 +9857,10 @@
   "page": {
     "id": "T18TqNCXHu9iB4YfTU7-3",
     "name": "Home",
-    "title": "\"Elua – A-cappella-Herrenchor aus Berlin\"",
+    "title": "\"Elua – A-cappella-Männerchor aus Berlin\"",
     "rootInstanceId": "_U-AFQTXWZi2928KZGV3C",
     "meta": {
-      "description": "\"Elua ist ein junger a-cappella-Herrenchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchören aus allen Epochen.\"",
+      "description": "\"Elua ist ein junger a-cappella-Männerchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchorstücken.\"",
       "language": "\"de\""
     },
     "path": ""
@@ -9869,10 +9869,10 @@
     {
       "id": "T18TqNCXHu9iB4YfTU7-3",
       "name": "Home",
-      "title": "\"Elua – A-cappella-Herrenchor aus Berlin\"",
+      "title": "\"Elua – A-cappella-Männerchor aus Berlin\"",
       "rootInstanceId": "_U-AFQTXWZi2928KZGV3C",
       "meta": {
-        "description": "\"Elua ist ein junger a-cappella-Herrenchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchören aus allen Epochen.\"",
+        "description": "\"Elua ist ein junger a-cappella-Männerchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchorstücken.\"",
         "language": "\"de\""
       },
       "path": ""
