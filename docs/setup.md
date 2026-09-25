@@ -36,9 +36,8 @@
 
 ## Einmalig durch die Repo-Betreuung
 
-- GitHub Actions Secret setzen: `gh secret set WEBSTUDIO_LINK` (fragt den Wert interaktiv ab, landet nicht in der Shell-History). Wert ist ein Builder-Share-Link des Cloud-Projekts.
 - GitHub Pages auf "GitHub Actions" stellen: Settings, Pages, Source, GitHub Actions.
-- Wird der Share-Link ersetzt (z. B. weil er bekannt geworden ist): alten Link im Webstudio-Share-Dialog löschen, neuen anlegen und das Secret neu setzen.
+- Wird der Share-Link ersetzt (z. B. weil er bekannt geworden ist): alten Link im Webstudio-Share-Dialog löschen und neuen anlegen. CI braucht keinen Link.
 
 ## Versionen
 

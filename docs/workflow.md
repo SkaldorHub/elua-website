@@ -1,13 +1,17 @@
 # Workflow
 
+## Grundregel
+
+Die Live-Seite wird **nur aus dem Repo** gebaut (`.webstudio/data.json` auf `main`). Jeder Push auf `main` deployt. Die Webstudio-Cloud ist der Editor, nicht die Quelle.
+
+Cloud und Repo müssen deshalb gleich sein, bevor jemand arbeitet:
+- Vor einer Änderung im Cloud-Editor: `git pull`, dann `npx webstudio@0.298.0 sync` in einer Kopie und `git diff`. Gibt es Unterschiede, stehen im Repo neuere Änderungen: erst per `import` in die Cloud spielen (siehe Rollback, Schritt 2), sonst überschreibt der nächste `sync` sie.
+- Eine Änderung nur im Repo (z. B. `data.json` von Hand) geht beim Push live, fehlt aber in der Cloud, bis sie per `import` eingespielt ist.
+
 ## Standardweg: im Cloud-Editor ändern
 
-1. Im Webstudio-Cloud-Projekt Inhalt oder Design ändern. Ein "Publish" in Webstudio ist nicht nötig, der CI-Lauf holt den aktuellen Projektstand.
-2. Live schalten, eine der beiden Möglichkeiten:
-   - GitHub, Tab **Actions**, Workflow **Deploy**, **Run workflow** (schnellster Weg, kein lokaler Schritt)
-   - Ein beliebiger Push auf `main`
-3. Status prüfen: Tab Actions, grüner Lauf = live (dauert etwa eine Minute).
-4. Repo als Sicherung nachziehen:
+1. Im Webstudio-Cloud-Projekt Inhalt oder Design ändern. Ein "Publish" in Webstudio ist nicht nötig.
+2. Stand ins Repo holen und live schalten:
    ```
    npx webstudio@0.298.0 sync
    git diff --stat            # nur erwartete Änderungen?
@@ -16,8 +20,9 @@
    git push
    ```
    Commit-Messages sind kurze Einzeiler.
+3. Status prüfen: Tab Actions, grüner Lauf = live (dauert etwa eine Minute).
 
-Kein Git-Commit ist nötig, damit die Seite sich ändert. Er hält nur die Historie fest.
+Ohne Commit und Push ändert sich die Seite nicht.
 
 ## Dateien und Bilder
 
@@ -42,13 +47,12 @@ Layout und Texte lassen sich auch per CLI einspielen (`design/*.jsx`). Das brauc
 
 ## Rollback
 
-Der CI-Lauf synchronisiert immer aus der Cloud. Ein `git revert` auf `.webstudio/data.json` ändert die Live-Seite deshalb nicht. So gehst du auf einen früheren Stand zurück:
+Ein `git revert` auf `main` ändert die Live-Seite direkt. Danach die Cloud nachziehen, damit dort nicht auf dem alten Stand weitergearbeitet wird:
 
-1. Älteren Projektstand aus Git holen: `git checkout <commit> -- .webstudio/data.json`
+1. `git revert <commit>` und `git push`
 2. In die Cloud zurückspielen: `npx webstudio@0.298.0 import --skip-assets --to '<cloud-share-link>'`
-3. Deploy wie oben auslösen.
 
-Achtung: `import` überschreibt das gesamte Cloud-Projekt. Vorher `sync` und `git diff` ausführen, damit keine fremden Änderungen verloren gehen. Der Mechanismus ist derselbe wie beim Einspielen von Layouts, als Rollback aber nicht gesondert getestet.
+Achtung: `import` überschreibt das gesamte Cloud-Projekt. Vorher `sync` in einer Kopie und `git diff`, damit keine fremden Änderungen verloren gehen.
 
 ## Regeln
 

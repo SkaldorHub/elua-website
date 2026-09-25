@@ -96,4 +96,4 @@ Regeln, die sich aus Fehlversuchen ergeben haben:
 3. Import: `npx webstudio@0.298.0 import --skip-assets --to '<cloud-share-link>'`. `--skip-assets`, weil der Asset-Upload das API-Recht bräuchte.
 4. Im Repo: `sync`, `sh scripts/build.sh`, committen, pushen (siehe [workflow.md](workflow.md)).
 
-Cloud-Share-Links nicht in Chats oder Tickets einfügen. Wenn es doch passiert ist, den Link im Share-Dialog löschen, neu anlegen und das Secret `WEBSTUDIO_LINK` erneuern.
+Cloud-Share-Links nicht in Chats oder Tickets einfügen. Wenn es doch passiert ist, den Link im Share-Dialog löschen, und neu anlegen.

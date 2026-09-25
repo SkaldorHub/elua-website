@@ -21,10 +21,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npx --yes webstudio@0.298.0 link --link "$WEBSTUDIO_LINK"
-        env:
-          WEBSTUDIO_LINK: ${{ secrets.WEBSTUDIO_LINK }}
-      - run: npx --yes webstudio@0.298.0 sync
       - name: Build
         run: sh scripts/build.sh
         env:

@@ -8,8 +8,8 @@
 | CI-Lauf schlägt nach 0 Sekunden fehl, Name des Laufs ist der Dateipfad | `deploy.yml` ist kein gültiges YAML (z. B. `: ` in einer einzeiligen `run:`-Zeile) | Mehrzeilige Befehle als Block schreiben (`run: \|`) und lokal prüfen: `python3 -c "import yaml; yaml.safe_load(open('.github/workflows/deploy.yml'))"` |
 | `webstudio build`: "Template is not provided" | Template fehlt | `--template ssg` mitgeben (macht `scripts/build.sh`) |
 | Bild fehlt nach dem Deploy | Datei nicht in `static/` oder falsche URL im Bild-Element | Datei in `static/` ablegen, URL `https://skaldorhub.github.io/elua-website/<datei>` |
-| Änderung in der Cloud, Seite bleibt alt | Kein Deploy ausgelöst | Actions, Deploy, Run workflow |
-| `git revert` ändert die Live-Seite nicht | CI synchronisiert aus der Cloud | Siehe Rollback in [workflow.md](workflow.md) |
+| Änderung in der Cloud, Seite bleibt alt | CI baut nur aus dem Repo | `sync`, Commit, Push (siehe [workflow.md](workflow.md)) |
+| Änderung im Repo verschwindet nach Arbeit im Cloud-Editor | Cloud hatte den Repo-Stand nicht, `sync` hat ihn überschrieben | Vor Arbeit in der Cloud Repo-Stand per `import` einspielen (siehe [workflow.md](workflow.md)) |
 | `vite.config.ts` zeigt nach lokalem Build eine Änderung | Das Skript trägt den Basispfad nur temporär ein | `git checkout -- vite.config.ts` (das Skript macht das am Ende selbst) |
 | Screenshot mit Headless-Chrome ist rechts abgeschnitten | Headless-Chrome hat eine Mindestbreite von etwa 500 px | Am echten Gerät prüfen |
 
