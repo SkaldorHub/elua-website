@@ -16,7 +16,7 @@ flowchart LR
     E -.->|später: A/AAAA/CNAME| F[Eigene Domain bei IONOS]
 ```
 
-Wichtig: Der CI-Lauf baut **nur aus dem Repo**, nicht aus der Cloud. Eine Änderung im Cloud-Editor geht erst nach `sync`, Commit und Push live. Umgekehrt muss eine Änderung im Repo per `import` in die Cloud, bevor dort weitergearbeitet wird (siehe [workflow.md](docs/workflow.md)).
+Wichtig: Der CI-Lauf baut **nur aus dem Repo**, nicht aus der Cloud. Eine Änderung im Cloud-Editor geht erst nach `sync`, Commit und Push live. Umgekehrt muss jede Änderung im Repo sofort per `import` in die Cloud, die Cloud-Version ist immer auf dem Stand von `main` zu halten (siehe [workflow.md](docs/workflow.md)).
 
 ## Verzeichnisse
 

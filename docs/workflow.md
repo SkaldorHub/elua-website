@@ -6,7 +6,7 @@ Die Live-Seite wird **nur aus dem Repo** gebaut (`.webstudio/data.json` auf `mai
 
 Cloud und Repo müssen deshalb gleich sein, bevor jemand arbeitet:
 - Vor einer Änderung im Cloud-Editor: `git pull`, dann `npx webstudio@0.298.0 sync` in einer Kopie und `git diff`. Gibt es Unterschiede, stehen im Repo neuere Änderungen: erst per `import` in die Cloud spielen (siehe Rollback, Schritt 2), sonst überschreibt der nächste `sync` sie.
-- Eine Änderung nur im Repo (z. B. `data.json` von Hand) geht beim Push live, fehlt aber in der Cloud, bis sie per `import` eingespielt ist.
+- **Die Cloud muss immer auf dem Stand von `main` sein.** Jede Änderung an `.webstudio/data.json`, die nicht aus einem `sync` kommt (von Hand, Selfhost-Builder, Revert), direkt nach dem Push per `import` in die Cloud spielen (siehe Rollback, Schritt 2). Der Push allein bringt sie nur live, nicht in die Cloud.
 
 ## Standardweg: im Cloud-Editor ändern
 
@@ -57,4 +57,5 @@ Achtung: `import` überschreibt das gesamte Cloud-Projekt. Vorher `sync` in eine
 ## Regeln
 
 - Generierte Dateien (`app/`, `pages/`, `renderer/`, `vite.config.ts`, `package.json`) nicht von Hand bearbeiten. Sie werden bei jedem Build überschrieben.
+- Cloud-Projekt immer auf dem Stand von `main` halten: nach jeder Repo-Änderung an `.webstudio/data.json` ohne `sync` einen `import` machen.
 - Vor Änderungen in der Cloud kurz abstimmen, wenn mehrere Personen gleichzeitig arbeiten. Der Import aus dem Selfhost-Weg überschreibt alles.
