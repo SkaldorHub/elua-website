@@ -350,14 +350,6 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Sir Duke: Isn't she superstitious (Stevie Wonder Medley)"}
-</li>
-<li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Beach Voice (The Beach Boys Medley)"}
-</li>
-<li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 {"Laut sein, Schlaraffenland (MayBeBop)"}
 </li>
 <li
@@ -371,6 +363,14 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 {"Don't stop me now, Love of my life (Queen)"}
+</li>
+<li
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+{"Sir Duke: Isn't she superstitious (Stevie Wonder Medley)"}
+</li>
+<li
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+{"Beach Voice (The Beach Boys Medley)"}
 </li>
 </ul>
 </div>

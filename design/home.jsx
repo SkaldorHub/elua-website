@@ -105,12 +105,12 @@
           <h3 tokens="card-title">Popsongs</h3>
           <ul tokens="list">
             <li tokens="list-item">Die with a Smile</li>
-            <li tokens="list-item">Sir Duke: Isn't she superstitious (Stevie Wonder Medley)</li>
-            <li tokens="list-item">Beach Voice (The Beach Boys Medley)</li>
             <li tokens="list-item">Laut sein, Schlaraffenland (MayBeBop)</li>
             <li tokens="list-item">Junge (Die Ärzte)</li>
             <li tokens="list-item">Wochenend und Sonnenschein</li>
             <li tokens="list-item">Don't stop me now, Love of my life (Queen)</li>
+            <li tokens="list-item">Sir Duke: Isn't she superstitious (Stevie Wonder Medley)</li>
+            <li tokens="list-item">Beach Voice (The Beach Boys Medley)</li>
           </ul>
         </div>
         <div tokens="card card-raised">
