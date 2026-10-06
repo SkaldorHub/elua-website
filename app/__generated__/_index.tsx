@@ -47,7 +47,12 @@ className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp
 <Link
 href={"#top"}
 className={`w-element c5ehj5z c1xsh9ye cplcfhb c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
-{"Elua"}
+<Image
+src={"https://elua-chor.de/EluaLogo.png"}
+alt={"Elua"}
+width={1005}
+height={978}
+className={`w-image c7uoxt9 c12dyd6d cbsznq7`} />
 </Link>
 <div
 className={`w-element c1fni2gu ch59csv c7rku33 c1410kxv c1w0a532 c1orux75`}>
@@ -84,7 +89,12 @@ className={`w-element cmqlbh0 c1i2vr79 cprot4m c965u9v c16cw6j7 cdl88ck clhhl65 
 className={`w-element carurm8 c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
 <h1
 className={`w-element c1mmah3s c5ehj5z c10kbkik cv4xff c1kxakyg c3wpgfv c2c5k78 cc66th3 c1c5uzfd`}>
-{"Elua"}
+<Image
+src={"https://elua-chor.de/EluaLogo.png"}
+alt={"Elua"}
+width={1005}
+height={978}
+className={`w-image c7uoxt9 cm6jye0 c18lr0js`} />
 </h1>
 <p
 className={`w-element cgkvnzw c1aa4719 c1yzhsul c5e6w5u ckrg0rz c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
@@ -407,7 +417,12 @@ className={`w-element c7zyfjo cmo2fg ccr1t9u c1oxwlyr c1s5rcms c1pnb8mk c1tnig5v
 className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59csv cf1v9v6 c6k4006 cguguel c1s04uh8`}>
 <p
 className={`w-element c5ehj5z c1ms36tz cplcfhb ck10si5`}>
-{"Elua"}
+<Image
+src={"https://elua-chor.de/EluaLogo.png"}
+alt={"Elua"}
+width={1005}
+height={978}
+className={`w-image c7uoxt9 cis1kp4 cbsznq7 c1m9ibhp`} />
 </p>
 <Link
 href={"impressum/"}

@@ -7332,6 +7332,128 @@
             "alpha": 1
           }
         }
+      ],
+      [
+        "rTtrvIybZdOsESGwVCRdb:TmvRQLkosFhDFSib43_dp:display:",
+        {
+          "styleSourceId": "rTtrvIybZdOsESGwVCRdb",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "block"
+          }
+        }
+      ],
+      [
+        "rTtrvIybZdOsESGwVCRdb:TmvRQLkosFhDFSib43_dp:height:",
+        {
+          "styleSourceId": "rTtrvIybZdOsESGwVCRdb",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2.25
+          }
+        }
+      ],
+      [
+        "rTtrvIybZdOsESGwVCRdb:TmvRQLkosFhDFSib43_dp:width:",
+        {
+          "styleSourceId": "rTtrvIybZdOsESGwVCRdb",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "width",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "ubuKbKpIY7ZdI8XZYvFd2:TmvRQLkosFhDFSib43_dp:display:",
+        {
+          "styleSourceId": "ubuKbKpIY7ZdI8XZYvFd2",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "block"
+          }
+        }
+      ],
+      [
+        "ubuKbKpIY7ZdI8XZYvFd2:TmvRQLkosFhDFSib43_dp:width:",
+        {
+          "styleSourceId": "ubuKbKpIY7ZdI8XZYvFd2",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "width",
+          "value": {
+            "type": "unparsed",
+            "value": "clamp(8rem, 26vw, 14rem)"
+          }
+        }
+      ],
+      [
+        "ubuKbKpIY7ZdI8XZYvFd2:TmvRQLkosFhDFSib43_dp:height:",
+        {
+          "styleSourceId": "ubuKbKpIY7ZdI8XZYvFd2",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "height",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "VZorNP_X9NBVrTDqmnjBB:TmvRQLkosFhDFSib43_dp:display:",
+        {
+          "styleSourceId": "VZorNP_X9NBVrTDqmnjBB",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "block"
+          }
+        }
+      ],
+      [
+        "VZorNP_X9NBVrTDqmnjBB:TmvRQLkosFhDFSib43_dp:height:",
+        {
+          "styleSourceId": "VZorNP_X9NBVrTDqmnjBB",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "height",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2.5
+          }
+        }
+      ],
+      [
+        "VZorNP_X9NBVrTDqmnjBB:TmvRQLkosFhDFSib43_dp:width:",
+        {
+          "styleSourceId": "VZorNP_X9NBVrTDqmnjBB",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "width",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "VZorNP_X9NBVrTDqmnjBB:TmvRQLkosFhDFSib43_dp:filter:",
+        {
+          "styleSourceId": "VZorNP_X9NBVrTDqmnjBB",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "filter",
+          "value": {
+            "type": "unparsed",
+            "value": "invert(1)"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -7914,6 +8036,30 @@
           "type": "token",
           "id": "uwZ3tUrslO4y0TXt42ysz",
           "name": "gig-note"
+        }
+      ],
+      [
+        "rTtrvIybZdOsESGwVCRdb",
+        {
+          "type": "token",
+          "id": "rTtrvIybZdOsESGwVCRdb",
+          "name": "logo-nav"
+        }
+      ],
+      [
+        "ubuKbKpIY7ZdI8XZYvFd2",
+        {
+          "type": "token",
+          "id": "ubuKbKpIY7ZdI8XZYvFd2",
+          "name": "logo-hero"
+        }
+      ],
+      [
+        "VZorNP_X9NBVrTDqmnjBB",
+        {
+          "type": "token",
+          "id": "VZorNP_X9NBVrTDqmnjBB",
+          "name": "logo-footer"
         }
       ]
     ],
@@ -9148,6 +9294,51 @@
             "hYcg6psSVpDgEpIlCDsYU"
           ]
         }
+      ],
+      [
+        "P18e6byZyGhdefrYAW5BI",
+        {
+          "instanceId": "P18e6byZyGhdefrYAW5BI",
+          "values": [
+            "rTtrvIybZdOsESGwVCRdb"
+          ]
+        }
+      ],
+      [
+        "jAVywpiyA8lp4_-wNaf5o",
+        {
+          "instanceId": "jAVywpiyA8lp4_-wNaf5o",
+          "values": [
+            "ubuKbKpIY7ZdI8XZYvFd2"
+          ]
+        }
+      ],
+      [
+        "1gBsS4eyNhJeLYXJHuFFE",
+        {
+          "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
+          "values": [
+            "VZorNP_X9NBVrTDqmnjBB"
+          ]
+        }
+      ],
+      [
+        "Gs_DGv3bvv49lIWyntJns",
+        {
+          "instanceId": "Gs_DGv3bvv49lIWyntJns",
+          "values": [
+            "rTtrvIybZdOsESGwVCRdb"
+          ]
+        }
+      ],
+      [
+        "kfajjU5byaX24m_Z68XmX",
+        {
+          "instanceId": "kfajjU5byaX24m_Z68XmX",
+          "values": [
+            "VZorNP_X9NBVrTDqmnjBB"
+          ]
+        }
       ]
     ],
     "props": [
@@ -9389,6 +9580,206 @@
           "name": "href",
           "type": "string",
           "value": "../"
+        }
+      ],
+      [
+        "uD130ni0hVTHLZDE9km25",
+        {
+          "id": "uD130ni0hVTHLZDE9km25",
+          "instanceId": "P18e6byZyGhdefrYAW5BI",
+          "name": "src",
+          "type": "string",
+          "value": "https://elua-chor.de/EluaLogo.png"
+        }
+      ],
+      [
+        "MaRKnSsB8d18XCKGozAUv",
+        {
+          "id": "MaRKnSsB8d18XCKGozAUv",
+          "instanceId": "P18e6byZyGhdefrYAW5BI",
+          "name": "alt",
+          "type": "string",
+          "value": "Elua"
+        }
+      ],
+      [
+        "ExoWqkuMQaU92H1zZxiTe",
+        {
+          "id": "ExoWqkuMQaU92H1zZxiTe",
+          "instanceId": "P18e6byZyGhdefrYAW5BI",
+          "name": "width",
+          "type": "number",
+          "value": 1005
+        }
+      ],
+      [
+        "X5iRKZQBg0IIK7YwQXiD9",
+        {
+          "id": "X5iRKZQBg0IIK7YwQXiD9",
+          "instanceId": "P18e6byZyGhdefrYAW5BI",
+          "name": "height",
+          "type": "number",
+          "value": 978
+        }
+      ],
+      [
+        "Ap6utpSbSCZs6v2uEX_Xb",
+        {
+          "id": "Ap6utpSbSCZs6v2uEX_Xb",
+          "instanceId": "jAVywpiyA8lp4_-wNaf5o",
+          "name": "src",
+          "type": "string",
+          "value": "https://elua-chor.de/EluaLogo.png"
+        }
+      ],
+      [
+        "D8B8k6SjQELWgAsTWfRw7",
+        {
+          "id": "D8B8k6SjQELWgAsTWfRw7",
+          "instanceId": "jAVywpiyA8lp4_-wNaf5o",
+          "name": "alt",
+          "type": "string",
+          "value": "Elua"
+        }
+      ],
+      [
+        "pY-UT5Gj87l8TT1dT3KvV",
+        {
+          "id": "pY-UT5Gj87l8TT1dT3KvV",
+          "instanceId": "jAVywpiyA8lp4_-wNaf5o",
+          "name": "width",
+          "type": "number",
+          "value": 1005
+        }
+      ],
+      [
+        "bcw66UvpUzyNNSFaOXFJ5",
+        {
+          "id": "bcw66UvpUzyNNSFaOXFJ5",
+          "instanceId": "jAVywpiyA8lp4_-wNaf5o",
+          "name": "height",
+          "type": "number",
+          "value": 978
+        }
+      ],
+      [
+        "788wMCtiy-bkm9D5AexQc",
+        {
+          "id": "788wMCtiy-bkm9D5AexQc",
+          "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
+          "name": "src",
+          "type": "string",
+          "value": "https://elua-chor.de/EluaLogo.png"
+        }
+      ],
+      [
+        "zqevUbS217fX6jP63DBdP",
+        {
+          "id": "zqevUbS217fX6jP63DBdP",
+          "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
+          "name": "alt",
+          "type": "string",
+          "value": "Elua"
+        }
+      ],
+      [
+        "SZ9ggAiPxRaqA2p97Rqw6",
+        {
+          "id": "SZ9ggAiPxRaqA2p97Rqw6",
+          "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
+          "name": "width",
+          "type": "number",
+          "value": 1005
+        }
+      ],
+      [
+        "D6ig0mVBsceNcvBqd_uFQ",
+        {
+          "id": "D6ig0mVBsceNcvBqd_uFQ",
+          "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
+          "name": "height",
+          "type": "number",
+          "value": 978
+        }
+      ],
+      [
+        "KMZIMZPQ-Si70SgTjHMMo",
+        {
+          "id": "KMZIMZPQ-Si70SgTjHMMo",
+          "instanceId": "Gs_DGv3bvv49lIWyntJns",
+          "name": "src",
+          "type": "string",
+          "value": "https://elua-chor.de/EluaLogo.png"
+        }
+      ],
+      [
+        "dLwBIMf6jUwn8oAESWPZV",
+        {
+          "id": "dLwBIMf6jUwn8oAESWPZV",
+          "instanceId": "Gs_DGv3bvv49lIWyntJns",
+          "name": "alt",
+          "type": "string",
+          "value": "Elua"
+        }
+      ],
+      [
+        "oHTfsRASefCFqTRLh7ito",
+        {
+          "id": "oHTfsRASefCFqTRLh7ito",
+          "instanceId": "Gs_DGv3bvv49lIWyntJns",
+          "name": "width",
+          "type": "number",
+          "value": 1005
+        }
+      ],
+      [
+        "xfhttsC2p9TTnh15i1Xoy",
+        {
+          "id": "xfhttsC2p9TTnh15i1Xoy",
+          "instanceId": "Gs_DGv3bvv49lIWyntJns",
+          "name": "height",
+          "type": "number",
+          "value": 978
+        }
+      ],
+      [
+        "EdiicWAqCB2vStNYTMFfS",
+        {
+          "id": "EdiicWAqCB2vStNYTMFfS",
+          "instanceId": "kfajjU5byaX24m_Z68XmX",
+          "name": "src",
+          "type": "string",
+          "value": "https://elua-chor.de/EluaLogo.png"
+        }
+      ],
+      [
+        "gMUgYKnW4AtH7tYG8bATf",
+        {
+          "id": "gMUgYKnW4AtH7tYG8bATf",
+          "instanceId": "kfajjU5byaX24m_Z68XmX",
+          "name": "alt",
+          "type": "string",
+          "value": "Elua"
+        }
+      ],
+      [
+        "r6TA83KiqRgS_BJeWlF7m",
+        {
+          "id": "r6TA83KiqRgS_BJeWlF7m",
+          "instanceId": "kfajjU5byaX24m_Z68XmX",
+          "name": "width",
+          "type": "number",
+          "value": 1005
+        }
+      ],
+      [
+        "bZe46G84NB06EKQd9j5kD",
+        {
+          "id": "bZe46G84NB06EKQd9j5kD",
+          "instanceId": "kfajjU5byaX24m_Z68XmX",
+          "name": "height",
+          "type": "number",
+          "value": 978
         }
       ]
     ],
@@ -9679,8 +10070,8 @@
           "tag": "a",
           "children": [
             {
-              "type": "text",
-              "value": "Elua"
+              "type": "id",
+              "value": "P18e6byZyGhdefrYAW5BI"
             }
           ]
         }
@@ -9851,8 +10242,8 @@
           "tag": "h1",
           "children": [
             {
-              "type": "text",
-              "value": "Elua"
+              "type": "id",
+              "value": "jAVywpiyA8lp4_-wNaf5o"
             }
           ]
         }
@@ -10770,8 +11161,8 @@
           "tag": "p",
           "children": [
             {
-              "type": "text",
-              "value": "Elua"
+              "type": "id",
+              "value": "1gBsS4eyNhJeLYXJHuFFE"
             }
           ]
         }
@@ -10842,8 +11233,8 @@
           "tag": "a",
           "children": [
             {
-              "type": "text",
-              "value": "Elua"
+              "type": "id",
+              "value": "Gs_DGv3bvv49lIWyntJns"
             }
           ]
         }
@@ -11293,8 +11684,8 @@
           "tag": "p",
           "children": [
             {
-              "type": "text",
-              "value": "Elua"
+              "type": "id",
+              "value": "kfajjU5byaX24m_Z68XmX"
             }
           ]
         }
@@ -11876,6 +12267,51 @@
               "value": "Y0Uy5KEv-csT6e_9lo_8M"
             }
           ]
+        }
+      ],
+      [
+        "P18e6byZyGhdefrYAW5BI",
+        {
+          "type": "instance",
+          "id": "P18e6byZyGhdefrYAW5BI",
+          "component": "Image",
+          "children": []
+        }
+      ],
+      [
+        "jAVywpiyA8lp4_-wNaf5o",
+        {
+          "type": "instance",
+          "id": "jAVywpiyA8lp4_-wNaf5o",
+          "component": "Image",
+          "children": []
+        }
+      ],
+      [
+        "1gBsS4eyNhJeLYXJHuFFE",
+        {
+          "type": "instance",
+          "id": "1gBsS4eyNhJeLYXJHuFFE",
+          "component": "Image",
+          "children": []
+        }
+      ],
+      [
+        "Gs_DGv3bvv49lIWyntJns",
+        {
+          "type": "instance",
+          "id": "Gs_DGv3bvv49lIWyntJns",
+          "component": "Image",
+          "children": []
+        }
+      ],
+      [
+        "kfajjU5byaX24m_Z68XmX",
+        {
+          "type": "instance",
+          "id": "kfajjU5byaX24m_Z68XmX",
+          "component": "Image",
+          "children": []
         }
       ]
     ],

@@ -1,6 +1,6 @@
 <main tokens="page">
   <nav tokens="nav">
-    <a href="../" tokens="nav-brand">Elua</a>
+    <a href="../" tokens="nav-brand"><Image tokens="logo-nav" src="https://elua-chor.de/EluaLogo.png" alt="Elua" width={1005} height={978} /></a>
     <a href="../" tokens="nav-link">Zur Startseite</a>
   </nav>
   <div tokens="narrow" ws:style={css`padding: 4rem 1.5rem 6rem;`}>
@@ -21,7 +21,7 @@
   </div>
   <footer tokens="footer">
     <div tokens="footer-inner">
-      <p tokens="footer-brand">Elua</p>
+      <p tokens="footer-brand"><Image tokens="logo-footer" src="https://elua-chor.de/EluaLogo.png" alt="Elua" width={1005} height={978} /></p>
       <a href="../" tokens="footer-link">Zur Startseite</a>
     </div>
   </footer>
