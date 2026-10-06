@@ -9339,6 +9339,15 @@
             "VZorNP_X9NBVrTDqmnjBB"
           ]
         }
+      ],
+      [
+        "4mAAuEds-8jb1rPFxcwjI",
+        {
+          "instanceId": "4mAAuEds-8jb1rPFxcwjI",
+          "values": [
+            "sP-piYjsfjMValiYZzIBt"
+          ]
+        }
       ]
     ],
     "props": [
@@ -10833,6 +10842,10 @@
             },
             {
               "type": "id",
+              "value": "4mAAuEds-8jb1rPFxcwjI"
+            },
+            {
+              "type": "id",
               "value": "VVLoyfCcD6WtNo5_GmTlo"
             },
             {
@@ -10864,7 +10877,7 @@
           "children": [
             {
               "type": "text",
-              "value": "California Dreaming"
+              "value": "Die with a Smile"
             }
           ]
         }
@@ -10879,7 +10892,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Mad World"
+              "value": "Sir Duke: Isn't she superstitious (Stevie Wonder Medley)"
             }
           ]
         }
@@ -12312,6 +12325,21 @@
           "id": "kfajjU5byaX24m_Z68XmX",
           "component": "Image",
           "children": []
+        }
+      ],
+      [
+        "4mAAuEds-8jb1rPFxcwjI",
+        {
+          "type": "instance",
+          "id": "4mAAuEds-8jb1rPFxcwjI",
+          "component": "ws:element",
+          "tag": "li",
+          "children": [
+            {
+              "type": "text",
+              "value": "Beach Voice (The Beach Boys Medley)"
+            }
+          ]
         }
       ]
     ],

@@ -346,11 +346,15 @@ className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th
 className={`w-element c1dx4yrh ck10si5 co5evuj`}>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"California Dreaming"}
+{"Die with a Smile"}
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Mad World"}
+{"Sir Duke: Isn't she superstitious (Stevie Wonder Medley)"}
+</li>
+<li
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+{"Beach Voice (The Beach Boys Medley)"}
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
