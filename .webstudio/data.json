@@ -8654,16 +8654,6 @@
         }
       ],
       [
-        "6FlQ0mpl5CZnt_8eJfID5",
-        {
-          "instanceId": "6FlQ0mpl5CZnt_8eJfID5",
-          "values": [
-            "sP-piYjsfjMValiYZzIBt",
-            "cCNKPZuo-C0_z772a2l24"
-          ]
-        }
-      ],
-      [
         "N6DSqqMaDaAVOSfvnt4dN",
         {
           "instanceId": "N6DSqqMaDaAVOSfvnt4dN",
@@ -8741,8 +8731,7 @@
         {
           "instanceId": "_e6mKLRIlADxvf8arTkLo",
           "values": [
-            "sP-piYjsfjMValiYZzIBt",
-            "cCNKPZuo-C0_z772a2l24"
+            "sP-piYjsfjMValiYZzIBt"
           ]
         }
       ],
@@ -10859,10 +10848,6 @@
             {
               "type": "id",
               "value": "ptESHjBlr35pDihcLXIP_"
-            },
-            {
-              "type": "id",
-              "value": "6FlQ0mpl5CZnt_8eJfID5"
             }
           ]
         }
@@ -10953,21 +10938,6 @@
             {
               "type": "text",
               "value": "Don't stop me now, Love of my life (Queen)"
-            }
-          ]
-        }
-      ],
-      [
-        "6FlQ0mpl5CZnt_8eJfID5",
-        {
-          "type": "instance",
-          "id": "6FlQ0mpl5CZnt_8eJfID5",
-          "component": "ws:element",
-          "tag": "li",
-          "children": [
-            {
-              "type": "text",
-              "value": "etc."
             }
           ]
         }
@@ -11126,7 +11096,7 @@
           "children": [
             {
               "type": "text",
-              "value": "etc."
+              "value": "Schöne Nacht"
             }
           ]
         }

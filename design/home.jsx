@@ -111,7 +111,6 @@
             <li tokens="list-item">Junge (Die Ärzte)</li>
             <li tokens="list-item">Wochenend und Sonnenschein</li>
             <li tokens="list-item">Don't stop me now, Love of my life (Queen)</li>
-            <li tokens="list-item list-item-muted">etc.</li>
           </ul>
         </div>
         <div tokens="card card-raised">
@@ -122,7 +121,7 @@
             <li tokens="list-item">Tourdion</li>
             <li tokens="list-item">a capella Version der Unvollendeten Sinfonie von Schubert</li>
             <li tokens="list-item">Das Morgenrot</li>
-            <li tokens="list-item list-item-muted">etc.</li>
+            <li tokens="list-item">Schöne Nacht</li>
           </ul>
         </div>
       </div>

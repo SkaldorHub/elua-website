@@ -372,10 +372,6 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 {"Don't stop me now, Love of my life (Queen)"}
 </li>
-<li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
-{"etc."}
-</li>
 </ul>
 </div>
 <div
@@ -407,8 +403,8 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 {"Das Morgenrot"}
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
-{"etc."}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+{"Schöne Nacht"}
 </li>
 </ul>
 </div>
