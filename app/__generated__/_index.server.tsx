@@ -22,8 +22,8 @@ export const getResources = (_props: { system: System; resources?: Record<string
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Elua – A-cappella-Herrenchor aus Berlin",
-    description: "Elua ist ein junger a-cappella-Herrenchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchören aus allen Epochen.",
+    title: "Elua – A-cappella-Männerchor aus Berlin",
+    description: "Elua ist ein junger a-cappella-Männerchor aus Berlin: Männer ab 16 Jahren, Repertoire von Popsongs bis zu klassischen Männerchorstücken.",
     excludePageFromSearch: undefined,
     language: "de",
     socialImageAssetName: undefined,

@@ -69,7 +69,7 @@ className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
 <Link
 href={"#programm"}
 className={`w-element cad4b79 cjf3zq6 c1hpe72s c1ahvl7i ct9id28`}>
-{"Programm"}
+{"Repertoire"}
 </Link>
 </div>
 </nav>
@@ -88,7 +88,7 @@ className={`w-element c1mmah3s c5ehj5z c10kbkik cv4xff c1kxakyg c3wpgfv c2c5k78 
 </h1>
 <p
 className={`w-element cgkvnzw c1aa4719 c1yzhsul c5e6w5u ckrg0rz c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
-{"ein junger A Cappella Herren-Chor"}
+{"ein junger A Capella Männerchor"}
 </p>
 <Image
 src={"https://elua-chor.de/elua-chor.jpg"}
@@ -196,6 +196,124 @@ className={`w-element cad4b79 ck10si5`}>
 </p>
 </div>
 </div>
+<div
+className={`w-element c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c18w5uwy cibx1v cpyhlwk c1tzot5x crkgmla c1kz3282 c10v7lzm c12cuaxg c7zsd6i c1ft92md cg3o9tm c18z4d9r c120stv9 c1djiv4f c1ndr0s2 ciwcxpu c1ccikth c15mv5q3 cegn49k c15g1l06`}>
+<h3
+className={`w-element c1ms36tz c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3 c1791yd4`}>
+{"Kommende Termine"}
+</h3>
+<div
+className={`w-element c1p9ygrg`}>
+<table
+className={`w-element c1ixa9ew che5zzo c1ojv55f`}>
+<thead
+className={`w-element`}>
+<tr
+className={`w-element cih9fcy c1luh8n1`}>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Veranstaltung"}
+</th>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Ort"}
+</th>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Datum"}
+</th>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Beginn"}
+</th>
+</tr>
+</thead>
+<tbody
+className={`w-element`}>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Weihnachtsmarkt am Gendarmenmarkt"}
+<span
+className={`w-element c7uoxt9 c1eufnsd c2jph5x c1ppsr1o ckrg0rz`}>
+{"Zur Eröffnung des Marktes"}
+</span>
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Gendarmenmarkt, Berlin"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Mo, 30.11.2026"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv cad4b79 ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 ck2bhtp`}>
+{"17.30 Uhr"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Weihnachtsmarkt am Gendarmenmarkt"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Gendarmenmarkt, Berlin"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Mo, 07.12.2026"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv cad4b79 ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 ck2bhtp`}>
+{"16.30 Uhr"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Weihnachtsmarkt am Gendarmenmarkt"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Gendarmenmarkt, Berlin"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Mo, 14.12.2026"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv cad4b79 ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 ck2bhtp`}>
+{"17.00 Uhr"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Symposium für Kinder- und Jugendstimme"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"HfM Mendelssohn-Bartholdy, Leipzig"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Sa, 27.02.2027"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv cad4b79 ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 ck2bhtp`}>
+{"20.00 Uhr"}
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 </section>
 <section
 id={"programm"}
@@ -204,7 +322,7 @@ className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo cwq4l34 c1u74j40 cptnrsl c1pmye
 className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
 <h2
 className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1kxakyg cc66th3 c3wpgfv c1o9cloj c1ltluz0 csafaus cwgo70q c1aaeh9d c143vdb4 c1b23188`}>
-{"Auswahl aus den Programmen:"}
+{"Auswahl aus dem Repertoire:"}
 </h2>
 <div
 className={`w-element c1fni2gu ch59csv c17v894l c1410kxv`}>
@@ -250,7 +368,7 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao cad4b79 c17f5roo`}>
 className={`w-element c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c8urlaq c1cs5b61 ccqja4s c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb c16fsc7 c1uj8qy5`}>
 <h3
 className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3 c1rf84ge`}>
-{"Klassische Männerchöre aus allen Epochen"}
+{"Klassische Männerchorstücke"}
 </h3>
 <ul
 className={`w-element c1dx4yrh ck10si5 co5evuj`}>
@@ -268,7 +386,7 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"a capella Version Unvollendete Sinfonie von Schubert"}
+{"a capella Version der Unvollendeten Sinfonie von Schubert"}
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>

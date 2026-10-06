@@ -55,7 +55,7 @@
         <p tokens="text-muted">Ihre Auftritte sind immer Ausdruck ihrer ausdauernden Freude am Chorsingen, das von klein auf zu ihrem Leben gehört. Weiterhin gestalten sie auch einige Stücke halbszenisch - zur Freude des Publikums. Dabei erstreckt sich die Literatur von Klassik bis Pop.</p>
       </div>
     </div>
-    <div tokens="container card gig-card">
+    <div tokens="card gig-card">
       <h3 tokens="gig-caption">Kommende Termine</h3>
       <div tokens="gig-scroll">
         <table tokens="gig-table">
@@ -68,18 +68,6 @@
             </tr>
           </thead>
           <tbody>
-            <tr tokens="gig-row">
-              <td tokens="gig-cell gig-event">Erntedankfest</td>
-              <td tokens="gig-cell gig-place">Diakonie Johannesstift, Schönwalder Allee 26, 13587 Berlin-Spandau</td>
-              <td tokens="gig-cell gig-date">So, 27.09.2026</td>
-              <td tokens="gig-cell gig-time">15.00 Uhr</td>
-            </tr>
-            <tr tokens="gig-row">
-              <td tokens="gig-cell gig-event">Kultur in der Natur – Open Air am Pfingstberg</td>
-              <td tokens="gig-cell gig-place">Belvedere am Pfingstberg, Im Neuen Garten, 14469 Potsdam</td>
-              <td tokens="gig-cell gig-date">Sa, 03.10.2026</td>
-              <td tokens="gig-cell gig-time">15.00 Uhr</td>
-            </tr>
             <tr tokens="gig-row">
               <td tokens="gig-cell gig-event">Weihnachtsmarkt am Gendarmenmarkt<span tokens="gig-note">Zur Eröffnung des Marktes</span></td>
               <td tokens="gig-cell gig-place">Gendarmenmarkt, Berlin</td>
