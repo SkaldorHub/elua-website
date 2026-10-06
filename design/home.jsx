@@ -32,10 +32,10 @@
   </section>
   <section id="entstehung" tokens="section pt-lg pb-md">
     <div tokens="section-row">
-      <h2 tokens="title-bar section-title">Entstehung des Chores</h2>
+      <h2 tokens="title-bar section-title">Wer sind wir?</h2>
       <div tokens="section-body">
-        <p tokens="text">Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine vierstimmig singende a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang.</p>
-        <p tokens="text-last">Nun hat sich dieses Herrenensembles neu zusammengefunden und beginnt den künstlerischen und stilistischen Horizont zu erweitern.</p>
+        <p tokens="text">Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang.</p>
+        <p tokens="text-last">Nun hat sich dieses Herrenensembles neu zusammengefunden, arbeitet konsequent an der künstlerischen Weiterentwicklung und erweitert kontinuierlich die stilistische Vielfalt.</p>
       </div>
     </div>
   </section>

@@ -153,17 +153,17 @@ className={`w-element c1pnb8mk c1oxwlyr c1tyyjqo cwq4l34 chbzvtw cptnrsl c1pmyem
 className={`w-element c1fni2gu ch59csv cjf24wm c14ova3y c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1ko8sid ck98bjj`}>
 <h2
 className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c1ltluz0 csafaus c8urlaq c1cs5b61 c1o7dtxp c13a7xur c1aaeh9d ck10si5 c143vdb4 c1b23188`}>
-{"Entstehung des Chores"}
+{"Wer sind wir?"}
 </h2>
 <div
 className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
 <p
 className={`w-element c1kxakyg c3wpgfv c1miagds cc66th3`}>
-{"Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine vierstimmig singende a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang."}
+{"Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang."}
 </p>
 <p
 className={`w-element ck10si5`}>
-{"Nun hat sich dieses Herrenensembles neu zusammengefunden und beginnt den künstlerischen und stilistischen Horizont zu erweitern."}
+{"Nun hat sich dieses Herrenensembles neu zusammengefunden, arbeitet konsequent an der künstlerischen Weiterentwicklung und erweitert kontinuierlich die stilistische Vielfalt."}
 </p>
 </div>
 </div>

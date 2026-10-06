@@ -12,6 +12,9 @@ Abweichungen auf Wunsch des Chores (bewusst, nicht versehentlich):
 | "Programm" / "Auswahl aus den Programmen" | "Repertoire" / "Auswahl aus dem Repertoire" (Navigation und Überschrift) |
 | "Klassische Männerchöre aus allen Epochen" | "Klassische Männerchorstücke" (Kartentitel und SEO-Beschreibung) |
 | "a capella Version Unvollendete Sinfonie von Schubert" | "a capella Version der Unvollendeten Sinfonie von Schubert" |
+| Überschrift "Entstehung des Chores" | "Wer sind wir?" (Anker bleibt `#entstehung`) |
+| "eine vierstimmig singende a capella Gruppe" | "eine a capella Gruppe" (die Einschränkung trifft nicht mehr zu) |
+| "beginnt den künstlerischen und stilistischen Horizont zu erweitern" | "arbeitet konsequent an der künstlerischen Weiterentwicklung und erweitert kontinuierlich die stilistische Vielfalt" |
 
 Der Anker der Repertoire-Sektion heißt aus Kompatibilitätsgründen weiterhin `#programm`.
 
@@ -22,7 +25,7 @@ Reihenfolge der Startseite:
 3. Intro-Satz
 4. Banner "Neue Chorsänger sind willkommen!"
 5. Kontakt
-6. Entstehung des Chores
+6. Wer sind wir? (früher "Entstehung des Chores")
 7. Leitung
 8. Auftritte (Fließtext plus Tabelle "Kommende Termine")
 9. Auswahl aus dem Repertoire (Popsongs, Klassische Männerchorstücke)
