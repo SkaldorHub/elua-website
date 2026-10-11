@@ -26,6 +26,7 @@
       <h2 tokens="title-bar section-title">Kontakt</h2>
       <div tokens="section-body card" ws:style={css`padding: 0.5rem 2rem;`}>
         <p tokens="row row-divider">Mail: <a href="mailto:info@elua-chor.de" tokens="link">info@elua-chor.de</a></p>
+        <p tokens="row row-divider">Instagram: <a href="https://www.instagram.com/elua_berlin/" target="_blank" tokens="link">@elua_berlin</a></p>
         <p tokens="row">Chorleitung: Rosemarie Arzt und Frederik Botthof</p>
       </div>
     </div>
@@ -173,7 +174,10 @@
   <footer tokens="footer">
     <div tokens="footer-inner">
       <p tokens="footer-brand"><Image tokens="logo-footer" src="https://elua-chor.de/EluaLogo.png" alt="Elua" width={1005} height={978} /></p>
-      <a href="impressum/" tokens="footer-link">Impressum</a>
+      <div tokens="footer-links">
+        <a href="https://www.instagram.com/elua_berlin/" target="_blank" tokens="footer-link">Instagram</a>
+        <a href="impressum/" tokens="footer-link">Impressum</a>
+      </div>
     </div>
   </footer>
 </main>

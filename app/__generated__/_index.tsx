@@ -140,6 +140,16 @@ className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
 </Link>
 </p>
 <p
+className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ca0eorc ck10si5`}>
+{"Instagram: "}
+<Link
+href={"https://www.instagram.com/elua_berlin/"}
+target={"_blank"}
+className={`w-element ckrg0rz c1aa4719 cjf3zq6 c1hpe72s c1ahvl7i`}>
+{"@elua_berlin"}
+</Link>
+</p>
+<p
 className={`w-element cnqoo7n c102c05l cab5kc8 c8if3ao ck10si5`}>
 {"Chorleitung: Rosemarie Arzt und Frederik Botthof"}
 </p>
@@ -613,11 +623,20 @@ width={1005}
 height={978}
 className={`w-image c7uoxt9 cis1kp4 cbsznq7 c1m9ibhp`} />
 </p>
+<div
+className={`w-element c1fni2gu ch59csv c6k4006 c7rku33 c1410kxv`}>
+<Link
+href={"https://www.instagram.com/elua_berlin/"}
+target={"_blank"}
+className={`w-element cn23irv czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
+{"Instagram"}
+</Link>
 <Link
 href={"impressum/"}
 className={`w-element cn23irv czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
 {"Impressum"}
 </Link>
+</div>
 </div>
 </footer>
 </main>

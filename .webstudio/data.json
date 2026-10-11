@@ -7866,6 +7866,68 @@
             "alpha": 1
           }
         }
+      ],
+      [
+        "NCzSe2ei6MHzEnQ85xKn7:TmvRQLkosFhDFSib43_dp:display:",
+        {
+          "styleSourceId": "NCzSe2ei6MHzEnQ85xKn7",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "display",
+          "value": {
+            "type": "keyword",
+            "value": "flex"
+          }
+        }
+      ],
+      [
+        "NCzSe2ei6MHzEnQ85xKn7:TmvRQLkosFhDFSib43_dp:flexWrap:",
+        {
+          "styleSourceId": "NCzSe2ei6MHzEnQ85xKn7",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "flexWrap",
+          "value": {
+            "type": "keyword",
+            "value": "wrap"
+          }
+        }
+      ],
+      [
+        "NCzSe2ei6MHzEnQ85xKn7:TmvRQLkosFhDFSib43_dp:alignItems:",
+        {
+          "styleSourceId": "NCzSe2ei6MHzEnQ85xKn7",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "alignItems",
+          "value": {
+            "type": "keyword",
+            "value": "center"
+          }
+        }
+      ],
+      [
+        "NCzSe2ei6MHzEnQ85xKn7:TmvRQLkosFhDFSib43_dp:rowGap:",
+        {
+          "styleSourceId": "NCzSe2ei6MHzEnQ85xKn7",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "rowGap",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 0.5
+          }
+        }
+      ],
+      [
+        "NCzSe2ei6MHzEnQ85xKn7:TmvRQLkosFhDFSib43_dp:columnGap:",
+        {
+          "styleSourceId": "NCzSe2ei6MHzEnQ85xKn7",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "columnGap",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.5
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -8512,6 +8574,14 @@
           "type": "token",
           "id": "hxf-lRC5gXxw8rbgnYd5C",
           "name": "song-by"
+        }
+      ],
+      [
+        "NCzSe2ei6MHzEnQ85xKn7",
+        {
+          "type": "token",
+          "id": "NCzSe2ei6MHzEnQ85xKn7",
+          "name": "footer-links"
         }
       ]
     ],
@@ -10252,6 +10322,61 @@
             "hxf-lRC5gXxw8rbgnYd5C"
           ]
         }
+      ],
+      [
+        "pWbarz9-kU_0B1AAuYvNu",
+        {
+          "instanceId": "pWbarz9-kU_0B1AAuYvNu",
+          "values": [
+            "8BsLmXbrxNLwXvLXzm0ur"
+          ]
+        }
+      ],
+      [
+        "fzL_AEbvzHzDnAAufG03s",
+        {
+          "instanceId": "fzL_AEbvzHzDnAAufG03s",
+          "values": [
+            "iNYxHyI4XiY0jiKpmO7Rd",
+            "f_SFmy98X2POWscv3oBMu"
+          ]
+        }
+      ],
+      [
+        "rnIgKL5mY8zcX6OXO-7E3",
+        {
+          "instanceId": "rnIgKL5mY8zcX6OXO-7E3",
+          "values": [
+            "TzEgKAWwtFQpRBJzkwwC_"
+          ]
+        }
+      ],
+      [
+        "xvWr22tyAWqYbeBS9qzkP",
+        {
+          "instanceId": "xvWr22tyAWqYbeBS9qzkP",
+          "values": [
+            "NCzSe2ei6MHzEnQ85xKn7"
+          ]
+        }
+      ],
+      [
+        "UvuclwuAIF19WSw8Gi33R",
+        {
+          "instanceId": "UvuclwuAIF19WSw8Gi33R",
+          "values": [
+            "TzEgKAWwtFQpRBJzkwwC_"
+          ]
+        }
+      ],
+      [
+        "n-00WNM_9ReZu7HvaLLkh",
+        {
+          "instanceId": "n-00WNM_9ReZu7HvaLLkh",
+          "values": [
+            "NCzSe2ei6MHzEnQ85xKn7"
+          ]
+        }
       ]
     ],
     "props": [
@@ -10693,6 +10818,66 @@
           "name": "height",
           "type": "number",
           "value": 978
+        }
+      ],
+      [
+        "ErSDertb2Bm3QyHGds71o",
+        {
+          "id": "ErSDertb2Bm3QyHGds71o",
+          "instanceId": "pWbarz9-kU_0B1AAuYvNu",
+          "name": "href",
+          "type": "string",
+          "value": "https://www.instagram.com/elua_berlin/"
+        }
+      ],
+      [
+        "79CSR1WgQiZLNcVTlz8_s",
+        {
+          "id": "79CSR1WgQiZLNcVTlz8_s",
+          "instanceId": "pWbarz9-kU_0B1AAuYvNu",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "lM5LT9q_t61Q9VZYAaISj",
+        {
+          "id": "lM5LT9q_t61Q9VZYAaISj",
+          "instanceId": "rnIgKL5mY8zcX6OXO-7E3",
+          "name": "href",
+          "type": "string",
+          "value": "https://www.instagram.com/elua_berlin/"
+        }
+      ],
+      [
+        "nrKgY98zY-wmOpVfHua64",
+        {
+          "id": "nrKgY98zY-wmOpVfHua64",
+          "instanceId": "rnIgKL5mY8zcX6OXO-7E3",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
+        }
+      ],
+      [
+        "f9RyrJt8veGUABbcQ7PlU",
+        {
+          "id": "f9RyrJt8veGUABbcQ7PlU",
+          "instanceId": "UvuclwuAIF19WSw8Gi33R",
+          "name": "href",
+          "type": "string",
+          "value": "https://www.instagram.com/elua_berlin/"
+        }
+      ],
+      [
+        "uoV-10mZoMuwmDo5sznho",
+        {
+          "id": "uoV-10mZoMuwmDo5sznho",
+          "instanceId": "UvuclwuAIF19WSw8Gi33R",
+          "name": "target",
+          "type": "string",
+          "value": "_blank"
         }
       ]
     ],
@@ -11293,6 +11478,10 @@
             },
             {
               "type": "id",
+              "value": "fzL_AEbvzHzDnAAufG03s"
+            },
+            {
+              "type": "id",
               "value": "-zD9GoB-gEThrTqtjX7xL"
             }
           ]
@@ -11877,7 +12066,7 @@
             },
             {
               "type": "id",
-              "value": "znxygybh2bekRcFX2gW7n"
+              "value": "xvWr22tyAWqYbeBS9qzkP"
             }
           ]
         }
@@ -12400,7 +12589,7 @@
             },
             {
               "type": "id",
-              "value": "X0r7ZkCylT2OeS1MbGbKU"
+              "value": "n-00WNM_9ReZu7HvaLLkh"
             }
           ]
         }
@@ -14129,6 +14318,108 @@
             {
               "type": "text",
               "value": "Franz Schubert"
+            }
+          ]
+        }
+      ],
+      [
+        "pWbarz9-kU_0B1AAuYvNu",
+        {
+          "type": "instance",
+          "id": "pWbarz9-kU_0B1AAuYvNu",
+          "component": "ws:element",
+          "tag": "a",
+          "children": [
+            {
+              "type": "text",
+              "value": "@elua_berlin"
+            }
+          ]
+        }
+      ],
+      [
+        "fzL_AEbvzHzDnAAufG03s",
+        {
+          "type": "instance",
+          "id": "fzL_AEbvzHzDnAAufG03s",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "Instagram: "
+            },
+            {
+              "type": "id",
+              "value": "pWbarz9-kU_0B1AAuYvNu"
+            }
+          ]
+        }
+      ],
+      [
+        "rnIgKL5mY8zcX6OXO-7E3",
+        {
+          "type": "instance",
+          "id": "rnIgKL5mY8zcX6OXO-7E3",
+          "component": "ws:element",
+          "tag": "a",
+          "children": [
+            {
+              "type": "text",
+              "value": "Instagram"
+            }
+          ]
+        }
+      ],
+      [
+        "xvWr22tyAWqYbeBS9qzkP",
+        {
+          "type": "instance",
+          "id": "xvWr22tyAWqYbeBS9qzkP",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "rnIgKL5mY8zcX6OXO-7E3"
+            },
+            {
+              "type": "id",
+              "value": "znxygybh2bekRcFX2gW7n"
+            }
+          ]
+        }
+      ],
+      [
+        "UvuclwuAIF19WSw8Gi33R",
+        {
+          "type": "instance",
+          "id": "UvuclwuAIF19WSw8Gi33R",
+          "component": "ws:element",
+          "tag": "a",
+          "children": [
+            {
+              "type": "text",
+              "value": "Instagram"
+            }
+          ]
+        }
+      ],
+      [
+        "n-00WNM_9ReZu7HvaLLkh",
+        {
+          "type": "instance",
+          "id": "n-00WNM_9ReZu7HvaLLkh",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "UvuclwuAIF19WSw8Gi33R"
+            },
+            {
+              "type": "id",
+              "value": "X0r7ZkCylT2OeS1MbGbKU"
             }
           ]
         }

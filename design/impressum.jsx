@@ -22,7 +22,10 @@
   <footer tokens="footer">
     <div tokens="footer-inner">
       <p tokens="footer-brand"><Image tokens="logo-footer" src="https://elua-chor.de/EluaLogo.png" alt="Elua" width={1005} height={978} /></p>
-      <a href="../" tokens="footer-link">Zur Startseite</a>
+      <div tokens="footer-links">
+        <a href="https://www.instagram.com/elua_berlin/" target="_blank" tokens="footer-link">Instagram</a>
+        <a href="../" tokens="footer-link">Zur Startseite</a>
+      </div>
     </div>
   </footer>
 </main>

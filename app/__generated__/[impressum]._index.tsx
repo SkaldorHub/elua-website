@@ -148,11 +148,20 @@ width={1005}
 height={978}
 className={`w-image c7uoxt9 cis1kp4 cbsznq7 c1m9ibhp`} />
 </p>
+<div
+className={`w-element c1fni2gu ch59csv c6k4006 c7rku33 c1410kxv`}>
+<Link
+href={"https://www.instagram.com/elua_berlin/"}
+target={"_blank"}
+className={`w-element cn23irv czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
+{"Instagram"}
+</Link>
 <Link
 href={"../"}
 className={`w-element cn23irv czsdg6 c1hpe72s c1ahvl7i ct9id28`}>
 {"Zur Startseite"}
 </Link>
+</div>
 </div>
 </footer>
 </main>
