@@ -324,6 +324,127 @@ className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv cad4b79 ca
 </table>
 </div>
 </div>
+<details
+className={`w-element c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c18w5uwy c1pssfya cpyhlwk c1tzot5x crkgmla c1pp6u0v c10v7lzm cxidz52 c7zsd6i c9rvr8t c1ft92md csib6if c120stv9 cij5voq c1ndr0s2 c1ccikth c15mv5q3 cegn49k c15g1l06`}>
+<summary
+className={`w-element c1ms36tz c1ln6udm c1yzhsul c1urwwbe c1791yd4`}>
+{"Vergangene Konzerte"}
+</summary>
+<div
+className={`w-element c1y3nmd0 c1p9ygrg`}>
+<table
+className={`w-element c1ixa9ew che5zzo c1ojv55f`}>
+<thead
+className={`w-element`}>
+<tr
+className={`w-element cih9fcy c1luh8n1`}>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Veranstaltung"}
+</th>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Ort"}
+</th>
+<th
+className={`w-element c1ojv55f cyiuh3v c1ln6udm c1hxy2zq cs8rlgd cad4b79 c2sb2fd c1oxwlyr cvzky2e c8if3ao`}>
+{"Datum"}
+</th>
+</tr>
+</thead>
+<tbody
+className={`w-element`}>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Kultur in der Natur – Open Air am Pfingstberg"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Belvedere am Pfingstberg, Potsdam"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Sa, 03.10.2026"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Erntedankfest"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Diakonie Johannesstift, Berlin-Spandau"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"So, 27.09.2026"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Konzert in Prag"}
+<span
+className={`w-element c7uoxt9 c1eufnsd c2jph5x c1ppsr1o ckrg0rz`}>
+{"Mit dem tschechischen Kammerchor Slunovrat"}
+</span>
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Tschechisches Museum für Musik (České muzeum hudby), Prag"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Sa, 16.05.2026"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"Vocaal Vuurwerk – Benefizkonzert"}
+<span
+className={`w-element c7uoxt9 c1eufnsd c2jph5x c1ppsr1o ckrg0rz`}>
+{"Mit dem belgischen Jugendchor Waelrant"}
+</span>
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"CC De Klap, Deurne (Antwerpen, Belgien)"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Sa, 09.05.2026"}
+</td>
+</tr>
+<tr
+className={`w-element c17f5roo cheohg1 c1rtscy7 c131kzr9 c1o0alr9 c1odbl9s`}>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 c1ln6udm c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1 c18igsov`}>
+{"A-cappella-Konzert – Falkenseer Musikfestival 2026"}
+<span
+className={`w-element c7uoxt9 c1eufnsd c2jph5x c1ppsr1o ckrg0rz`}>
+{"Solokonzert"}
+</span>
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cad4b79 c1kcc2qe c131kzr9 c83jdut c1odbl9s cheohg1`}>
+{"Falkenhagener Kirche, Falkensee (Brandenburg)"}
+</td>
+<td
+className={`w-element cnqoo7n c1oxwlyr cab5kc8 c8if3ao c15bj64 cxmkiv ca5s87o c1kcc2qe c131kzr9 c83jdut c1odbl9s cgibiy1 cbr74bv ck2bhtp`}>
+{"Fr, 24.04.2026"}
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </section>
 <section
 id={"programm"}

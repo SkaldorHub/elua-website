@@ -7454,6 +7454,326 @@
             "value": "invert(1)"
           }
         }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:maxWidth:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "maxWidth",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 72
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:marginTop:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.5
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:marginRight:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "marginRight",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:marginBottom:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "marginBottom",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 0
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:marginLeft:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "marginLeft",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:paddingTop:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.25
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:paddingRight:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:paddingBottom:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.25
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:paddingLeft:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 2
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:ziEUvmDrS-IqoOpb7jWRS:paddingTop:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "ziEUvmDrS-IqoOpb7jWRS",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:ziEUvmDrS-IqoOpb7jWRS:paddingRight:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "ziEUvmDrS-IqoOpb7jWRS",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.5
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:ziEUvmDrS-IqoOpb7jWRS:paddingBottom:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "ziEUvmDrS-IqoOpb7jWRS",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:ziEUvmDrS-IqoOpb7jWRS:paddingLeft:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "ziEUvmDrS-IqoOpb7jWRS",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.5
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:xkd2uRK89TP1HSofu0P4T:paddingTop:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "xkd2uRK89TP1HSofu0P4T",
+          "property": "paddingTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:xkd2uRK89TP1HSofu0P4T:paddingRight:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "xkd2uRK89TP1HSofu0P4T",
+          "property": "paddingRight",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.25
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:xkd2uRK89TP1HSofu0P4T:paddingBottom:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "xkd2uRK89TP1HSofu0P4T",
+          "property": "paddingBottom",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:xkd2uRK89TP1HSofu0P4T:paddingLeft:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "xkd2uRK89TP1HSofu0P4T",
+          "property": "paddingLeft",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.25
+          }
+        }
+      ],
+      [
+        "pwseIC0OtN8k84IUsvenw:TmvRQLkosFhDFSib43_dp:fontSize:",
+        {
+          "styleSourceId": "pwseIC0OtN8k84IUsvenw",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.25
+          }
+        }
+      ],
+      [
+        "pwseIC0OtN8k84IUsvenw:TmvRQLkosFhDFSib43_dp:fontWeight:",
+        {
+          "styleSourceId": "pwseIC0OtN8k84IUsvenw",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "fontWeight",
+          "value": {
+            "type": "unit",
+            "unit": "number",
+            "value": 700
+          }
+        }
+      ],
+      [
+        "pwseIC0OtN8k84IUsvenw:TmvRQLkosFhDFSib43_dp:letterSpacing:",
+        {
+          "styleSourceId": "pwseIC0OtN8k84IUsvenw",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "letterSpacing",
+          "value": {
+            "type": "unit",
+            "unit": "em",
+            "value": -0.02
+          }
+        }
+      ],
+      [
+        "pwseIC0OtN8k84IUsvenw:TmvRQLkosFhDFSib43_dp:cursor:",
+        {
+          "styleSourceId": "pwseIC0OtN8k84IUsvenw",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "cursor",
+          "value": {
+            "type": "keyword",
+            "value": "pointer"
+          }
+        }
+      ],
+      [
+        "pwseIC0OtN8k84IUsvenw:xkd2uRK89TP1HSofu0P4T:fontSize:",
+        {
+          "styleSourceId": "pwseIC0OtN8k84IUsvenw",
+          "breakpointId": "xkd2uRK89TP1HSofu0P4T",
+          "property": "fontSize",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.1
+          }
+        }
+      ],
+      [
+        "twL2w9rH9gBZPfmjMmPtI:TmvRQLkosFhDFSib43_dp:marginTop:",
+        {
+          "styleSourceId": "twL2w9rH9gBZPfmjMmPtI",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "marginTop",
+          "value": {
+            "type": "unit",
+            "unit": "rem",
+            "value": 1.25
+          }
+        }
+      ],
+      [
+        "twL2w9rH9gBZPfmjMmPtI:TmvRQLkosFhDFSib43_dp:overflowX:",
+        {
+          "styleSourceId": "twL2w9rH9gBZPfmjMmPtI",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "overflowX",
+          "value": {
+            "type": "keyword",
+            "value": "auto"
+          }
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor:TmvRQLkosFhDFSib43_dp:boxSizing:",
+        {
+          "styleSourceId": "wLv23VurIcquauRnzTPor",
+          "breakpointId": "TmvRQLkosFhDFSib43_dp",
+          "property": "boxSizing",
+          "value": {
+            "type": "keyword",
+            "value": "border-box"
+          }
+        }
       ]
     ],
     "styleSources": [
@@ -8060,6 +8380,30 @@
           "type": "token",
           "id": "VZorNP_X9NBVrTDqmnjBB",
           "name": "logo-footer"
+        }
+      ],
+      [
+        "wLv23VurIcquauRnzTPor",
+        {
+          "type": "token",
+          "id": "wLv23VurIcquauRnzTPor",
+          "name": "gig-history"
+        }
+      ],
+      [
+        "pwseIC0OtN8k84IUsvenw",
+        {
+          "type": "token",
+          "id": "pwseIC0OtN8k84IUsvenw",
+          "name": "gig-summary"
+        }
+      ],
+      [
+        "twL2w9rH9gBZPfmjMmPtI",
+        {
+          "type": "token",
+          "id": "twL2w9rH9gBZPfmjMmPtI",
+          "name": "gig-history-body"
         }
       ]
     ],
@@ -9335,6 +9679,301 @@
           "instanceId": "4mAAuEds-8jb1rPFxcwjI",
           "values": [
             "sP-piYjsfjMValiYZzIBt"
+          ]
+        }
+      ],
+      [
+        "SL7Z5j5pEFQXM9gVV0EWw",
+        {
+          "instanceId": "SL7Z5j5pEFQXM9gVV0EWw",
+          "values": [
+            "pwseIC0OtN8k84IUsvenw"
+          ]
+        }
+      ],
+      [
+        "a3j8LmOy0Qn05bFovdFE_",
+        {
+          "instanceId": "a3j8LmOy0Qn05bFovdFE_",
+          "values": [
+            "zib5ciw_YOhaPCOJDhQlF"
+          ]
+        }
+      ],
+      [
+        "9UKklyqHF6O54uQOyZvb2",
+        {
+          "instanceId": "9UKklyqHF6O54uQOyZvb2",
+          "values": [
+            "zib5ciw_YOhaPCOJDhQlF"
+          ]
+        }
+      ],
+      [
+        "T7o_D4kw4aj_a3Sp2ur-G",
+        {
+          "instanceId": "T7o_D4kw4aj_a3Sp2ur-G",
+          "values": [
+            "zib5ciw_YOhaPCOJDhQlF"
+          ]
+        }
+      ],
+      [
+        "kkezrCIW21sXOO1YVF67u",
+        {
+          "instanceId": "kkezrCIW21sXOO1YVF67u",
+          "values": [
+            "VMA7CXEzW_h8aVVy-pdUT"
+          ]
+        }
+      ],
+      [
+        "c0-bnA6J7LRnzlCDQ_WAh",
+        {
+          "instanceId": "c0-bnA6J7LRnzlCDQ_WAh",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "9q0pWFWsIPiibv5YNY08D"
+          ]
+        }
+      ],
+      [
+        "eGFomKiZpvIUa_X17hAiZ",
+        {
+          "instanceId": "eGFomKiZpvIUa_X17hAiZ",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "hdikjpsBV3qiJ8DXcL39p"
+          ]
+        }
+      ],
+      [
+        "AnxLWBY75A8NegzfvXU1N",
+        {
+          "instanceId": "AnxLWBY75A8NegzfvXU1N",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "PSQxh85gbNAWbnMU8jI_N"
+          ]
+        }
+      ],
+      [
+        "ajVOxOkzvrqxfPjCqhSx5",
+        {
+          "instanceId": "ajVOxOkzvrqxfPjCqhSx5",
+          "values": [
+            "FJZdr3HEq6oz9kxUgXISq"
+          ]
+        }
+      ],
+      [
+        "SXg1bg_vjeAGmoFbj05lr",
+        {
+          "instanceId": "SXg1bg_vjeAGmoFbj05lr",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "9q0pWFWsIPiibv5YNY08D"
+          ]
+        }
+      ],
+      [
+        "mowZobGVAYS4_bLKam1w5",
+        {
+          "instanceId": "mowZobGVAYS4_bLKam1w5",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "hdikjpsBV3qiJ8DXcL39p"
+          ]
+        }
+      ],
+      [
+        "Yf32juNZwIh7TE-3I-r7J",
+        {
+          "instanceId": "Yf32juNZwIh7TE-3I-r7J",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "PSQxh85gbNAWbnMU8jI_N"
+          ]
+        }
+      ],
+      [
+        "BPbs4OHkz1dfjhCQ2Rz9m",
+        {
+          "instanceId": "BPbs4OHkz1dfjhCQ2Rz9m",
+          "values": [
+            "FJZdr3HEq6oz9kxUgXISq"
+          ]
+        }
+      ],
+      [
+        "9FCX4vJUTYNwBzMgONI7W",
+        {
+          "instanceId": "9FCX4vJUTYNwBzMgONI7W",
+          "values": [
+            "uwZ3tUrslO4y0TXt42ysz"
+          ]
+        }
+      ],
+      [
+        "eOUQ-UsYGA_HjyCsy6IpU",
+        {
+          "instanceId": "eOUQ-UsYGA_HjyCsy6IpU",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "9q0pWFWsIPiibv5YNY08D"
+          ]
+        }
+      ],
+      [
+        "JiitqaIYK0yxXvpViVhL_",
+        {
+          "instanceId": "JiitqaIYK0yxXvpViVhL_",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "hdikjpsBV3qiJ8DXcL39p"
+          ]
+        }
+      ],
+      [
+        "DtmurqHFry4FQosxGCLA4",
+        {
+          "instanceId": "DtmurqHFry4FQosxGCLA4",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "PSQxh85gbNAWbnMU8jI_N"
+          ]
+        }
+      ],
+      [
+        "SWPmWihD-ztqpVsx51FKI",
+        {
+          "instanceId": "SWPmWihD-ztqpVsx51FKI",
+          "values": [
+            "FJZdr3HEq6oz9kxUgXISq"
+          ]
+        }
+      ],
+      [
+        "bzdO5vu2ORNLEyOQp3M5k",
+        {
+          "instanceId": "bzdO5vu2ORNLEyOQp3M5k",
+          "values": [
+            "uwZ3tUrslO4y0TXt42ysz"
+          ]
+        }
+      ],
+      [
+        "_5ROEeD7qcA7sxhmhYA4i",
+        {
+          "instanceId": "_5ROEeD7qcA7sxhmhYA4i",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "9q0pWFWsIPiibv5YNY08D"
+          ]
+        }
+      ],
+      [
+        "ZRewW8kGHlZ0FIEsCAaj6",
+        {
+          "instanceId": "ZRewW8kGHlZ0FIEsCAaj6",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "hdikjpsBV3qiJ8DXcL39p"
+          ]
+        }
+      ],
+      [
+        "ZiMfrNoxnP3KKWsirsC-G",
+        {
+          "instanceId": "ZiMfrNoxnP3KKWsirsC-G",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "PSQxh85gbNAWbnMU8jI_N"
+          ]
+        }
+      ],
+      [
+        "8M4sp-y-MOFqlh0s57d5A",
+        {
+          "instanceId": "8M4sp-y-MOFqlh0s57d5A",
+          "values": [
+            "FJZdr3HEq6oz9kxUgXISq"
+          ]
+        }
+      ],
+      [
+        "NX1e6NT4opxtbiY8vQVhL",
+        {
+          "instanceId": "NX1e6NT4opxtbiY8vQVhL",
+          "values": [
+            "uwZ3tUrslO4y0TXt42ysz"
+          ]
+        }
+      ],
+      [
+        "CMaQaOtRPrfa7smVeqxJz",
+        {
+          "instanceId": "CMaQaOtRPrfa7smVeqxJz",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "9q0pWFWsIPiibv5YNY08D"
+          ]
+        }
+      ],
+      [
+        "jyEaZuN_gYdb5V4MYOqCs",
+        {
+          "instanceId": "jyEaZuN_gYdb5V4MYOqCs",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "hdikjpsBV3qiJ8DXcL39p"
+          ]
+        }
+      ],
+      [
+        "9JfiQ1wHeC4Ld3lrZPmTE",
+        {
+          "instanceId": "9JfiQ1wHeC4Ld3lrZPmTE",
+          "values": [
+            "kpVvYSAuj3dq1na_SME9q",
+            "PSQxh85gbNAWbnMU8jI_N"
+          ]
+        }
+      ],
+      [
+        "InPTWZEfXX60rMkIvsQw0",
+        {
+          "instanceId": "InPTWZEfXX60rMkIvsQw0",
+          "values": [
+            "FJZdr3HEq6oz9kxUgXISq"
+          ]
+        }
+      ],
+      [
+        "1lcdnqCc8jhajdFteyPzR",
+        {
+          "instanceId": "1lcdnqCc8jhajdFteyPzR",
+          "values": [
+            "mSZf7Yi4yQkGOLNsnC7Gm"
+          ]
+        }
+      ],
+      [
+        "VX7qduJQik3-AVimnE32X",
+        {
+          "instanceId": "VX7qduJQik3-AVimnE32X",
+          "values": [
+            "twL2w9rH9gBZPfmjMmPtI"
+          ]
+        }
+      ],
+      [
+        "Zo4uNwWcQFo3cG3BXxd1L",
+        {
+          "instanceId": "Zo4uNwWcQFo3cG3BXxd1L",
+          "values": [
+            "pmXwQvFUrDmVwW54Rs3xi",
+            "wLv23VurIcquauRnzTPor"
           ]
         }
       ]
@@ -10624,6 +11263,10 @@
             {
               "type": "id",
               "value": "0G9hfVTvTS0pDbFGWgt9A"
+            },
+            {
+              "type": "id",
+              "value": "Zo4uNwWcQFo3cG3BXxd1L"
             }
           ]
         }
@@ -12308,6 +12951,585 @@
             {
               "type": "text",
               "value": "Beach Voice (The Beach Boys Medley)"
+            }
+          ]
+        }
+      ],
+      [
+        "SL7Z5j5pEFQXM9gVV0EWw",
+        {
+          "type": "instance",
+          "id": "SL7Z5j5pEFQXM9gVV0EWw",
+          "component": "ws:element",
+          "tag": "summary",
+          "children": [
+            {
+              "type": "text",
+              "value": "Vergangene Konzerte"
+            }
+          ]
+        }
+      ],
+      [
+        "a3j8LmOy0Qn05bFovdFE_",
+        {
+          "type": "instance",
+          "id": "a3j8LmOy0Qn05bFovdFE_",
+          "component": "ws:element",
+          "tag": "th",
+          "children": [
+            {
+              "type": "text",
+              "value": "Veranstaltung"
+            }
+          ]
+        }
+      ],
+      [
+        "9UKklyqHF6O54uQOyZvb2",
+        {
+          "type": "instance",
+          "id": "9UKklyqHF6O54uQOyZvb2",
+          "component": "ws:element",
+          "tag": "th",
+          "children": [
+            {
+              "type": "text",
+              "value": "Ort"
+            }
+          ]
+        }
+      ],
+      [
+        "T7o_D4kw4aj_a3Sp2ur-G",
+        {
+          "type": "instance",
+          "id": "T7o_D4kw4aj_a3Sp2ur-G",
+          "component": "ws:element",
+          "tag": "th",
+          "children": [
+            {
+              "type": "text",
+              "value": "Datum"
+            }
+          ]
+        }
+      ],
+      [
+        "kkezrCIW21sXOO1YVF67u",
+        {
+          "type": "instance",
+          "id": "kkezrCIW21sXOO1YVF67u",
+          "component": "ws:element",
+          "tag": "tr",
+          "children": [
+            {
+              "type": "id",
+              "value": "a3j8LmOy0Qn05bFovdFE_"
+            },
+            {
+              "type": "id",
+              "value": "9UKklyqHF6O54uQOyZvb2"
+            },
+            {
+              "type": "id",
+              "value": "T7o_D4kw4aj_a3Sp2ur-G"
+            }
+          ]
+        }
+      ],
+      [
+        "2kLPF7RR4DykwGUYdStnH",
+        {
+          "type": "instance",
+          "id": "2kLPF7RR4DykwGUYdStnH",
+          "component": "ws:element",
+          "tag": "thead",
+          "children": [
+            {
+              "type": "id",
+              "value": "kkezrCIW21sXOO1YVF67u"
+            }
+          ]
+        }
+      ],
+      [
+        "c0-bnA6J7LRnzlCDQ_WAh",
+        {
+          "type": "instance",
+          "id": "c0-bnA6J7LRnzlCDQ_WAh",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Kultur in der Natur – Open Air am Pfingstberg"
+            }
+          ]
+        }
+      ],
+      [
+        "eGFomKiZpvIUa_X17hAiZ",
+        {
+          "type": "instance",
+          "id": "eGFomKiZpvIUa_X17hAiZ",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Belvedere am Pfingstberg, Potsdam"
+            }
+          ]
+        }
+      ],
+      [
+        "AnxLWBY75A8NegzfvXU1N",
+        {
+          "type": "instance",
+          "id": "AnxLWBY75A8NegzfvXU1N",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Sa, 03.10.2026"
+            }
+          ]
+        }
+      ],
+      [
+        "ajVOxOkzvrqxfPjCqhSx5",
+        {
+          "type": "instance",
+          "id": "ajVOxOkzvrqxfPjCqhSx5",
+          "component": "ws:element",
+          "tag": "tr",
+          "children": [
+            {
+              "type": "id",
+              "value": "c0-bnA6J7LRnzlCDQ_WAh"
+            },
+            {
+              "type": "id",
+              "value": "eGFomKiZpvIUa_X17hAiZ"
+            },
+            {
+              "type": "id",
+              "value": "AnxLWBY75A8NegzfvXU1N"
+            }
+          ]
+        }
+      ],
+      [
+        "SXg1bg_vjeAGmoFbj05lr",
+        {
+          "type": "instance",
+          "id": "SXg1bg_vjeAGmoFbj05lr",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Erntedankfest"
+            }
+          ]
+        }
+      ],
+      [
+        "mowZobGVAYS4_bLKam1w5",
+        {
+          "type": "instance",
+          "id": "mowZobGVAYS4_bLKam1w5",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Diakonie Johannesstift, Berlin-Spandau"
+            }
+          ]
+        }
+      ],
+      [
+        "Yf32juNZwIh7TE-3I-r7J",
+        {
+          "type": "instance",
+          "id": "Yf32juNZwIh7TE-3I-r7J",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "So, 27.09.2026"
+            }
+          ]
+        }
+      ],
+      [
+        "BPbs4OHkz1dfjhCQ2Rz9m",
+        {
+          "type": "instance",
+          "id": "BPbs4OHkz1dfjhCQ2Rz9m",
+          "component": "ws:element",
+          "tag": "tr",
+          "children": [
+            {
+              "type": "id",
+              "value": "SXg1bg_vjeAGmoFbj05lr"
+            },
+            {
+              "type": "id",
+              "value": "mowZobGVAYS4_bLKam1w5"
+            },
+            {
+              "type": "id",
+              "value": "Yf32juNZwIh7TE-3I-r7J"
+            }
+          ]
+        }
+      ],
+      [
+        "9FCX4vJUTYNwBzMgONI7W",
+        {
+          "type": "instance",
+          "id": "9FCX4vJUTYNwBzMgONI7W",
+          "component": "ws:element",
+          "tag": "span",
+          "children": [
+            {
+              "type": "text",
+              "value": "Mit dem tschechischen Kammerchor Slunovrat"
+            }
+          ]
+        }
+      ],
+      [
+        "eOUQ-UsYGA_HjyCsy6IpU",
+        {
+          "type": "instance",
+          "id": "eOUQ-UsYGA_HjyCsy6IpU",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Konzert in Prag"
+            },
+            {
+              "type": "id",
+              "value": "9FCX4vJUTYNwBzMgONI7W"
+            }
+          ]
+        }
+      ],
+      [
+        "JiitqaIYK0yxXvpViVhL_",
+        {
+          "type": "instance",
+          "id": "JiitqaIYK0yxXvpViVhL_",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Tschechisches Museum für Musik (České muzeum hudby), Prag"
+            }
+          ]
+        }
+      ],
+      [
+        "DtmurqHFry4FQosxGCLA4",
+        {
+          "type": "instance",
+          "id": "DtmurqHFry4FQosxGCLA4",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Sa, 16.05.2026"
+            }
+          ]
+        }
+      ],
+      [
+        "SWPmWihD-ztqpVsx51FKI",
+        {
+          "type": "instance",
+          "id": "SWPmWihD-ztqpVsx51FKI",
+          "component": "ws:element",
+          "tag": "tr",
+          "children": [
+            {
+              "type": "id",
+              "value": "eOUQ-UsYGA_HjyCsy6IpU"
+            },
+            {
+              "type": "id",
+              "value": "JiitqaIYK0yxXvpViVhL_"
+            },
+            {
+              "type": "id",
+              "value": "DtmurqHFry4FQosxGCLA4"
+            }
+          ]
+        }
+      ],
+      [
+        "bzdO5vu2ORNLEyOQp3M5k",
+        {
+          "type": "instance",
+          "id": "bzdO5vu2ORNLEyOQp3M5k",
+          "component": "ws:element",
+          "tag": "span",
+          "children": [
+            {
+              "type": "text",
+              "value": "Mit dem belgischen Jugendchor Waelrant"
+            }
+          ]
+        }
+      ],
+      [
+        "_5ROEeD7qcA7sxhmhYA4i",
+        {
+          "type": "instance",
+          "id": "_5ROEeD7qcA7sxhmhYA4i",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Vocaal Vuurwerk – Benefizkonzert"
+            },
+            {
+              "type": "id",
+              "value": "bzdO5vu2ORNLEyOQp3M5k"
+            }
+          ]
+        }
+      ],
+      [
+        "ZRewW8kGHlZ0FIEsCAaj6",
+        {
+          "type": "instance",
+          "id": "ZRewW8kGHlZ0FIEsCAaj6",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "CC De Klap, Deurne (Antwerpen, Belgien)"
+            }
+          ]
+        }
+      ],
+      [
+        "ZiMfrNoxnP3KKWsirsC-G",
+        {
+          "type": "instance",
+          "id": "ZiMfrNoxnP3KKWsirsC-G",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Sa, 09.05.2026"
+            }
+          ]
+        }
+      ],
+      [
+        "8M4sp-y-MOFqlh0s57d5A",
+        {
+          "type": "instance",
+          "id": "8M4sp-y-MOFqlh0s57d5A",
+          "component": "ws:element",
+          "tag": "tr",
+          "children": [
+            {
+              "type": "id",
+              "value": "_5ROEeD7qcA7sxhmhYA4i"
+            },
+            {
+              "type": "id",
+              "value": "ZRewW8kGHlZ0FIEsCAaj6"
+            },
+            {
+              "type": "id",
+              "value": "ZiMfrNoxnP3KKWsirsC-G"
+            }
+          ]
+        }
+      ],
+      [
+        "NX1e6NT4opxtbiY8vQVhL",
+        {
+          "type": "instance",
+          "id": "NX1e6NT4opxtbiY8vQVhL",
+          "component": "ws:element",
+          "tag": "span",
+          "children": [
+            {
+              "type": "text",
+              "value": "Solokonzert"
+            }
+          ]
+        }
+      ],
+      [
+        "CMaQaOtRPrfa7smVeqxJz",
+        {
+          "type": "instance",
+          "id": "CMaQaOtRPrfa7smVeqxJz",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "A-cappella-Konzert – Falkenseer Musikfestival 2026"
+            },
+            {
+              "type": "id",
+              "value": "NX1e6NT4opxtbiY8vQVhL"
+            }
+          ]
+        }
+      ],
+      [
+        "jyEaZuN_gYdb5V4MYOqCs",
+        {
+          "type": "instance",
+          "id": "jyEaZuN_gYdb5V4MYOqCs",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Falkenhagener Kirche, Falkensee (Brandenburg)"
+            }
+          ]
+        }
+      ],
+      [
+        "9JfiQ1wHeC4Ld3lrZPmTE",
+        {
+          "type": "instance",
+          "id": "9JfiQ1wHeC4Ld3lrZPmTE",
+          "component": "ws:element",
+          "tag": "td",
+          "children": [
+            {
+              "type": "text",
+              "value": "Fr, 24.04.2026"
+            }
+          ]
+        }
+      ],
+      [
+        "InPTWZEfXX60rMkIvsQw0",
+        {
+          "type": "instance",
+          "id": "InPTWZEfXX60rMkIvsQw0",
+          "component": "ws:element",
+          "tag": "tr",
+          "children": [
+            {
+              "type": "id",
+              "value": "CMaQaOtRPrfa7smVeqxJz"
+            },
+            {
+              "type": "id",
+              "value": "jyEaZuN_gYdb5V4MYOqCs"
+            },
+            {
+              "type": "id",
+              "value": "9JfiQ1wHeC4Ld3lrZPmTE"
+            }
+          ]
+        }
+      ],
+      [
+        "MJWdMuZJfVF9TcCJu1EuW",
+        {
+          "type": "instance",
+          "id": "MJWdMuZJfVF9TcCJu1EuW",
+          "component": "ws:element",
+          "tag": "tbody",
+          "children": [
+            {
+              "type": "id",
+              "value": "ajVOxOkzvrqxfPjCqhSx5"
+            },
+            {
+              "type": "id",
+              "value": "BPbs4OHkz1dfjhCQ2Rz9m"
+            },
+            {
+              "type": "id",
+              "value": "SWPmWihD-ztqpVsx51FKI"
+            },
+            {
+              "type": "id",
+              "value": "8M4sp-y-MOFqlh0s57d5A"
+            },
+            {
+              "type": "id",
+              "value": "InPTWZEfXX60rMkIvsQw0"
+            }
+          ]
+        }
+      ],
+      [
+        "1lcdnqCc8jhajdFteyPzR",
+        {
+          "type": "instance",
+          "id": "1lcdnqCc8jhajdFteyPzR",
+          "component": "ws:element",
+          "tag": "table",
+          "children": [
+            {
+              "type": "id",
+              "value": "2kLPF7RR4DykwGUYdStnH"
+            },
+            {
+              "type": "id",
+              "value": "MJWdMuZJfVF9TcCJu1EuW"
+            }
+          ]
+        }
+      ],
+      [
+        "VX7qduJQik3-AVimnE32X",
+        {
+          "type": "instance",
+          "id": "VX7qduJQik3-AVimnE32X",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "1lcdnqCc8jhajdFteyPzR"
+            }
+          ]
+        }
+      ],
+      [
+        "Zo4uNwWcQFo3cG3BXxd1L",
+        {
+          "type": "instance",
+          "id": "Zo4uNwWcQFo3cG3BXxd1L",
+          "component": "ws:element",
+          "tag": "details",
+          "children": [
+            {
+              "type": "id",
+              "value": "SL7Z5j5pEFQXM9gVV0EWw"
+            },
+            {
+              "type": "id",
+              "value": "VX7qduJQik3-AVimnE32X"
             }
           ]
         }

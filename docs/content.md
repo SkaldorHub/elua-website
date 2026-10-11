@@ -47,7 +47,7 @@ Zwei Regeln für die Spalte Beginn:
 - **Nur die Anfangszeit**, kein Zeitraum. Aus "15.00 – 16.00" wird "15.00 Uhr". Wann der Auftritt endet, interessiert das Publikum nicht.
 - **Keine Platzhalter.** Termine ohne bekannte Anfangszeit kommen erst in die Tabelle, wenn die Zeit feststeht.
 
-Vergangene Termine aus der Tabelle entfernen, damit "Kommende Termine" stimmt. Gestaltet ist sie über die Tokens `gig-*` in `design/tokens.json`; ab 767 px Breite klappt sie von vier Spalten auf gestapelte Einträge um.
+Vergangene Termine aus der Tabelle "Kommende Termine" in die aufklappbare Liste "Vergangene Konzerte" darunter verschieben (neueste zuerst). Dort stehen Veranstaltung, Ort und Datum ohne Uhrzeit, Mitwirkende als Hinweis unter dem Namen. Gestaltet ist sie über die Tokens `gig-*` in `design/tokens.json`; ab 767 px Breite klappt sie von vier Spalten auf gestapelte Einträge um.
 
 ## Herkunft der Kontakt- und Impressumsdaten
 

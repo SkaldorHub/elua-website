@@ -96,6 +96,47 @@
         </table>
       </div>
     </div>
+    <details tokens="card gig-history">
+      <summary tokens="gig-summary">Vergangene Konzerte</summary>
+      <div tokens="gig-history-body">
+        <table tokens="gig-table">
+          <thead>
+            <tr tokens="gig-head-row">
+              <th tokens="gig-th">Veranstaltung</th>
+              <th tokens="gig-th">Ort</th>
+              <th tokens="gig-th">Datum</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr tokens="gig-row">
+              <td tokens="gig-cell gig-event">Kultur in der Natur – Open Air am Pfingstberg</td>
+              <td tokens="gig-cell gig-place">Belvedere am Pfingstberg, Potsdam</td>
+              <td tokens="gig-cell gig-date">Sa, 03.10.2026</td>
+            </tr>
+            <tr tokens="gig-row">
+              <td tokens="gig-cell gig-event">Erntedankfest</td>
+              <td tokens="gig-cell gig-place">Diakonie Johannesstift, Berlin-Spandau</td>
+              <td tokens="gig-cell gig-date">So, 27.09.2026</td>
+            </tr>
+            <tr tokens="gig-row">
+              <td tokens="gig-cell gig-event">Konzert in Prag<span tokens="gig-note">Mit dem tschechischen Kammerchor Slunovrat</span></td>
+              <td tokens="gig-cell gig-place">Tschechisches Museum für Musik (České muzeum hudby), Prag</td>
+              <td tokens="gig-cell gig-date">Sa, 16.05.2026</td>
+            </tr>
+            <tr tokens="gig-row">
+              <td tokens="gig-cell gig-event">Vocaal Vuurwerk – Benefizkonzert<span tokens="gig-note">Mit dem belgischen Jugendchor Waelrant</span></td>
+              <td tokens="gig-cell gig-place">CC De Klap, Deurne (Antwerpen, Belgien)</td>
+              <td tokens="gig-cell gig-date">Sa, 09.05.2026</td>
+            </tr>
+            <tr tokens="gig-row">
+              <td tokens="gig-cell gig-event">A-cappella-Konzert – Falkenseer Musikfestival 2026<span tokens="gig-note">Solokonzert</span></td>
+              <td tokens="gig-cell gig-place">Falkenhagener Kirche, Falkensee (Brandenburg)</td>
+              <td tokens="gig-cell gig-date">Fr, 24.04.2026</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </details>
   </section>
   <section id="programm" tokens="section pt-lg pb-xl">
     <div tokens="container">

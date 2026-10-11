@@ -55,6 +55,10 @@
   span.w-element {
     box-sizing: border-box
   }
+  summary.w-element {
+    display: list-item;
+    box-sizing: border-box
+  }
   table.w-element {
     text-indent: 0;
     border-top-color: inherit;
@@ -737,6 +741,21 @@
   .c1m9ibhp {
     filter: invert(1)
   }
+  .c1urwwbe {
+    cursor: pointer
+  }
+  .c1y3nmd0 {
+    margin-top: 1.25rem
+  }
+  .c1pp6u0v {
+    padding-top: 1.25rem
+  }
+  .cxidz52 {
+    padding-bottom: 1.25rem
+  }
+  .c9rvr8t {
+    box-sizing: border-box
+  }
 }
 @media all and (max-width: 991px) {
   .cz9iki {
@@ -866,6 +885,12 @@
   }
   .c1ndr0s2 {
     padding-left: 1.5rem
+  }
+  .csib6if {
+    padding-top: 1rem
+  }
+  .cij5voq {
+    padding-bottom: 1rem
   }
 }
 @media all and (max-width: 479px) {
