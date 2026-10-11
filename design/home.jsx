@@ -13,7 +13,7 @@
     <div tokens="blob-pink"></div>
     <div tokens="container" ws:style={css`position: relative;`}>
       <h1 tokens="display-title"><Image tokens="logo-hero" src="https://elua-chor.de/EluaLogo.png" alt="Elua" width={1005} height={978} /></h1>
-      <p tokens="subtitle">ein junger A Capella Männerchor</p>
+      <p tokens="subtitle">ein junger A Cappella Männerchor</p>
       <Image tokens="hero-image" src="https://skaldorhub.github.io/elua-website/elua-chor.jpg" alt="Der Chor Elua" width={1800} height={1055} />
       <p tokens="lead">Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren.</p>
     </div>
@@ -34,7 +34,7 @@
     <div tokens="section-row">
       <h2 tokens="title-bar section-title">Wer sind wir?</h2>
       <div tokens="section-body">
-        <p tokens="text">Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang.</p>
+        <p tokens="text">Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine a cappella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang.</p>
         <p tokens="text-last">Nun hat sich dieses Herrenensembles neu zusammengefunden, arbeitet konsequent an der künstlerischen Weiterentwicklung und erweitert kontinuierlich die stilistische Vielfalt.</p>
       </div>
     </div>
@@ -160,7 +160,7 @@
             <li tokens="list-item">Frühlingsgruß</li>
             <li tokens="list-item">Der Lindenbaum</li>
             <li tokens="list-item">Tourdion</li>
-            <li tokens="list-item">a capella Version der Unvollendeten Sinfonie von Schubert</li>
+            <li tokens="list-item">a cappella Version der Unvollendeten Sinfonie von Schubert</li>
             <li tokens="list-item">Das Morgenrot</li>
             <li tokens="list-item">Schöne Nacht</li>
           </ul>

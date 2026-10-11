@@ -2,7 +2,7 @@
 
 ## Inhaltsregeln
 
-Die Aussagen der Seite stammen von der Referenzseite https://www.familienmusizieren.com/chor-elua/ und dürfen inhaltlich nicht verändert werden, auch nicht die Schreibweisen ("a capella", "Herrenensembles"). Nur Layout und Darstellung sind frei.
+Die Aussagen der Seite stammen von der Referenzseite https://www.familienmusizieren.com/chor-elua/ und dürfen inhaltlich nicht verändert werden, auch nicht die Schreibweisen ("Herrenensembles"). Nur Layout und Darstellung sind frei.
 
 Abweichungen auf Wunsch des Chores (bewusst, nicht versehentlich):
 
@@ -11,16 +11,17 @@ Abweichungen auf Wunsch des Chores (bewusst, nicht versehentlich):
 | "Herren-Chor" / "Herrenchor" | "Männerchor" (Untertitel, SEO-Titel und -Beschreibung) |
 | "Programm" / "Auswahl aus den Programmen" | "Repertoire" / "Auswahl aus dem Repertoire" (Navigation und Überschrift) |
 | "Klassische Männerchöre aus allen Epochen" | "Klassische Männerchorstücke" (Kartentitel und SEO-Beschreibung) |
-| "a capella Version Unvollendete Sinfonie von Schubert" | "a capella Version der Unvollendeten Sinfonie von Schubert" |
+| "a capella Version Unvollendete Sinfonie von Schubert" | "a cappella Version der Unvollendeten Sinfonie von Schubert" |
 | Überschrift "Entstehung des Chores" | "Wer sind wir?" (Anker bleibt `#entstehung`) |
-| "eine vierstimmig singende a capella Gruppe" | "eine a capella Gruppe" (die Einschränkung trifft nicht mehr zu) |
+| "eine vierstimmig singende a capella Gruppe" | "eine a cappella Gruppe" (die Einschränkung trifft nicht mehr zu) |
+| Schreibweise "a capella" / "A Capella" | "a cappella" / "A Cappella" (korrekte Schreibweise, überall) |
 | "beginnt den künstlerischen und stilistischen Horizont zu erweitern" | "arbeitet konsequent an der künstlerischen Weiterentwicklung und erweitert kontinuierlich die stilistische Vielfalt" |
 
 Der Anker der Repertoire-Sektion heißt aus Kompatibilitätsgründen weiterhin `#programm`.
 
 Reihenfolge der Startseite:
 
-1. Titel als Logo (`static/EluaLogo.png`, auch in Navigation und Footer; im Footer per `filter: invert(1)` weiß) und Untertitel "ein junger A Capella Männerchor"
+1. Titel als Logo (`static/EluaLogo.png`, auch in Navigation und Footer; im Footer per `filter: invert(1)` weiß) und Untertitel "ein junger A Cappella Männerchor"
 2. Chorfoto
 3. Intro-Satz
 4. Banner "Neue Chorsänger sind willkommen!"

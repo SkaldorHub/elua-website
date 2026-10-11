@@ -98,7 +98,7 @@ className={`w-image c7uoxt9 cm6jye0 c18lr0js`} />
 </h1>
 <p
 className={`w-element cgkvnzw c1aa4719 c1yzhsul c5e6w5u ckrg0rz c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
-{"ein junger A Capella Männerchor"}
+{"ein junger A Cappella Männerchor"}
 </p>
 <Image
 src={"https://elua-chor.de/elua-chor.jpg"}
@@ -159,7 +159,7 @@ className={`w-element cv1la6y c5ehj5z cplcfhb cbfdb7q c1o9cloj c1ltluz0 csafaus 
 className={`w-element c5ytlnu c1cs5b61 c1hm99x6 c4c5v2p`}>
 <p
 className={`w-element c1kxakyg c3wpgfv c1miagds cc66th3`}>
-{"Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine a capella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang."}
+{"Fast alle Sänger haben ihre Stimmausbildung im Kinderchor der deutschen Oper oder in vergleichbaren Kinderchören erhalten. Unter der stimmbildnerischen und künstlerischen Leitung von Rosemarie Arzt entstand eine a cappella Gruppe von Stimmwechslern, die 2024 beim Kinder- und Jugendchorwettbewerb Erwitte den ersten Preis ersang."}
 </p>
 <p
 className={`w-element ck10si5`}>
@@ -517,7 +517,7 @@ className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"a capella Version der Unvollendeten Sinfonie von Schubert"}
+{"a cappella Version der Unvollendeten Sinfonie von Schubert"}
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
