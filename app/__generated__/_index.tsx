@@ -98,7 +98,7 @@ className={`w-image c7uoxt9 cm6jye0 c18lr0js`} />
 </h1>
 <p
 className={`w-element cgkvnzw c1aa4719 c1yzhsul c5e6w5u ckrg0rz c1kxakyg c3wpgfv cyg1c3p cc66th3`}>
-{"ein junger A Cappella Männerchor"}
+{"ein junger a cappella Männerchor"}
 </p>
 <Image
 src={"https://elua-chor.de/elua-chor.jpg"}

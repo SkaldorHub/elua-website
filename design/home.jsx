@@ -13,7 +13,7 @@
     <div tokens="blob-pink"></div>
     <div tokens="container" ws:style={css`position: relative;`}>
       <h1 tokens="display-title"><Image tokens="logo-hero" src="https://elua-chor.de/EluaLogo.png" alt="Elua" width={1005} height={978} /></h1>
-      <p tokens="subtitle">ein junger A Cappella Männerchor</p>
+      <p tokens="subtitle">ein junger a cappella Männerchor</p>
       <Image tokens="hero-image" src="https://skaldorhub.github.io/elua-website/elua-chor.jpg" alt="Der Chor Elua" width={1800} height={1055} />
       <p tokens="lead">Das Anfang 2026 neu gegründete Ensemble Elua besteht aus jungen Männern ab 16 Jahren.</p>
     </div>

@@ -21,7 +21,7 @@ Der Anker der Repertoire-Sektion heißt aus Kompatibilitätsgründen weiterhin `
 
 Reihenfolge der Startseite:
 
-1. Titel als Logo (`static/EluaLogo.png`, auch in Navigation und Footer; im Footer per `filter: invert(1)` weiß) und Untertitel "ein junger A Cappella Männerchor"
+1. Titel als Logo (`static/EluaLogo.png`, auch in Navigation und Footer; im Footer per `filter: invert(1)` weiß) und Untertitel "ein junger a cappella Männerchor"
 2. Chorfoto
 3. Intro-Satz
 4. Banner "Neue Chorsänger sind willkommen!"
