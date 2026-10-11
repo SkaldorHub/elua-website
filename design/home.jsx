@@ -159,7 +159,7 @@
         <div tokens="card card-raised">
           <h3 tokens="card-title">Klassische Männerchorstücke</h3>
           <ul tokens="list">
-            <li tokens="list-item song">Frühlingsgruß</li>
+            <li tokens="list-item song">Frühlingsgruß<span tokens="song-by">Franz Schubert</span></li>
             <li tokens="list-item song">Der Lindenbaum<span tokens="song-by">Franz Schubert</span></li>
             <li tokens="list-item song">Tourdion<span tokens="song-by">Frankreich, 16. Jahrhundert</span></li>
             <li tokens="list-item song">Unvollendete Sinfonie (a cappella Version)<span tokens="song-by">Franz Schubert</span></li>

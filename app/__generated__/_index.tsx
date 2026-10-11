@@ -550,6 +550,10 @@ className={`w-element c1dx4yrh ck10si5 co5evuj`}>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Frühlingsgruß"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Franz Schubert"}
+</span>
 </li>
 <li
 className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>

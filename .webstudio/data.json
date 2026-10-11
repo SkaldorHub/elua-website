@@ -10243,6 +10243,15 @@
             "YR1kYT40WRiwCebZvrhLN"
           ]
         }
+      ],
+      [
+        "IXmlWnSgEj1evBr0h7M-B",
+        {
+          "instanceId": "IXmlWnSgEj1evBr0h7M-B",
+          "values": [
+            "hxf-lRC5gXxw8rbgnYd5C"
+          ]
+        }
       ]
     ],
     "props": [
@@ -13931,6 +13940,10 @@
             {
               "type": "text",
               "value": "Frühlingsgruß"
+            },
+            {
+              "type": "id",
+              "value": "IXmlWnSgEj1evBr0h7M-B"
             }
           ]
         }
@@ -14101,6 +14114,21 @@
             {
               "type": "id",
               "value": "fxFgRYVwVCIDp5J038RfW"
+            }
+          ]
+        }
+      ],
+      [
+        "IXmlWnSgEj1evBr0h7M-B",
+        {
+          "type": "instance",
+          "id": "IXmlWnSgEj1evBr0h7M-B",
+          "component": "ws:element",
+          "tag": "span",
+          "children": [
+            {
+              "type": "text",
+              "value": "Franz Schubert"
             }
           ]
         }
