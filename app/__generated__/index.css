@@ -627,15 +627,6 @@
   .co5evuj {
     padding: 0
   }
-  .c1vcf8ol {
-    padding-top: 0.65rem
-  }
-  .c19q58jm {
-    padding-bottom: 0.65rem
-  }
-  .c17f5roo {
-    border-top: 1px solid #ecebf4
-  }
   .c7zyfjo {
     background-color: #14122b
   }
@@ -711,6 +702,9 @@
   .cxmkiv {
     font-variant-numeric: tabular-nums
   }
+  .c17f5roo {
+    border-top: 1px solid #ecebf4
+  }
   .che5zzo {
     border-collapse: collapse
   }
@@ -755,6 +749,18 @@
   }
   .c9rvr8t {
     box-sizing: border-box
+  }
+  .c1g9zt7d {
+    font-size: 0.9rem
+  }
+  .c1vcf8ol {
+    padding-top: 0.65rem
+  }
+  .c19q58jm {
+    padding-bottom: 0.65rem
+  }
+  .c1tl0zun {
+    align-items: baseline
   }
 }
 @media all and (max-width: 991px) {

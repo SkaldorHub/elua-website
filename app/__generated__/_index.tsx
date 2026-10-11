@@ -466,32 +466,76 @@ className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th
 <ul
 className={`w-element c1dx4yrh ck10si5 co5evuj`}>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Die with a Smile"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Lady Gaga & Bruno Mars"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Laut sein, Schlaraffenland (MayBeBop)"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Laut sein"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Maybebop"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Junge (Die Ärzte)"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Schlaraffenland"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Maybebop"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Junge"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Die Ärzte"}
+</span>
+</li>
+<li
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Wochenend und Sonnenschein"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Comedian Harmonists"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Don't stop me now, Love of my life (Queen)"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Don't Stop Me Now"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Queen"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Sir Duke: Isn't she superstitious (Stevie Wonder Medley)"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Love of My Life"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Queen"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"Beach Voice (The Beach Boys Medley)"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Sir Duke: Isn't she superstitious"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Stevie Wonder (Medley)"}
+</span>
+</li>
+<li
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Beach Voice"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"The Beach Boys (Medley)"}
+</span>
 </li>
 </ul>
 </div>
@@ -504,28 +548,48 @@ className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th
 <ul
 className={`w-element c1dx4yrh ck10si5 co5evuj`}>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Frühlingsgruß"}
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Der Lindenbaum"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Franz Schubert"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Tourdion"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Frankreich, 16. Jahrhundert"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
-{"a cappella Version der Unvollendeten Sinfonie von Schubert"}
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
+{"Unvollendete Sinfonie (a cappella Version)"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Franz Schubert"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Das Morgenrot"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Robert Pracht"}
+</span>
 </li>
 <li
-className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c17f5roo`}>
+className={`w-element c1vcf8ol c102c05l c19q58jm c8if3ao c1fni2gu ch59csv cf1v9v6 c1tl0zun c1410kxv c17f5roo`}>
 {"Schöne Nacht"}
+<span
+className={`w-element c1g9zt7d cad4b79`}>
+{"Wilhelm Nagel"}
+</span>
 </li>
 </ul>
 </div>

@@ -145,24 +145,26 @@
         <div tokens="card card-raised">
           <h3 tokens="card-title">Popsongs</h3>
           <ul tokens="list">
-            <li tokens="list-item">Die with a Smile</li>
-            <li tokens="list-item">Laut sein, Schlaraffenland (MayBeBop)</li>
-            <li tokens="list-item">Junge (Die Ärzte)</li>
-            <li tokens="list-item">Wochenend und Sonnenschein</li>
-            <li tokens="list-item">Don't stop me now, Love of my life (Queen)</li>
-            <li tokens="list-item">Sir Duke: Isn't she superstitious (Stevie Wonder Medley)</li>
-            <li tokens="list-item">Beach Voice (The Beach Boys Medley)</li>
+            <li tokens="list-item song">Die with a Smile<span tokens="song-by">Lady Gaga & Bruno Mars</span></li>
+            <li tokens="list-item song">Laut sein<span tokens="song-by">Maybebop</span></li>
+            <li tokens="list-item song">Schlaraffenland<span tokens="song-by">Maybebop</span></li>
+            <li tokens="list-item song">Junge<span tokens="song-by">Die Ärzte</span></li>
+            <li tokens="list-item song">Wochenend und Sonnenschein<span tokens="song-by">Comedian Harmonists</span></li>
+            <li tokens="list-item song">Don't Stop Me Now<span tokens="song-by">Queen</span></li>
+            <li tokens="list-item song">Love of My Life<span tokens="song-by">Queen</span></li>
+            <li tokens="list-item song">Sir Duke: Isn't she superstitious<span tokens="song-by">Stevie Wonder (Medley)</span></li>
+            <li tokens="list-item song">Beach Voice<span tokens="song-by">The Beach Boys (Medley)</span></li>
           </ul>
         </div>
         <div tokens="card card-raised">
           <h3 tokens="card-title">Klassische Männerchorstücke</h3>
           <ul tokens="list">
-            <li tokens="list-item">Frühlingsgruß</li>
-            <li tokens="list-item">Der Lindenbaum</li>
-            <li tokens="list-item">Tourdion</li>
-            <li tokens="list-item">a cappella Version der Unvollendeten Sinfonie von Schubert</li>
-            <li tokens="list-item">Das Morgenrot</li>
-            <li tokens="list-item">Schöne Nacht</li>
+            <li tokens="list-item song">Frühlingsgruß</li>
+            <li tokens="list-item song">Der Lindenbaum<span tokens="song-by">Franz Schubert</span></li>
+            <li tokens="list-item song">Tourdion<span tokens="song-by">Frankreich, 16. Jahrhundert</span></li>
+            <li tokens="list-item song">Unvollendete Sinfonie (a cappella Version)<span tokens="song-by">Franz Schubert</span></li>
+            <li tokens="list-item song">Das Morgenrot<span tokens="song-by">Robert Pracht</span></li>
+            <li tokens="list-item song">Schöne Nacht<span tokens="song-by">Wilhelm Nagel</span></li>
           </ul>
         </div>
       </div>
