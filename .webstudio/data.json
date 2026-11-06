@@ -7390,7 +7390,7 @@
           "property": "width",
           "value": {
             "type": "unparsed",
-            "value": "clamp(8rem, 26vw, 14rem)"
+            "value": "clamp(12rem, 40vw, 22rem)"
           }
         }
       ],
@@ -7440,18 +7440,6 @@
           "value": {
             "type": "keyword",
             "value": "auto"
-          }
-        }
-      ],
-      [
-        "VZorNP_X9NBVrTDqmnjBB:TmvRQLkosFhDFSib43_dp:filter:",
-        {
-          "styleSourceId": "VZorNP_X9NBVrTDqmnjBB",
-          "breakpointId": "TmvRQLkosFhDFSib43_dp",
-          "property": "filter",
-          "value": {
-            "type": "unparsed",
-            "value": "invert(1)"
           }
         }
       ],
@@ -10627,7 +10615,7 @@
           "instanceId": "P18e6byZyGhdefrYAW5BI",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/EluaLogo.png"
+          "value": "https://elua-chor.de/elua-logo.png"
         }
       ],
       [
@@ -10647,7 +10635,7 @@
           "instanceId": "P18e6byZyGhdefrYAW5BI",
           "name": "width",
           "type": "number",
-          "value": 1005
+          "value": 900
         }
       ],
       [
@@ -10657,7 +10645,7 @@
           "instanceId": "P18e6byZyGhdefrYAW5BI",
           "name": "height",
           "type": "number",
-          "value": 978
+          "value": 501
         }
       ],
       [
@@ -10667,7 +10655,7 @@
           "instanceId": "jAVywpiyA8lp4_-wNaf5o",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/EluaLogo.png"
+          "value": "https://elua-chor.de/elua-logo.png"
         }
       ],
       [
@@ -10687,7 +10675,7 @@
           "instanceId": "jAVywpiyA8lp4_-wNaf5o",
           "name": "width",
           "type": "number",
-          "value": 1005
+          "value": 900
         }
       ],
       [
@@ -10697,7 +10685,7 @@
           "instanceId": "jAVywpiyA8lp4_-wNaf5o",
           "name": "height",
           "type": "number",
-          "value": 978
+          "value": 501
         }
       ],
       [
@@ -10707,7 +10695,7 @@
           "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/EluaLogo.png"
+          "value": "https://elua-chor.de/elua-logo.png"
         }
       ],
       [
@@ -10727,7 +10715,7 @@
           "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
           "name": "width",
           "type": "number",
-          "value": 1005
+          "value": 900
         }
       ],
       [
@@ -10737,7 +10725,7 @@
           "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
           "name": "height",
           "type": "number",
-          "value": 978
+          "value": 501
         }
       ],
       [
@@ -10747,7 +10735,7 @@
           "instanceId": "Gs_DGv3bvv49lIWyntJns",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/EluaLogo.png"
+          "value": "https://elua-chor.de/elua-logo.png"
         }
       ],
       [
@@ -10767,7 +10755,7 @@
           "instanceId": "Gs_DGv3bvv49lIWyntJns",
           "name": "width",
           "type": "number",
-          "value": 1005
+          "value": 900
         }
       ],
       [
@@ -10777,7 +10765,7 @@
           "instanceId": "Gs_DGv3bvv49lIWyntJns",
           "name": "height",
           "type": "number",
-          "value": 978
+          "value": 501
         }
       ],
       [
@@ -10787,7 +10775,7 @@
           "instanceId": "kfajjU5byaX24m_Z68XmX",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/EluaLogo.png"
+          "value": "https://elua-chor.de/elua-logo.png"
         }
       ],
       [
@@ -10807,7 +10795,7 @@
           "instanceId": "kfajjU5byaX24m_Z68XmX",
           "name": "width",
           "type": "number",
-          "value": 1005
+          "value": 900
         }
       ],
       [
@@ -10817,7 +10805,7 @@
           "instanceId": "kfajjU5byaX24m_Z68XmX",
           "name": "height",
           "type": "number",
-          "value": 978
+          "value": 501
         }
       ],
       [
