@@ -14416,7 +14416,9 @@
     "dataSources": [],
     "resources": [],
     "projectSettings": {
-      "meta": {},
+      "meta": {
+        "code": "<link rel=\"icon\" href=\"/favicon.ico\" sizes=\"48x48\">\n<link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\">"
+      },
       "compiler": {}
     }
   },

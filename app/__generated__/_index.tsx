@@ -31,9 +31,24 @@
 
       
             
+            const Script = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <script {...props} />;
+              }
+
+              return <script {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            const Style = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <style {...props} />;
+              }
+
+              return <style {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            
 
             export const CustomCode = () => {
-              return (<></>);
+              return (<><link rel={"icon"} href={"/favicon.ico"} sizes={"48x48"}></link><link rel={"apple-touch-icon"} href={"/apple-touch-icon.png"}></link></>);
             }
           
 
