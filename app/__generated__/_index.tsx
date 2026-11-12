@@ -633,7 +633,7 @@ className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th
 </h3>
 <p
 className={`w-element ck10si5`}>
-{"Zur Advents- und Weihnachtszeit haben wir außerdem ein internationales Weihnachtsprogramm im Repertoire: festliche Lieder aus verschiedenen Ländern und Sprachen, a cappella gesungen."}
+{"Zur Advents- und Weihnachtszeit haben wir außerdem ein internationales Weihnachtsprogramm (bis zu 60 Minuten) im Repertoire."}
 </p>
 </div>
 </div>
