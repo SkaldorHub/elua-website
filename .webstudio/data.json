@@ -10615,7 +10615,7 @@
           "instanceId": "P18e6byZyGhdefrYAW5BI",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/elua-logo.png"
+          "value": "https://elua-chor.de/elua-logo.svg"
         }
       ],
       [
@@ -10645,7 +10645,7 @@
           "instanceId": "P18e6byZyGhdefrYAW5BI",
           "name": "height",
           "type": "number",
-          "value": 501
+          "value": 445
         }
       ],
       [
@@ -10655,7 +10655,7 @@
           "instanceId": "jAVywpiyA8lp4_-wNaf5o",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/elua-logo.png"
+          "value": "https://elua-chor.de/elua-logo.svg"
         }
       ],
       [
@@ -10685,7 +10685,7 @@
           "instanceId": "jAVywpiyA8lp4_-wNaf5o",
           "name": "height",
           "type": "number",
-          "value": 501
+          "value": 445
         }
       ],
       [
@@ -10695,7 +10695,7 @@
           "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/elua-logo.png"
+          "value": "https://elua-chor.de/elua-logo.svg"
         }
       ],
       [
@@ -10725,7 +10725,7 @@
           "instanceId": "1gBsS4eyNhJeLYXJHuFFE",
           "name": "height",
           "type": "number",
-          "value": 501
+          "value": 445
         }
       ],
       [
@@ -10735,7 +10735,7 @@
           "instanceId": "Gs_DGv3bvv49lIWyntJns",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/elua-logo.png"
+          "value": "https://elua-chor.de/elua-logo.svg"
         }
       ],
       [
@@ -10765,7 +10765,7 @@
           "instanceId": "Gs_DGv3bvv49lIWyntJns",
           "name": "height",
           "type": "number",
-          "value": 501
+          "value": 445
         }
       ],
       [
@@ -10775,7 +10775,7 @@
           "instanceId": "kfajjU5byaX24m_Z68XmX",
           "name": "src",
           "type": "string",
-          "value": "https://elua-chor.de/elua-logo.png"
+          "value": "https://elua-chor.de/elua-logo.svg"
         }
       ],
       [
@@ -10805,7 +10805,7 @@
           "instanceId": "kfajjU5byaX24m_Z68XmX",
           "name": "height",
           "type": "number",
-          "value": 501
+          "value": 445
         }
       ],
       [

@@ -63,10 +63,10 @@ className={`w-element c1p4jstk c1epf1wg cxtckt3 c1fni2gu cf1v9v6 c6k4006 cv2ukmp
 href={"#top"}
 className={`w-element c5ehj5z c1xsh9ye cplcfhb c1c5uzfd cjf3zq6 c1hpe72s c1ahvl7i`}>
 <Image
-src={"https://elua-chor.de/elua-logo.png"}
+src={"https://elua-chor.de/elua-logo.svg"}
 alt={"Elua"}
 width={900}
-height={501}
+height={445}
 className={`w-image c7uoxt9 c12dyd6d cbsznq7`} />
 </Link>
 <div
@@ -105,10 +105,10 @@ className={`w-element carurm8 c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla`}>
 <h1
 className={`w-element c1mmah3s c5ehj5z c10kbkik cv4xff c1kxakyg c3wpgfv c2c5k78 cc66th3 c1c5uzfd`}>
 <Image
-src={"https://elua-chor.de/elua-logo.png"}
+src={"https://elua-chor.de/elua-logo.svg"}
 alt={"Elua"}
 width={900}
-height={501}
+height={445}
 className={`w-image c7uoxt9 cstmxb7 c18lr0js`} />
 </h1>
 <p
@@ -632,10 +632,10 @@ className={`w-element c18w5uwy c1kxakyg cpyhlwk c1tzot5x crkgmla c1fni2gu ch59cs
 <p
 className={`w-element c5ehj5z c1ms36tz cplcfhb ck10si5`}>
 <Image
-src={"https://elua-chor.de/elua-logo.png"}
+src={"https://elua-chor.de/elua-logo.svg"}
 alt={"Elua"}
 width={900}
-height={501}
+height={445}
 className={`w-image c7uoxt9 cis1kp4 cbsznq7`} />
 </p>
 <div
