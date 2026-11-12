@@ -10365,6 +10365,44 @@
             "NCzSe2ei6MHzEnQ85xKn7"
           ]
         }
+      ],
+      [
+        "Ze-Dba0V55ZfmF0FzmIip",
+        {
+          "instanceId": "Ze-Dba0V55ZfmF0FzmIip",
+          "values": [
+            "pmXwQvFUrDmVwW54Rs3xi",
+            "Gk3N9LqorJVIoF6A9FTdX"
+          ]
+        }
+      ],
+      [
+        "ewp6p0f4qln7AOHT9hdPo",
+        {
+          "instanceId": "ewp6p0f4qln7AOHT9hdPo",
+          "values": [
+            "a3zCMSfG9sjVPBI1iaHqV"
+          ]
+        }
+      ],
+      [
+        "VgNVmz6JWAXuLMiWi15u-",
+        {
+          "instanceId": "VgNVmz6JWAXuLMiWi15u-",
+          "values": [
+            "XPBHBrsvXsGOkxSm0ZaBQ"
+          ]
+        }
+      ],
+      [
+        "FTvSTV9euVOKbvDdD6KGA",
+        {
+          "instanceId": "FTvSTV9euVOKbvDdD6KGA",
+          "values": [
+            "gQdqQZMEV84YWo62Ig_8X",
+            "vMLBs_o6CZYWRENZx34ii"
+          ]
+        }
       ]
     ],
     "props": [
@@ -11837,6 +11875,10 @@
             {
               "type": "id",
               "value": "nwaHrmFPWS1nN-Rfbxep9"
+            },
+            {
+              "type": "id",
+              "value": "FTvSTV9euVOKbvDdD6KGA"
             }
           ]
         }
@@ -14408,6 +14450,70 @@
             {
               "type": "id",
               "value": "X0r7ZkCylT2OeS1MbGbKU"
+            }
+          ]
+        }
+      ],
+      [
+        "Ze-Dba0V55ZfmF0FzmIip",
+        {
+          "type": "instance",
+          "id": "Ze-Dba0V55ZfmF0FzmIip",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "ewp6p0f4qln7AOHT9hdPo"
+            },
+            {
+              "type": "id",
+              "value": "VgNVmz6JWAXuLMiWi15u-"
+            }
+          ]
+        }
+      ],
+      [
+        "ewp6p0f4qln7AOHT9hdPo",
+        {
+          "type": "instance",
+          "id": "ewp6p0f4qln7AOHT9hdPo",
+          "component": "ws:element",
+          "tag": "h3",
+          "children": [
+            {
+              "type": "text",
+              "value": "Internationales Weihnachtsprogramm"
+            }
+          ]
+        }
+      ],
+      [
+        "VgNVmz6JWAXuLMiWi15u-",
+        {
+          "type": "instance",
+          "id": "VgNVmz6JWAXuLMiWi15u-",
+          "component": "ws:element",
+          "tag": "p",
+          "children": [
+            {
+              "type": "text",
+              "value": "Zur Advents- und Weihnachtszeit haben wir außerdem ein internationales Weihnachtsprogramm im Repertoire: festliche Lieder aus verschiedenen Ländern und Sprachen, a cappella gesungen."
+            }
+          ]
+        }
+      ],
+      [
+        "FTvSTV9euVOKbvDdD6KGA",
+        {
+          "type": "instance",
+          "id": "FTvSTV9euVOKbvDdD6KGA",
+          "component": "ws:element",
+          "tag": "div",
+          "children": [
+            {
+              "type": "id",
+              "value": "Ze-Dba0V55ZfmF0FzmIip"
             }
           ]
         }

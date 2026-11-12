@@ -169,6 +169,12 @@
           </ul>
         </div>
       </div>
+      <div tokens="card-row pt-sm">
+        <div tokens="card card-raised">
+          <h3 tokens="card-title">Internationales Weihnachtsprogramm</h3>
+          <p tokens="text-last">Zur Advents- und Weihnachtszeit haben wir außerdem ein internationales Weihnachtsprogramm im Repertoire: festliche Lieder aus verschiedenen Ländern und Sprachen, a cappella gesungen.</p>
+        </div>
+      </div>
     </div>
   </section>
   <footer tokens="footer">

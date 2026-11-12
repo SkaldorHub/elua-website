@@ -623,6 +623,20 @@ className={`w-element c1g9zt7d cad4b79`}>
 </ul>
 </div>
 </div>
+<div
+className={`w-element c1fni2gu ch59csv c17v894l c1410kxv ct33hin c11d589p c1h6t3jn`}>
+<div
+className={`w-element c196phoo c1yv389r c18hm1qj c18z7uhg cws4gg9 c8urlaq c1cs5b61 ccqja4s c1p1kqdz czpha7p c1t5cnht c1o81nl1 c13gg27x cifypgb c16fsc7 c1uj8qy5`}>
+<h3
+className={`w-element cfdgukb c1ln6udm c1yzhsul c1kxakyg c3wpgfv c1miagds cc66th3 c1rf84ge`}>
+{"Internationales Weihnachtsprogramm"}
+</h3>
+<p
+className={`w-element ck10si5`}>
+{"Zur Advents- und Weihnachtszeit haben wir außerdem ein internationales Weihnachtsprogramm im Repertoire: festliche Lieder aus verschiedenen Ländern und Sprachen, a cappella gesungen."}
+</p>
+</div>
+</div>
 </div>
 </section>
 <footer
